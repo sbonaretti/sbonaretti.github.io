@@ -1,7 +1,9 @@
 ---
-title: "Projects"
+title:  "Example"
+date:   2014-09-10 22:37:00
 categories: example
 ---
+
 
 * test 1   
 * test 2
