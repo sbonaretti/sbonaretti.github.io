@@ -25,4 +25,37 @@ title: "Publications"
 
 * Schulz A.P., Reimers N., Wipf F., Vallotton M., **Bonaretti S.**, Kozic N., Reyes M., Kienast B.J. **_Evidence Based Development of a Novel Lateral Fibula Plate (VariAx Fibula) Using a Real CT Bone Data Based Optimization Process During Device Development._** Open Orthop J. 6,1-7. 2012 [(pubmed)](){:target="_blank"}  
 
+# *Peer Reviewed Conference Papers*  
 
+* Kistler M., Bonaretti S., Boichon C., Rochette M., Büchler P. Methods to Accelerate Finite Element Calculations in Biomechanics Using a Statistical Database of Pre-Calculated Simulations. 10th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering. 11-14 April 2012. Berlin, Germany.   
+* Bonaretti S., Seiler C., Boichon C., Büchler P., Reyes M. Mesh-based vs. Image-based Statistical Model of Appearance of the Human Femur: a Preliminary Comparison Study for the Creation of Finite Element Meshes. Mesh Processing in Medical Image Analysis - MICCAI 2011 workshop. 18 September 2011. Toronto, Canada.  
+* Bonaretti S., Helgason B., Seiler C., Reyes M., Büchler P. Combined Statistical Model of Bone Shape and Mechanical Properties for Bone Modelling. 9th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering. 24-27 February 2010. Valencia, Spain.  
+* Bonaretti S., Reimers N., Reyes M., Nikitsin A., Joensson A., Nolte L., Büchler P. Assessment of Peri-Articular Implant Fitting Based on Statistical Finite Element Modelling. Computational Biomechanics for Medicine III – MICCAI 2008 workshop. 10 September 2008. New York, NY.  
+
+# *Conference Abstracts* 
+
+* Bonaretti S., Carballido-Gamio J., Keyak J., Saeed I., Yu L., Bruesewitz M., Burghardt A.J., Khosla S., Lang T.F. QCT Intra- and Inter-Scanner Precision In Estimation Of Proximal Femur Strength. ASBMR 2015. October 9-12, 2015. Seattle, WA, USA.   
+* Bonaretti S., Vilayphiou N., Yu A., Holets M., Nishiyama K., Liu D., Boutroy S., Ghasem-Zadeh A., Boyd S.K., Chapurlat R., McKay H., Shane E., Bouxsein M.L., Lang T.F., Khosla S., Cawton P.M., Black D.M., Majumdar S., Orwoll E.S., Burghardt A.J. Standardized Training For HR-pQCT Scan Positioning Reduces Inter-Operator Precision Errors: The MrOS Multicenter Study Experience. ASBMR 2015. October 9-12, 2015. Seattle, WA, USA.  
+* Bonaretti S., Holets M., Derrico N.P., Nishiyama K., Liu D., Boutroy S., Raymond D., Ghasem-Zadeh A., Seeman E., Boyd S.K., Chapurlat R., McKay H., Shane E., Bouxsein M.L., Lang T.F., Khosla S., Burghardt A.J. The Role of Intra- and Inter-Operator Variability in HR-pQCT Precision. IBDW 2014. October 13-17, 2014. Hong Kong.  
+* Carballido-Gamio J., Bonaretti S., Kazakia G.J., Khosla S., Lang T.F., Burghardt A.J. Population-Based Local Multi-Parametric Comparisons of HR-pQCT Studies. IBDW 2014. October 13-17, 2014. Hong Kong.  
+Bonaretti S., Holets M., Derrico N.P., Nishiyama K., Liu D., Boutroy S., Chapurlat R., McKay H., Shane E., Bouxsein M., Lang T., Khosla S., Burghardt A.J. Intra- and Inter-Operator Variability in HR-pQCT Scan Positioning. ASBMR 2014. September 12-15, 2014. Houston, TX, USA.
+Bonaretti S., Holets M., Saeed I., McCready L., Lang T., Khosla S., Burghardt A.J. Comparability of HR-pQCT Bone Quality Measures Improved by Scanning Anatomically Standardized Regions. ASBMR 2014. September 12-15, 2014. Houston, TX, USA.
+Carballido-Gamio J., Bonaretti S., Saeed I., Harnish R., Recker R., Burghardt A.J., Keyak J., Harris T., Khosla S., Lang T. Automatic QCT Quantification of the Proximal Femur: vBMD, Bone Volume, Cortical Bone Thickness and Finite Element Modeling. ASBMR 2014. September 12-15, 2014. Houston, TX, USA.
+Ghasem-Zadeh A., Burghardt A.J., Zendeli A., Bonaretti S., Bjornerem A., Wang X.-F., Kazakia G., Zebaze R., Seeman E. Assessing Age, Sex and Racial Differences in Cortical Porosity Requires Adjustment for Site-Specific Variation in the Selected Region of Interest. ASBMR 2014. September 12-15, 2014. Houston, TX, USA.
+Bonaretti S., Saeed I., Burghardt A.J., Yu L., Bruesewitz M., Khosla S., Lang T.F. Effect of Body Size on the Quantification of Bone Mineral Density From QCT Images Using a Novel Anthropomorphic Hip Phantom. ASBMR 2013. October 4-7, 2013. Baltimore, MD, USA. 
+Carballido-Gamio J., Bonaretti S., Holets M., Saeed I., McCready L., Majumdar S., Lang T.F., Khosla S., Burghardt A.J. Automated Scan Prescription For HR-pQCT: A Multi-Atlas Prospective Registration Approach. ASBMR 2013. October 4-7, 2013. Baltimore, MD, USA.
+Kistler M., Bonaretti S., de Oliveira M.E., Boichon C., Rochette M., Büchler P. Statistical Model of Appearance to Accelerate Finite Element Calculations in Biomechanics. 19th Congress of the European Society of Biomechanics. 1-4 July 2012. Lisbon, Portugal.
+de Oliveira M.E., Kistler M., Hellmuth, R.A.D, Gerber N., Schumann S., Bonaretti S., Büchler P. A Consistent Method for Modelling Subject Specific Muscoloskeletal Systems. 19th Congress of the European Society of Biomechanics. 1-4 July 2012. Lisbon, Portugal. 
+Sigurðardóttir B., Bonaretti S., Örlygsson G., Sigurjónsson Ó.E., Ferguson S.J., Helgason B. Are Iso-Elastic Femoral Stems Beneficial for Secondary Implant Stability in Cementless THA? The Annual Meeting of the Swiss Society for Biomedical Engineering. 22 August 2011. Bern, Switzerland. 
+Bonaretti S., Helgason B., Seiler C., Reyes M., Büchler P. A Statistical Shape Model of Bone Anatomical Variability for Finite Element Assessment of Bone Mechanics. 17th Congress of the European Society of Biomechanics. 5-8 July 2010. Edinburgh, Scotland. 
+Bonaretti S., Seiler C.,  Büchler P., Reyes M. Computing Average Anatomical Images: Comparison between Thin-Plate Spline and Log-Euclidean Approach. The Annual Meeting of the Swiss Society for Biomedical Engineering. 27-28 August 2009. Bern, Switzerland. 
+Bonaretti S., Büchler P., Reimers N., Schmidt W., Seiler C., Weber S., Reyes M. Automatic Bone Density Evaluation from CT Images. Computer Assisted Orthopaedic Surgery. 17-20 June 2009. Boston, MA. 
+Bonaretti S., Reimers N., Rueckert D., Reyes M., Gonzales-Ballester M.A., Büchler P. Statistical Finite Element Analysis for Bone Modelling. 16th Congress of the European Society of Biomechanics. 6-9 July 2008. Lucerne, Switzerland. 
+Burdo S., Razza S., Bonaretti S., Bani Alunno M., Tognola G. Cortical Responses and Age at Cochlear Implant. Objective Measures in Cochlear and Brainstem Implants – V International Symposium and Related Additional Events. 9-12 May 2007. Varese, Italy. 
+Razza S., Bonaretti S., Burdo S. Acoustical Signal Check: Microphone Integrity Evaluation Through a Common Hearing Aid Analyzer. Objective Measures in Cochlear and Brainstem Implants – V International Symposium and Related Additional Events. 9-12 May 2007. Varese, Italy. 
+Brega F., Razza S., Bonaretti S., Burdo S. Morphological and Functional Correlation Using XRay and Soe. Objective Measures in Cochlear and Brainstem Implants – V International Symposium and Related Additional Events. 9-12 May 2007. Varese, Italy. ​
+
+Thesis
+Bonaretti S. Statistical Models of Shape and Density for Population-based Analysis of Bone Mechanics with Applications to Fracture Risk Assessment and Implant Design. Ph.D. thesis. 2011. (.pdf)
+﻿Bonaretti S. Metodiche di Analisy 2D e 3D per la Segmentazione e la Ricostruzione di Immagini TAC: Validazione e Applicazione in Chirurgia Maxillo-Facciale. M.Sc. thesis. 2005.﻿ (.pdf Italian version)
+﻿Bonaretti S. Dossier Finale. B.Sc. thesis. 2003. ﻿(.pdf Italian version) 
