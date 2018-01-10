@@ -7,7 +7,7 @@ title:  "Publications"
 
 * **Bonaretti S.**, Vilayphiou N., Chan C. M., Yu A.,  Nishiyama K., Liu D., Boutroy S., Ghasem-Zadeh A., Boyd S.K., Chapurlat R., McKay H., Shane E., Bouxsein M.L., Black D.M., Majumdar S., Orwoll E.S., Lang T.F., Khosla S., Burghardt A.J. **_Operator variability In Scan Positioning is a Major Component of HR-pQCT Precision Error and is Reduced by Standardized Training._** Osteoporos Int. 28(1), 245-257. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/27475931){:target="_blank"}    
 
-* **Bonaretti S.**, Majumdar S., Lang T.F., Khosla S., Burghardt A.J.  **_The Comparability of HR-pQCT Bone Quality Measures Is Improved by Scanning Anatomically Standardized Regions. Osteoporos Int._** 28(7), 2115-2128. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28391447){:target="_blank"} 
+* **Bonaretti S.**, Majumdar S., Lang T.F., Khosla S., Burghardt A.J.  **_The Comparability of HR-pQCT Bone Quality Measures Is Improved by Scanning Anatomically Standardized Regions._** Osteoporos Int. 28(7), 2115-2128. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28391447){:target="_blank"} 
 
 Carballido-Gamio J., Bonaretti S., Kazakia G.J., Khosla S., Majumdar S., Lang T.F., Burghardt A.J. Statistical Paramentric Mapping of HR-pQCT Images: A Tool for Population-Based Comparison of Micro-Scale Bone Features. Ann Biomed Eng. 45(5), 949-962. 2017. (pubmed)
 Ghasem-Zadeh A., Burghardt A.J., Wang X.F., Iuliano S., Bonaretti S., Bui Q.M., Zebaze R., Seeman E. Quantifying Sex, Race and Age Specific Differences in Bone Microstructure Requires Measurement of Anatomically Equivalent Regions. Bone. 101, 206-213. 2017. (pubmed)
