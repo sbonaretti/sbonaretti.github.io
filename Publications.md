@@ -3,8 +3,9 @@ title:  "Publications"
 ---
 
 
-**Journal Papers**   
-_Bonaretti S._, Vilayphiou N., Chan C. M., Yu A.,  Nishiyama K., Liu D., Boutroy S., Ghasem-Zadeh A., Boyd S.K., Chapurlat R., McKay H., Shane E., Bouxsein M.L., Black D.M., Majumdar S., Orwoll E.S., Lang T.F., Khosla S., Burghardt A.J. _Operator variability In Scan Positioning is a Major Component of HR-pQCT Precision Error and is Reduced by Standardized Training._ Osteoporos Int. 28(1), 245-257. 2017. (pubmed)   
+#*Journal Papers*   
+
+*Bonaretti S.*, Vilayphiou N., Chan C. M., Yu A.,  Nishiyama K., Liu D., Boutroy S., Ghasem-Zadeh A., Boyd S.K., Chapurlat R., McKay H., Shane E., Bouxsein M.L., Black D.M., Majumdar S., Orwoll E.S., Lang T.F., Khosla S., Burghardt A.J. *_Operator variability In Scan Positioning is a Major Component of HR-pQCT Precision Error and is Reduced by Standardized Training._* Osteoporos Int. 28(1), 245-257. 2017. (pubmed)   
 
 Bonaretti S., Majumdar S., Lang T.F., Khosla S., Burghardt A.J.  The Comparability of HR-pQCT Bone Quality Measures Is Improved by Scanning Anatomically Standardized Regions. Osteoporos Int. 28(7), 2115-2128. 2017.  (pubmed)  
 
