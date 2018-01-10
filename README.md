@@ -6,5 +6,5 @@ The layout of index.html is in xxx
 The layout of the x.md pages is in xxx  
 
 Changes from the original layout:  
-- /_sass/basic.sass: line-height: 1.65 -> 1.40
+- /_sass/basic.sass: body.line-height: 1.65 -> 1.40
 
