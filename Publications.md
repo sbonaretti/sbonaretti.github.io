@@ -15,7 +15,7 @@ title: "Publications"
 
 * Ghasem-Zadeh A., Burghardt A.J., Wang X.F., Iuliano S., **Bonaretti S.**, Bui Q.M., Zebaze R., Seeman E. **_Quantifying Sex, Race and Age Specific Differences in Bone Microstructure Requires Measurement of Anatomically Equivalent Regions._** Bone. 101, 206-213. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28502884 ){:target="_blank"}    
 
-* Carballido-Gamio J., **Bonaretti S.**, Saeed I., Harnish R., Recker R., Burghardt A.J., Keyak J.H., Harris T., Khosla S., Lang T.F. **_Automatic Multi-Parametric Quantification of the Proximal Femur with QCT._** Quant Imaging Med Surg. 5(4), 552-68. 2015. [(pubmed)](http://qims.amegroups.com/article/view/7176/7974){:target="_blank"}   
+* Carballido-Gamio J., **Bonaretti S.**, Saeed I., Harnish R., Recker R., Burghardt A.J., Keyak J.H., Harris T., Khosla S., Lang T.F. **_Automatic Multi-Parametric Quantification of the Proximal Femur with QCT._** Quant Imaging Med Surg. 5(4), 552-68. 2015. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/26435919){:target="_blank"}   
 
 * **Bonaretti S.**, Carpenter D.R., Saeed I., Burghardt A.J., Yu L., Bruesewitz M., Khosla S., Lang T. **_Novel Anthropomorphic Hip Phantom Corrects Systemic Interscanner Differences in Proximal Femoral vBMD._** Phys Med Biol. 59(24), 7819-34. 2014. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/25419618){:target="_blank"}    
 
@@ -23,7 +23,7 @@ title: "Publications"
 
 * **Bonaretti S.**, Seiler C., Boichon C., Reyes M., Büchler P. **_Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations._** Med Eng and Phys, 2014. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/25271191){:target="_blank"}    
 
-* Kistler M., **Bonaretti S.**, Pfahrer M., Niklaus R., Büchler P. **_The Virtual Skeleton Database: An Open Access Repository for Biomedical Research and Collaboration._** J Med Internet Res. 12;15(11):e245. 2013. [(pubmed)](http://www.jmir.org/2013/11/e245/){:target="_blank"}    
+* Kistler M., **Bonaretti S.**, Pfahrer M., Niklaus R., Büchler P. **_The Virtual Skeleton Database: An Open Access Repository for Biomedical Research and Collaboration._** J Med Internet Res. 12;15(11):e245. 2013. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/24220210){:target="_blank"}    
 
 * Schulz A.P., Reimers N., Wipf F., Vallotton M., **Bonaretti S.**, Kozic N., Reyes M., Kienast B.J. **_Evidence Based Development of a Novel Lateral Fibula Plate (VariAx Fibula) Using a Real CT Bone Data Based Optimization Process During Device Development._** Open Orthop J. 6,1-7. 2012 [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/22312417 ){:target="_blank"}  
 
