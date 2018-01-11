@@ -27,9 +27,9 @@ _Conference abstracts_
 # Standardization of QCT for Bone Quality Assessment
 QCT inter-scanner variability is still a big challenge. We aimed to find cross-calibration laws using a novel anthropomorphic hip phantom.
 
-## **PI: Thomas Lang (UCSF)**
+**PI: Thomas Lang (UCSF)**
 
-## **Publications**
+**Publications**
 
 _Journal Papers_
 
@@ -52,9 +52,9 @@ _Conference abstracts_
 
 In multicenter studies, standardization of acquisition procedures is fundamental for data comparison. In this project, we aimed to standardize the definition of the volume of interest and the measurement of bone mineral density.
 
-## **PI: Andrew J. Burghardt (UCSF)**
+**PI: Andrew J. Burghardt (UCSF)**
 
-## **Publications**
+**Publications**
 
 _Journal Papers_
 
@@ -78,10 +78,10 @@ _Conference Abstracts_
 
 * Carballido-Gamio J., **Bonaretti S.**, Holets M., Saeed I., McCready L., Majumdar S., Lang T.F., Khosla S., Burghardt A.J. **_Automated Scan Prescription For HR-pQCT: A Multi-Atlas Prospective Registration Approach._** ASBMR 2013. October 4-7, 2013. Baltimore, MD, USA.  
 
-## **Invited Talk**  
+**Invited Talk**  
 **_Intra- and Inter-Operator Variability in HR-pQCT Scan Positioning_**. 2nd XtremeCT User Meeting. September 16, 2014. ASBMR 2014. Houston, TX, USA.  
 
-## **Webapp**  
+**Webapp**  
 We developed a webapp to train and evaluate HR-pQCT operators when determining the region of interest by positioning the reference line on scout view images (webapp)  
 
 
