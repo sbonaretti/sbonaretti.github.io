@@ -31,7 +31,7 @@ title: "Teaching"
 # Introduction to Bioengineering Research (BIOE 390)
 **2016. Guest Lecturer. Stanford University, USA**
 
-* Weight-bearing imaging of the knee using C-arm CT”
+* Weight-bearing imaging of the knee using C-arm CT
 
 ---
 
@@ -51,4 +51,4 @@ title: "Teaching"
 **2009. Guest Lecturer. ETH Zürich, Switzerland**  
 **2009. Guest Lecturer. University of Bern, Switzerland**
 
-* Statistical Shape Models”
+* Statistical Shape Models
