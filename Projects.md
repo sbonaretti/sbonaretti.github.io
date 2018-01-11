@@ -7,7 +7,13 @@ Development of an automatic method for knee cartilage segmentation.
 
 **PIs: [Gary Beaupre](http://pavir.org/means/researchers/gary-s-beaupre-ph-d/){:target="_blank"} (Department of Veterans Affairs Palo Alto) and [Garry Gold](https://med.stanford.edu/profiles/garry-gold){:target="_blank"} (Stanford University)** 
 
+**Publications**
 
+* Coming soon
+
+**Code**
+
+* Coming soon
 
 ---
 
