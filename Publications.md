@@ -69,32 +69,32 @@ title: "Publications"
 
 * Carballido-Gamio J., **Bonaretti S.**, Holets M., Saeed I., McCready L., Majumdar S., Lang T.F., Khosla S., Burghardt A.J. **_Automated Scan Prescription For HR-pQCT: A Multi-Atlas Prospective Registration Approach._** ASBMR 2013. October 4-7, 2013. Baltimore, MD, USA.  
 
-1. * Kistler M., **Bonaretti S.**, de Oliveira M.E., Boichon C., Rochette M., Büchler P. **_Statistical Model of Appearance to Accelerate Finite Element Calculations in Biomechanics._** 19th Congress of the European Society of Biomechanics. 1-4 July 2012. Lisbon, Portugal.  
+* Kistler M., **Bonaretti S.**, de Oliveira M.E., Boichon C., Rochette M., Büchler P. **_Statistical Model of Appearance to Accelerate Finite Element Calculations in Biomechanics._** 19th Congress of the European Society of Biomechanics. 1-4 July 2012. Lisbon, Portugal.  
 
-2. * de Oliveira M.E., Kistler M., Hellmuth, R.A.D, Gerber N., Schumann S., **Bonaretti S.**, Büchler P. **_A Consistent Method for Modelling Subject Specific Muscoloskeletal Systems._** 19th Congress of the European Society of Biomechanics. 1-4 July 2012. Lisbon, Portugal.  
+* de Oliveira M.E., Kistler M., Hellmuth, R.A.D, Gerber N., Schumann S., **Bonaretti S.**, Büchler P. **_A Consistent Method for Modelling Subject Specific Muscoloskeletal Systems._** 19th Congress of the European Society of Biomechanics. 1-4 July 2012. Lisbon, Portugal.  
 
-3. * Sigurðardóttir B., **Bonaretti S.**, Örlygsson G., Sigurjónsson Ó.E., Ferguson S.J., Helgason B. **_Are Iso-Elastic Femoral Stems Beneficial for Secondary Implant Stability in Cementless THA? The Annual Meeting of the Swiss Society for Biomedical Engineering._** 22 August 2011. Bern, Switzerland.  
+* Sigurðardóttir B., **Bonaretti S.**, Örlygsson G., Sigurjónsson Ó.E., Ferguson S.J., Helgason B. **_Are Iso-Elastic Femoral Stems Beneficial for Secondary Implant Stability in Cementless THA? The Annual Meeting of the Swiss Society for Biomedical Engineering._** 22 August 2011. Bern, Switzerland.  
 
-4.	**Bonaretti S.**, Seiler C., Rochette M., Helgason B., Reyes M., Büchler P. **_Statistical Finite Element Model for the Virtual Skeleton Database. NCCR Co-Me Scientific Advisory Board Meeting. 9-10 February 2011. Interlaken, Switzerland.
+* **Bonaretti S.**, Seiler C., Rochette M., Helgason B., Reyes M., Büchler P. **_Statistical Finite Element Model for the Virtual Skeleton Database. NCCR Co-Me Scientific Advisory Board Meeting. 9-10 February 2011. Interlaken, Switzerland.
 
-5.	**Bonaretti S.**, Helgason B., Seiler C., Reyes M., Büchler P. **_Statistical Finite Element Modeling: Application to Orthopaedic Implant Design. Graduate School for Cellular and Biomedical Sciences Symposium._** 28 January 2011. Bern, Switzerland.  
+* **Bonaretti S.**, Helgason B., Seiler C., Reyes M., Büchler P. **_Statistical Finite Element Modeling: Application to Orthopaedic Implant Design. Graduate School for Cellular and Biomedical Sciences Symposium._** 28 January 2011. Bern, Switzerland.  
 
-6.	**Bonaretti S.**, Seiler C., Reyes M., Büchler P. **_Statistical Finite Element Modeling for the Virtual Skeleton Database. NCCR Co-Me Research Networking Workshop._** 26-27 August 2010. Zürich, Switzerland. 
+* **Bonaretti S.**, Seiler C., Reyes M., Büchler P. **_Statistical Finite Element Modeling for the Virtual Skeleton Database. NCCR Co-Me Research Networking Workshop._** 26-27 August 2010. Zürich, Switzerland. 
 
-7. * **Bonaretti S.**, Helgason B., Seiler C., Reyes M., Büchler P. **_A Statistical Shape Model of Bone Anatomical Variability for Finite Element Assessment of Bone Mechanics._** 17th Congress of the European Society of Biomechanics. 5-8 July 2010. Edinburgh, Scotland.  
+* **Bonaretti S.**, Helgason B., Seiler C., Reyes M., Büchler P. **_A Statistical Shape Model of Bone Anatomical Variability for Finite Element Assessment of Bone Mechanics._** 17th Congress of the European Society of Biomechanics. 5-8 July 2010. Edinburgh, Scotland.  
 
-8.	**Bonaretti S.**, Seiler C., Helgason B., Reyes M., Büchler P. **_Statistical Finite Element Modeling for the Virtual Skeleton Database._** NCCR Co-Me Scientific Advisory Board Meeting. 19-20 February 2010. Winterthur, Switzerland. 
+* **Bonaretti S.**, Seiler C., Helgason B., Reyes M., Büchler P. **_Statistical Finite Element Modeling for the Virtual Skeleton Database._** NCCR Co-Me Scientific Advisory Board Meeting. 19-20 February 2010. Winterthur, Switzerland. 
 
-9.	**Bonaretti S.**, Helgason B., Seiler C., Reyes M., Büchler P. **_A Statistical Shape Model of Bone Anatomical Variability for Finite Element Assessment of Bone Mechanics._** Graduate School for Cellular and Biomedical Sciences Symposium. 27 January 2010. Bern, Switzerland. 
+* **Bonaretti S.**, Helgason B., Seiler C., Reyes M., Büchler P. **_A Statistical Shape Model of Bone Anatomical Variability for Finite Element Assessment of Bone Mechanics._** Graduate School for Cellular and Biomedical Sciences Symposium. 27 January 2010. Bern, Switzerland. 
 
-10. * **Bonaretti S.**, Seiler C.,  Büchler P., Reyes M. **_Computing Average Anatomical Images: Comparison between Thin-Plate Spline and Log-Euclidean Approach._** The Annual Meeting of the Swiss Society for Biomedical Engineering. 27-28 August 2009. Bern, Switzerland.  
+* **Bonaretti S.**, Seiler C.,  Büchler P., Reyes M. **_Computing Average Anatomical Images: Comparison between Thin-Plate Spline and Log-Euclidean Approach._** The Annual Meeting of the Swiss Society for Biomedical Engineering. 27-28 August 2009. Bern, Switzerland.  
 
-11. * **Bonaretti S.**, Büchler P., Reimers N., Schmidt W., Seiler C., Weber S., Reyes M. **_Automatic Bone Density Evaluation from CT Images._** Computer Assisted Orthopaedic Surgery. 17-20 June 2009. Boston, MA.  
+* **Bonaretti S.**, Büchler P., Reimers N., Schmidt W., Seiler C., Weber S., Reyes M. **_Automatic Bone Density Evaluation from CT Images._** Computer Assisted Orthopaedic Surgery. 17-20 June 2009. Boston, MA.  
 
-12.	**Bonaretti S.**, Nikitsin A., Reimers N., Joensson A., Rueckert D., Reyes M., Büchler P. **_Shape and Biomechanical Model for Population-Specific Design of Anatomical Peri-Articular Implants._** CTI Medtech Event. 2 September 2008. Bern, Switzerland. 
+*	**Bonaretti S.**, Nikitsin A., Reimers N., Joensson A., Rueckert D., Reyes M., Büchler P. **_Shape and Biomechanical Model for Population-Specific Design of Anatomical Peri-Articular Implants._** CTI Medtech Event. 2 September 2008. Bern, Switzerland. 
 
-13. * **Bonaretti S.**, Reimers N., Rueckert D., Reyes M., Gonzales-Ballester M.A., Büchler P. **_Statistical Finite Element Analysis for Bone Modelling._** 16th Congress of the European Society of Biomechanics. 6-9 July 2008. Lucerne, Switzerland.  
-14.	**Bonaretti S.**, Büchler P., Rueckert D., Reyes M., Gonzáles M.A., **_Statistical Finite Element Model for Bone and Implant Modeling._** NCCR Co-Me Scientific Advisory Board Meeting. 14 February 2008. Neuchatel, Switzerland. 
+* **Bonaretti S.**, Reimers N., Rueckert D., Reyes M., Gonzales-Ballester M.A., Büchler P. **_Statistical Finite Element Analysis for Bone Modelling._** 16th Congress of the European Society of Biomechanics. 6-9 July 2008. Lucerne, Switzerland.  
+*	**Bonaretti S.**, Büchler P., Rueckert D., Reyes M., Gonzáles M.A., **_Statistical Finite Element Model for Bone and Implant Modeling._** NCCR Co-Me Scientific Advisory Board Meeting. 14 February 2008. Neuchatel, Switzerland. 
 
 * Burdo S., Razza S., **Bonaretti S.**, Bani Alunno M., Tognola G. **_Cortical Responses and Age at Cochlear Implant._** Objective Measures in Cochlear and Brainstem Implants – V International Symposium and Related Additional Events. 9-12 May 2007. Varese, Italy.  
 
