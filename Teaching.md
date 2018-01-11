@@ -33,7 +33,7 @@ title: "Teaching"
 ---
 
 
-# Image Processing and Analysis II ()
+# Image Processing and Analysis II (BI 265)
 **2015.	Guest Lecturer. University of California San Francisco, USA**
 
 * Active shape and appearance modeling in medical imaging
@@ -41,7 +41,7 @@ title: "Teaching"
 ---
 
 
-# Musculoskeletal Imaging ()
+# Musculoskeletal Imaging (BI 240)
 **2014, 2015. Guest Lecturer. University of California San Francisco, USA**
 
 * Assessment of Bone Strength - Foundations of FE and microFE
