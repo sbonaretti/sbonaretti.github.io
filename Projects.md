@@ -5,7 +5,7 @@ title:  "Projects"
 # Automatic Segmentation of Knee Cartilage
 Development of an automatic method for knee cartilage segmentation.
 
-**PI: [Gary Beaupre](http://pavir.org/means/researchers/gary-s-beaupre-ph-d/){:target="_blank"} (Stanford University)**
+**PI: [Gary Beaupre](http://pavir.org/means/researchers/gary-s-beaupre-ph-d/){:target="_blank"} (Veteran Affairs Palo Alto)**
 
 
 
