@@ -2,14 +2,21 @@
 title: "Teaching"
 ---
 
+
+---
+
+
 #  Orthopaedic Bioengineering  
 **2017. Co-instructor 50%. Stanford University, USA**
 
 **Slides**
 
-* Bone anatomy  
-
-* Bone Physiology
+* Bone Anatomy and Physiology  
+* Bone Mechanics I  
+* Bone Mechanics II  
+* Bone Imaging I  
+* Bone Imaging II  
+* Bone Quality and Fracture
 
 
 04.2017 - 06.2017	Co-instructor (50%), Orthopaedic Bioengineering, Stanford University, USA
