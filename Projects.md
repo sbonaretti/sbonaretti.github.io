@@ -57,11 +57,11 @@ _Conference Abstracts_
 
 * Bonaretti S., Holets M., Saeed I., McCready L., Lang T., Khosla S., Burghardt A.J. Comparability of HR-pQCT Bone Quality Measures Improved by Scanning Anatomically Standardized Regions. ASBMR 2014. September 12-15, 2014. Houston, TX, USA.
 
-* Carballido-Gamio J., Bonaretti S., Holets M., Saeed I., McCready L., Majumdar S., Lang T.F., Khosla S., Burghardt A.J. Automated Scan Prescription For HR-pQCT: A Multi-Atlas Prospective Registration Approach. ASBMR 2013. October 4-7, 2013. Baltimore, MD, USA.
+* Carballido-Gamio J., Bonaretti S., Holets M., Saeed I., McCready L., Majumdar S., Lang T.F., Khosla S., Burghardt A.J. Automated Scan Prescription For HR-pQCT: A Multi-Atlas Prospective Registration Approach. ASBMR 2013. October 4-7, 2013. Baltimore, MD, USA.  
 
-**Invited Talk**
-Intra- and Inter-Operator Variability in HR-pQCT Scan Positioning. 2nd XtremeCT User Meeting. September 16, 2014. ASBMR 2014. Houston, TX, USA.
+**Invited Talk**  
+Intra- and Inter-Operator Variability in HR-pQCT Scan Positioning. 2nd XtremeCT User Meeting. September 16, 2014. ASBMR 2014. Houston, TX, USA.  
 
-**Webapp**
-We developed a webapp to train and evaluate HR-pQCT operators when determining the region of interest by positioning the reference line on scout view images (webapp)​
+**Webapp**  
+We developed a webapp to train and evaluate HR-pQCT operators when determining the region of interest by positioning the reference line on scout view images (webapp)  
 
