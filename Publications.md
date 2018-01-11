@@ -24,6 +24,9 @@ title: "Publications"
 
 * Schulz A.P., Reimers N., Wipf F., Vallotton M., **Bonaretti S.**, Kozic N., Reyes M., Kienast B.J. **_Evidence Based Development of a Novel Lateral Fibula Plate (VariAx Fibula) Using a Real CT Bone Data Based Optimization Process During Device Development._** Open Orthop J. 6,1-7. 2012 [(pubmed)](){:target="_blank"}  
 
+---
+
+
 
 # *Peer Reviewed Conference Papers*  
 
@@ -34,6 +37,9 @@ title: "Publications"
 * **Bonaretti S.**, Helgason B., Seiler C., Reyes M., Büchler P. **_Combined Statistical Model of Bone Shape and Mechanical Properties for Bone Modelling. 9th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering._** 24-27 February 2010. Valencia, Spain.  
 
 * **Bonaretti S.**, Reimers N., Reyes M., Nikitsin A., Joensson A., Nolte L., Büchler P. **_Assessment of Peri-Articular Implant Fitting Based on Statistical Finite Element Modelling._** Computational Biomechanics for Medicine III – MICCAI 2008 workshop. 10 September 2008. New York, NY.  
+
+---
+
 
 
 # *Conference Abstracts* 
@@ -76,6 +82,9 @@ title: "Publications"
 * Razza S., **Bonaretti S.**, Burdo S. **_Acoustical Signal Check: Microphone Integrity Evaluation Through a Common Hearing Aid Analyzer._** Objective Measures in Cochlear and Brainstem Implants – V International Symposium and Related Additional Events. 9-12 May 2007. Varese, Italy.  
 
 * Brega F., Razza S., **Bonaretti S.**, Burdo S. **_Morphological and Functional Correlation Using XRay and Soe._** Objective Measures in Cochlear and Brainstem Implants – V International Symposium and Related Additional Events. 9-12 May 2007. Varese, Italy. 
+
+---
+
 
 
 # *Thesis*
