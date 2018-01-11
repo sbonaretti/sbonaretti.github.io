@@ -35,7 +35,7 @@ title: "Publications"
 
 * Kistler M., **Bonaretti S.**, Boichon C., Rochette M., Büchler P. **_Methods to Accelerate Finite Element Calculations in Biomechanics Using a Statistical Database of Pre-Calculated Simulations._** 10th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering. 11-14 April 2012. Berlin, Germany.   
 
-* **Bonaretti S.**, Seiler C., Boichon C., Büchler P., Reyes M. Mesh-based vs. **_Image-based Statistical Model of Appearance of the Human Femur: a Preliminary Comparison Study for the Creation of Finite Element Meshes._** Mesh Processing in Medical Image Analysis - MICCAI 2011 workshop. 18 September 2011. Toronto, Canada.  
+* **Bonaretti S.**, Seiler C., Boichon C., Büchler P., Reyes M. **_Mesh-based vs. Image-based Statistical Model of Appearance of the Human Femur: a Preliminary Comparison Study for the Creation of Finite Element Meshes._** Mesh Processing in Medical Image Analysis - MICCAI 2011 workshop. 18 September 2011. Toronto, Canada.  
 
 * **Bonaretti S.**, Helgason B., Seiler C., Reyes M., Büchler P. **_Combined Statistical Model of Bone Shape and Mechanical Properties for Bone Modelling. 9th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering._** 24-27 February 2010. Valencia, Spain.  
 
