@@ -15,7 +15,7 @@ style:
   padding: 3 # factor for the padding width
   articles: 'stripe' # 'light' 'dark' and 'stripe' possible
   nav: "#222" # color of the header and footer
-  # uppercase: true # use uppercase text for headings
+  uppercase: true # use uppercase text for headings
   margin: 0% # increase to add a margin to the left and right side
   margincolor: "#f0f0f0" # only relevant if margin is non-zero
 
