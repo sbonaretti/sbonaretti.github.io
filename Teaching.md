@@ -2,6 +2,15 @@
 title: "Teaching"
 ---
 
+# 2017 Orthopaedic Bioengineering (Co-instructor 50% - Stanford University, USA)
+
+**Slides**
+
+* Bone anatomy  
+
+* Bone Physiology
+
+
 04.2017 - 06.2017	Co-instructor (50%), Orthopaedic Bioengineering, Stanford University, USA
 	Lectures on bone anatomy, physiology, mechanics, imaging, and diseases. Laboratory in bone fixation
 01.2017	Guest Lecturer, Clinical Needs and Technology, Stanford University, USA
