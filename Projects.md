@@ -90,11 +90,11 @@ My PhD project aimed to create a statistical appearance model of femur for finit
 
 _Journal Papers_
 
-* **Bonaretti S.**, Seiler C., Boichon C.,  Reyes M., Büchler P. **_Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations._** Medical Engineering and Physics, 2014. (pubmed)  
+* **Bonaretti S.**, Seiler C., Boichon C.,  Reyes M., Büchler P. **_Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations._** Medical Engineering and Physics, 2014. [(pubmed)](){:target="_blank"}    
 
-* Kistler M., **Bonaretti S.**, Pfahrer M., Niklaus R., Büchler P. **_The Virtual Skeleton Database: An Open Access Repository for Biomedical Research and Collaboration._** J Med Internet Res. 12;15(11):e245. 2013. (pubmed)  
+* Kistler M., **Bonaretti S.**, Pfahrer M., Niklaus R., Büchler P. **_The Virtual Skeleton Database: An Open Access Repository for Biomedical Research and Collaboration._** J Med Internet Res. 12;15(11):e245. 2013. [(pubmed)](){:target="_blank"}    
 
-* Schulz A.P., Reimers N., Wipf F., Vallotton M., **Bonaretti S.**, Kozic N., Reyes M., Kienast B.J. **_Evidence Based Development of a Novel Lateral Fibula Plate (VariAx Fibula) Using a Real CT Bone Data Based Optimization Process During Device Development._** Open Orthop J. 6,1-7. 2012 (pubmed)
+* Schulz A.P., Reimers N., Wipf F., Vallotton M., **Bonaretti S.**, Kozic N., Reyes M., Kienast B.J. **_Evidence Based Development of a Novel Lateral Fibula Plate (VariAx Fibula) Using a Real CT Bone Data Based Optimization Process During Device Development._** Open Orthop J. 6,1-7. 2012 [(pubmed)](){:target="_blank"}  
 
 _Conference Papers_
 
