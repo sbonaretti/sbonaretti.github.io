@@ -6,7 +6,7 @@ title:  "Projects"
 # Weight-Bearing Imaging of the Knee Using C-Arm CT 
 Development of a novel weight-bearing C-Arm CT system to expand understanding of cartilage mechanical stresses and to provide quantitative measures of knee joint health.
 
-**PI: Garry Gold (Stanford University)**
+**PI: [Garry Gold](https://med.stanford.edu/profiles/garry-gold){:target="_blank"} (Stanford University)** 
 
 **Publications**
 
@@ -14,6 +14,9 @@ _Journal Papers_
 
 * Maier J., Black M., **Bonaretti S.**, Bier B., Eskofier B., Choi J.H. Levenston M., Gold G., Fahrig R., Maier A. **_Comparison of Different Approaches for Measuring Tibial Cartilage Thickness._** J Integr Bioinform. 14(2),1-10. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28753537){:target="_blank"}  
 
+_Conference abstracts_
+
+* Bier B., Berger M., Maier J., Unberath M., Hsieh S., **Bonaretti S.**, Fahrig R., Levenston M., Gold G., Maier A. **_Object Removal in Gradient Domain of Cone-Beam CT Projections._** IEEE Nuclear Science Symposium & Medical Imaging Conference. 29 October – 5 November 2016. Strasbourg, France.
 ---
 
 
