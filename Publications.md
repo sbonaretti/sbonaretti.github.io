@@ -11,7 +11,7 @@ title: "Publications"
 
 * <ins>Bonaretti S.</ins>, Majumdar S., Lang T.F., Khosla S., Burghardt A.J.  **_The Comparability of HR-pQCT Bone Quality Measures Is Improved by Scanning Anatomically Standardized Regions._** Osteoporos Int. 28(7), 2115-2128. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28391447){:target="_blank"} 
 
-* Carballido-Gamio J., <ins>Bonaretti S.</ins>, Kazakia G.J., Khosla S., Majumdar S., Lang T.F., Burghardt A.J. **_Statistical Paramentric Mapping of HR-pQCT Images: A Tool for Population-Based Comparison of Micro-Scale Bone Features._** Ann Biomed Eng. 45(5), 949-962. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/27830488 ){:target="_blank"}     
+* Carballido-Gamio J., <ins>Bonaretti S.</ins>, Kazakia G.J., Khosla S., Majumdar S., Lang T.F., Burghardt A.J. **_Statistical Parametric Mapping of HR-pQCT Images: A Tool for Population-Based Comparison of Micro-Scale Bone Features._** Ann Biomed Eng. 45(5), 949-962. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/27830488 ){:target="_blank"}     
 
 * Ghasem-Zadeh A., Burghardt A.J., Wang X.F., Iuliano S., <ins>Bonaretti S.</ins>, Bui Q.M., Zebaze R., Seeman E. **Quantifying Sex, Race and Age Specific Differences in Bone Microstructure Requires Measurement of Anatomically Equivalent Regions.** Bone. 101, 206-213. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28502884 ){:target="_blank"}    
 
