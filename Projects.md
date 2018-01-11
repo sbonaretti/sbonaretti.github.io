@@ -90,27 +90,27 @@ My PhD project aimed to create a statistical appearance model of femur for finit
 
 _Journal Papers_
 
-**Bonaretti S.**, Seiler C., Boichon C.,  Reyes M., Büchler P. Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations. Medical Engineering and Physics, 2014. (pubmed)  
+* **Bonaretti S.**, Seiler C., Boichon C.,  Reyes M., Büchler P. Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations. Medical Engineering and Physics, 2014. (pubmed)  
 
-Kistler M., **Bonaretti S.**, Pfahrer M., Niklaus R., Büchler P. The Virtual Skeleton Database: An Open Access Repository for Biomedical Research and Collaboration. J Med Internet Res. 12;15(11):e245. 2013. (pubmed)  
+* Kistler M., **Bonaretti S.**, Pfahrer M., Niklaus R., Büchler P. The Virtual Skeleton Database: An Open Access Repository for Biomedical Research and Collaboration. J Med Internet Res. 12;15(11):e245. 2013. (pubmed)  
 
-Schulz A.P., Reimers N., Wipf F., Vallotton M., **Bonaretti S.**, Kozic N., Reyes M., Kienast B.J. Evidence Based Development of a Novel Lateral Fibula Plate (VariAx Fibula) Using a Real CT Bone Data Based Optimization Process During Device Development. Open Orthop J. 6,1-7. 2012 (pubmed)
+* Schulz A.P., Reimers N., Wipf F., Vallotton M., **Bonaretti S.**, Kozic N., Reyes M., Kienast B.J. Evidence Based Development of a Novel Lateral Fibula Plate (VariAx Fibula) Using a Real CT Bone Data Based Optimization Process During Device Development. Open Orthop J. 6,1-7. 2012 (pubmed)
 
 _Conference Papers_
 
-**Bonaretti S.**, Seiler C., Boichon C., Büchler P., Reyes M. Mesh-based vs. Image-based Statistical Model of Appearance of the Human Femur: a Preliminary Comparison Study for the Creation of Finite Element Meshes. Mesh Processing in Medical Image Analysis - MICCAI 2011 workshop. 18 September 2011. Toronto, Canada.   
+* **Bonaretti S.**, Seiler C., Boichon C., Büchler P., Reyes M. Mesh-based vs. Image-based Statistical Model of Appearance of the Human Femur: a Preliminary Comparison Study for the Creation of Finite Element Meshes. Mesh Processing in Medical Image Analysis - MICCAI 2011 workshop. 18 September 2011. Toronto, Canada.   
 
-**Bonaretti S.**, Helgason B., Seiler C., Reyes M., Büchler P. Combined Statistical Model of Bone Shape and Mechanical Properties for Bone Modelling. 9th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering. 24-27 February 2010. Valencia, Spain.   
+* **Bonaretti S.**, Helgason B., Seiler C., Reyes M., Büchler P. Combined Statistical Model of Bone Shape and Mechanical Properties for Bone Modelling. 9th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering. 24-27 February 2010. Valencia, Spain.   
 
-**Bonaretti S.**, Reimers N., Reyes M., Nikitsin A., Joensson A., Nolte L., Büchler P. Assessment of Peri-Articular Implant Fitting Based on Statistical Finite Element Modelling. Computational Biomechanics for Medicine III – MICCAI 2008 workshop. 10 September 2008. New York, NY.   
+* **Bonaretti S.**, Reimers N., Reyes M., Nikitsin A., Joensson A., Nolte L., Büchler P. Assessment of Peri-Articular Implant Fitting Based on Statistical Finite Element Modelling. Computational Biomechanics for Medicine III – MICCAI 2008 workshop. 10 September 2008. New York, NY.   
 
-Kistler M., **Bonaretti S.**, Boichon C., Rochette M., Büchler P. Methods to Accelerate Finite Element Calculations in Biomechanics Using a Statistical Database of Pre-Calculated Simulations. 10th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering. 11-14 April 2012. Berlin, Germany. 
+* Kistler M., **Bonaretti S.**, Boichon C., Rochette M., Büchler P. Methods to Accelerate Finite Element Calculations in Biomechanics Using a Statistical Database of Pre-Calculated Simulations. 10th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering. 11-14 April 2012. Berlin, Germany. 
 
 _Conference Abstracts_  
 
-**Bonaretti S.**, Helgason B., Seiler C., Reyes M., Büchler P. A Statistical Shape Model of Bone Anatomical Variability for Finite Element Assessment of Bone Mechanics. 17th Congress of the European Society of Biomechanics. 5-8 July 2010. Edinburgh, Scotland.  
+* **Bonaretti S.**, Helgason B., Seiler C., Reyes M., Büchler P. A Statistical Shape Model of Bone Anatomical Variability for Finite Element Assessment of Bone Mechanics. 17th Congress of the European Society of Biomechanics. 5-8 July 2010. Edinburgh, Scotland.  
 
-**Bonaretti S.**, Reimers N., Rueckert D., Reyes M., Gonzales-Ballester M.A., Büchler P. Statistical Finite Element Analysis for Bone Modelling. 16th Congress of the European Society of Biomechanics. 6-9 July 2008. Lucerne, Switzerland. 
+* **Bonaretti S.**, Reimers N., Rueckert D., Reyes M., Gonzales-Ballester M.A., Büchler P. Statistical Finite Element Analysis for Bone Modelling. 16th Congress of the European Society of Biomechanics. 6-9 July 2008. Lucerne, Switzerland. 
 
 **PhD Thesis**  
 
