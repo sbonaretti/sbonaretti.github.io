@@ -13,6 +13,7 @@ Development of a novel weight-bearing C-Arm CT system to expand understanding of
 _Journal Papers_
 
 * Maier J., Black M., **Bonaretti S.**, Bier B., Eskofier B., Choi J.H. Levenston M., Gold G., Fahrig R., Maier A. **_Comparison of Different Approaches for Measuring Tibial Cartilage Thickness._** J Integr Bioinform. 14(2),1-10. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28753537){:target="_blank"}  
+
 ---
 
 
