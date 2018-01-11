@@ -52,14 +52,17 @@ footer a
 
 article, body > header, body > footer
   padding: 1em calc(#{$padding * 10%} - #{$padding * 2.1em})
+  position: fixed /*added*/
 
 body > header, body > footer
   background-color: $nav
   color: if(lightness($nav) > 50%, black, white)
+  position: fixed /*added*/
 
 body > footer
   display: flex
   justify-content: space-between
+  position: fixed /*added*/
 
 .ghost
   padding: .4em .8em
