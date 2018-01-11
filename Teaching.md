@@ -6,7 +6,7 @@ title: "Teaching"
 ---
 
 
-#  Orthopaedic Bioengineering  
+# Orthopaedic Bioengineering (BIOE 381) 
 **2017. Co-instructor 50%. Stanford University, USA**
 
 **Slides**
@@ -19,10 +19,18 @@ title: "Teaching"
 * Bone Quality and Fracture
 
 
-04.2017 - 06.2017	Co-instructor (50%), Orthopaedic Bioengineering, Stanford University, USA
-	Lectures on bone anatomy, physiology, mechanics, imaging, and diseases. Laboratory in bone fixation
-01.2017	Guest Lecturer, Clinical Needs and Technology, Stanford University, USA
-	“Introduction to X-ray-based imaging”
+---
+
+# Clinical Needs and Technology (BIOE 301B)
+**2017, 2018. Guest Lecturer. Stanford University, USA**
+
+* Introduction to X-ray-based imaging
+
+
+---
+
+
+
 10.2016	Guest Lecturer, Introduction to Bioengineering Research, Stanford University, USA
 	“Weight-bearing imaging of the knee using C-arm CT”
 03.2015	Guest Lecturer, Image Processing and Analysis II, University of California San Francisco, USA
