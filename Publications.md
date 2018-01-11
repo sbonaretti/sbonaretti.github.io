@@ -25,7 +25,7 @@ title: "Publications"
 
 * Kistler M., **Bonaretti S.**, Pfahrer M., Niklaus R., Büchler P. **_The Virtual Skeleton Database: An Open Access Repository for Biomedical Research and Collaboration._** J Med Internet Res. 12;15(11):e245. 2013. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/24220210){:target="_blank"}    
 
-* Schulz A.P., Reimers N., Wipf F., Vallotton M., **Bonaretti S.**, Kozic N., Reyes M., Kienast B.J. **_Evidence Based Development of a Novel Lateral Fibula Plate (VariAx Fibula) Using a Real CT Bone Data Based Optimization Process During Device Development._** Open Orthop J. 6,1-7. 2012 [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/22312417 ){:target="_blank"}  
+* Schulz A.P., Reimers N., Wipf F., Vallotton M., **Bonaretti S.**, Kozic N., Reyes M., Kienast B.J. **_Evidence Based Development of a Novel Lateral Fibula Plate (VariAx Fibula) Using a Real CT Bone Data Based Optimization Process During Device Development._** Open Orthop J. 6,1-7. 2012. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/22312417 ){:target="_blank"}  
 
 ---
 
