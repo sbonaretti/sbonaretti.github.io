@@ -3,7 +3,7 @@ title: "Teaching"
 ---
 
 #  Orthopaedic Bioengineering  
-**2017. Co-instructor 50%. Stanford University, USA
+**2017. Co-instructor 50%. Stanford University, USA**
 
 **Slides**
 
