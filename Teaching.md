@@ -28,14 +28,27 @@ title: "Teaching"
 ---
 
 
+# Introduction to Bioengineering Research (BIOE 390)
+**2016. Guest Lecturer. Stanford University, USA**
 
-10.2016	Guest Lecturer, Introduction to Bioengineering Research, Stanford University, USA
-	“Weight-bearing imaging of the knee using C-arm CT”
-03.2015	Guest Lecturer, Image Processing and Analysis II, University of California San Francisco, USA
-	“Active shape and appearance modeling in medical imaging”
-01.2014, 01.2015	Guest Lecturer, Musculoskeletal Imaging, University of California San Francisco, USA
-“Assessment of Bone Strength - Foundations of FE and microFE”
-12.2009			Guest Lecturer, Medical Image Analysis, ETH Zürich, Switzerland
-“Statistical Shape Models”
-10.2009			Guest Lecturer, Medical Image Analysis, University of Bern, Switzerland
-“Statistical Shape Models”
+* Weight-bearing imaging of the knee using C-arm CT”
+
+---
+
+# Image Processing and Analysis II ()
+**2015.	Guest Lecturer. University of California San Francisco, USA**
+
+* Active shape and appearance modeling in medical imaging
+
+---
+
+# Musculoskeletal Imaging ()
+**2014, 2015. Guest Lecturer. University of California San Francisco, USA
+
+* Assessment of Bone Strength - Foundations of FE and microFE
+
+# Medical Image Analysis
+**2009. Guest Lecturer. ETH Zürich, Switzerland**
+**2009. Guest Lecturer. University of Bern, Switzerland**
+
+* Statistical Shape Models”
