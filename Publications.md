@@ -108,8 +108,8 @@ title: "Publications"
 
 # *Thesis*
 
-* **Bonaretti S.** **_Statistical Models of Shape and Density for Population-based Analysis of Bone Mechanics with Applications to Fracture Risk Assessment and Implant Design_**. Ph.D. thesis. 2011. [(.pdf)](){:target="_blank"}
+* **Bonaretti S.** **_Statistical Models of Shape and Density for Population-based Analysis of Bone Mechanics with Applications to Fracture Risk Assessment and Implant Design_**. Ph.D. thesis. 2011. [(.pdf)](https://www.dropbox.com/s/g76sluxiw5qg0yw/2011_Bonaretti_PhD%20thesis.pdf?dl=0){:target="_blank"}
 
-* **Bonaretti S.** **_Metodiche di Analisy 2D e 3D per la Segmentazione e la Ricostruzione di Immagini TAC: Validazione e Applicazione in Chirurgia Maxillo-Facciale_**. M.Sc. thesis. 2005. [(.pdf Italian version)](){:target="_blank"} 
+* **Bonaretti S.** **_Metodiche di Analisy 2D e 3D per la Segmentazione e la Ricostruzione di Immagini TAC: Validazione e Applicazione in Chirurgia Maxillo-Facciale_**. M.Sc. thesis. 2005. [(.pdf Italian version)](https://www.dropbox.com/s/2d53jv383vbaeoy/2005_Bonaretti_MScThesis.pdf?dl=0){:target="_blank"} 
 
-* **Bonaretti S.** **_Dossier Finale_**. B.Sc. thesis. 2003. [(.pdf Italian version)](){:target="_blank"} 
+* **Bonaretti S.** **_Dossier Finale_**. B.Sc. thesis. 2003. [(.pdf Italian version)](https://www.dropbox.com/s/e30a9c4d5yc1zq9/2003_Bonaretti_BScThesis.pdf?dl=0){:target="_blank"} 
