@@ -17,7 +17,7 @@ _Journal Papers_
 _Conference abstracts_
 
 * Bier B., Berger M., Maier J., Unberath M., Hsieh S., **Bonaretti S.**, Fahrig R., Levenston M., Gold G., Maier A. **_Object Removal in Gradient Domain of Cone-Beam CT Projections._** IEEE Nuclear Science Symposium & Medical Imaging Conference. 29 October – 5 November 2016. Strasbourg, France.
----
+
 
 
 
