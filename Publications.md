@@ -3,6 +3,11 @@ title: "Publications"
 ---
 
 
+
+---
+
+
+
 # *Journal Papers*   
 
 * Maier J., Black M., <ins>Bonaretti S.</ins>, Bier B., Eskofier B., Choi J.H. Levenston M., Gold G., Fahrig R., Maier A. **Comparison of Different Approaches for Measuring Tibial Cartilage Thickness.** J Integr Bioinform. 14(2),1-10. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28753537){:target="_blank"}
