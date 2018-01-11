@@ -5,7 +5,7 @@ title: "Publications"
 
 # *Journal Papers*   
 
-* Maier J., Black M., **Bonaretti S.**, Bier B., Eskofier B., Choi J.H. Levenston M., Gold G., Fahrig R., Maier A. **_Comparison of Different Approaches for Measuring Tibial Cartilage Thickness._** J Integr Bioinform. 14(2),1-10. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28753537){:target="_blank"}
+* Maier J., Black M., <ins>Bonaretti S.</ins>, Bier B., Eskofier B., Choi J.H. Levenston M., Gold G., Fahrig R., Maier A. **_Comparison of Different Approaches for Measuring Tibial Cartilage Thickness._** J Integr Bioinform. 14(2),1-10. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28753537){:target="_blank"}
 
 * **Bonaretti S.**, Vilayphiou N., Chan C. M., Yu A.,  Nishiyama K., Liu D., Boutroy S., Ghasem-Zadeh A., Boyd S.K., Chapurlat R., McKay H., Shane E., Bouxsein M.L., Black D.M., Majumdar S., Orwoll E.S., Lang T.F., Khosla S., Burghardt A.J. **_Operator variability In Scan Positioning is a Major Component of HR-pQCT Precision Error and is Reduced by Standardized Training._** Osteoporos Int. 28(1), 245-257. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/27475931){:target="_blank"}    
 
