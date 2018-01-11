@@ -47,6 +47,8 @@ title: "Publications"
 
 # *Conference Abstracts* 
 
+* Bier B., Berger M., Maier J., Unberath M., Hsieh S., **Bonaretti S.**, Fahrig R., Levenston M., Gold G., Maier A. **_Object Removal in Gradient Domain of Cone-Beam CT Projections._** IEEE Nuclear Science Symposium & Medical Imaging Conference. 29 October – 5 November 2016. Strasbourg, France.
+
 * **Bonaretti S.**, Carballido-Gamio J., Keyak J., Saeed I., Yu L., Bruesewitz M., Burghardt A.J., Khosla S., Lang T.F. **_QCT Intra- and Inter-Scanner Precision In Estimation Of Proximal Femur Strength._** ASBMR 2015. October 9-12, 2015. Seattle, WA, USA.   
 
 * **Bonaretti S.**, Vilayphiou N., Yu A., Holets M., Nishiyama K., Liu D., Boutroy S., Ghasem-Zadeh A., Boyd S.K., Chapurlat R., McKay H., Shane E., Bouxsein M.L., Lang T.F., Khosla S., Cawton P.M., Black D.M., Majumdar S., Orwoll E.S., Burghardt A.J. **_Standardized Training For HR-pQCT Scan Positioning Reduces Inter-Operator Precision Errors: The MrOS Multicenter Study Experience._** ASBMR 2015. October 9-12, 2015. Seattle, WA, USA.  
