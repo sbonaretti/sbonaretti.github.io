@@ -9,8 +9,6 @@ title: "Teaching"
 # Orthopaedic Bioengineering (BIOE 381) 
 **2017. Co-instructor 50%. Stanford University, USA**
 
-**Slides**
-
 * Bone Anatomy and Physiology  
 * Bone Mechanics I  
 * Bone Mechanics II  
