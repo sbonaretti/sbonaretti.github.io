@@ -43,12 +43,12 @@ title: "Teaching"
 ---
 
 # Musculoskeletal Imaging ()
-**2014, 2015. Guest Lecturer. University of California San Francisco, USA
+**2014, 2015. Guest Lecturer. University of California San Francisco, USA**
 
 * Assessment of Bone Strength - Foundations of FE and microFE
 
 # Medical Image Analysis
-**2009. Guest Lecturer. ETH Zürich, Switzerland**
+**2009. Guest Lecturer. ETH Zürich, Switzerland**  
 **2009. Guest Lecturer. University of Bern, Switzerland**
 
 * Statistical Shape Models”
