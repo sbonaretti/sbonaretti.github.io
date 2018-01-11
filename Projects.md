@@ -114,7 +114,7 @@ _Conference Abstracts_
 
 **PhD Thesis**  
 
-**Bonaretti S.** **_Statistical Models of Shape and Density for Population-based Analysis of Bone Mechanics with Applications to Fracture Risk Assessment and Implant Design._** Ph.D. thesis. 2011. (.pdf) 
+**Bonaretti S.** **_Statistical Models of Shape and Density for Population-based Analysis of Bone Mechanics with Applications to Fracture Risk Assessment and Implant Design._** Ph.D. thesis. 2011. [(.pdf)](){:target="_blank"} 
 
 **Code**
 The code for this project is written in C++ and uses VTK and ITK libraries. If you are interested in the code, please email me at serena.bonaretti at stanford.edu
