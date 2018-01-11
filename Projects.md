@@ -27,7 +27,7 @@ _Conference abstracts_
 # Standardization of QCT for Bone Quality Assessment
 QCT inter-scanner variability is still a big challenge. We aimed to find cross-calibration laws using a novel anthropomorphic hip phantom.
 
-**PI: Thomas Lang (UCSF)**
+**PI: [Thomas Lang](http://profiles.ucsf.edu/thomas.lang){:target="_blank"} (UCSF)** 
 
 **Publications**
 
@@ -61,7 +61,7 @@ _Conference abstracts_
 
 In multicenter studies, standardization of acquisition procedures is fundamental for data comparison. In this project, we aimed to standardize the definition of the volume of interest and the measurement of bone mineral density.
 
-**PI: Andrew J. Burghardt (UCSF)**
+**PI: [Andrew J. Burghardt](http://profiles.ucsf.edu/andrew.burghardt){:target="_blank"} (UCSF)**
 
 **Publications**
 
@@ -103,7 +103,7 @@ _Conference Abstracts_
 
 My PhD project aimed to create a statistical appearance model of femur for finite element simulations of different populations. 
 
-**PIs: Mauricio Reyes and Philippe Büchler (ISTB, Switzerland)**
+**PIs: [Mauricio Reyes](http://www.istb.unibe.ch/about_us/staff/personen/ass_prof_dr_reyes_mauricio/index_eng.html){:target="_blank"} and [Philippe Büchler](http://www.istb.unibe.ch/about_us/staff/personen/ass_prof_dr_buechler_philippe/index_eng.html){:target="_blank"} (ISTB, Switzerland)**
 
 **Publications**
 
