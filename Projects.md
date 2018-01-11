@@ -2,6 +2,16 @@
 title:  "Projects"
 ---
 
+# Automatic Segmentation of Knee Cartilage
+Development of an automatic method for knee cartilage segmentation.
+
+**PI: [Gary Beaupre](http://pavir.org/means/researchers/gary-s-beaupre-ph-d/){:target="_blank"} (Stanford University)**
+
+
+
+---
+
+
 
 # Weight-Bearing Imaging of the Knee Using C-Arm CT 
 Development of a novel weight-bearing C-Arm CT system to expand understanding of cartilage mechanical stresses and to provide quantitative measures of knee joint health.
