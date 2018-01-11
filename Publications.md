@@ -2,7 +2,9 @@
 title: "Publications"
 ---
 
-[(.pdf)](https://github.com/sbonaretti/sbonaretti.github.io/blob/master/docs/attachments/2011_Bonaretti_PhDthesis.pdf){:target="_blank"}
+[(.pdf)](https://github.com/sbonaretti/sbonaretti.github.io/blob/master/docs/attachments/2011_Bonaretti_PhDThesis.pdf){:target="_blank"}
+
+[(.pdf)](attachments/2011_Bonaretti_PhDThesis.pdf){:target="_blank"}
 
 
 # *Journal Papers*   
