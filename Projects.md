@@ -20,10 +20,7 @@ _Conference abstracts_
 
 
 
-
 ---
-
-
 
 
 
@@ -48,8 +45,17 @@ _Conference abstracts_
 
 * **Bonaretti S.**, Saeed I., Burghardt A.J., Yu L., Bruesewitz M., Khosla S., Lang T.F. **_Effect of Body Size on the Quantification of Bone Mineral Density From QCT Images Using a Novel Anthropomorphic Hip Phantom._** ASBMR 2013. 4-7 October 2013. Baltimore, MD, USA.
 
+**Invited Talks**  
+
+* **_Bone quality by QCT and HR-pQCT: Translation to multicenter clinical research._** Istituti Ortopedici Rizzoli, Bologna, Italy. 22.12.2015   
+
+* **_Bone quality by QCT and HR-pQCT: Translation to multicenter clinical research._** University of Erlangen-Nuremberg, Erlangen, Germany. 16.12.2015  
+
+
 
 --- 
+
+
 
 # Standardization of HR-pQCT for Bone Quality Assessment
 
@@ -82,13 +88,16 @@ _Conference Abstracts_
 * Carballido-Gamio J., **Bonaretti S.**, Holets M., Saeed I., McCready L., Majumdar S., Lang T.F., Khosla S., Burghardt A.J. **_Automated Scan Prescription For HR-pQCT: A Multi-Atlas Prospective Registration Approach._** ASBMR 2013. October 4-7, 2013. Baltimore, MD, USA.  
 
 **Invited Talk**  
-**_Intra- and Inter-Operator Variability in HR-pQCT Scan Positioning_**. 2nd XtremeCT User Meeting. September 16, 2014. ASBMR 2014. Houston, TX, USA.  
+* **_Intra- and Inter-Operator Variability in HR-pQCT Scan Positioning_**. 2nd XtremeCT User Meeting. September 16, 2014. ASBMR 2014. Houston, TX, USA.  
 
 **Webapp**  
-We developed a webapp to train and evaluate HR-pQCT operators when determining the region of interest by positioning the reference line on scout view images (webapp)  
+* We developed a webapp to train and evaluate HR-pQCT operators when determining the region of interest by positioning the reference line on scout view images (webapp)  
+
 
 
 --- 
+
+
 
 # Statistical Appearance Models for Bone Mechanics  
 
@@ -124,7 +133,8 @@ _Conference Abstracts_
 
 **PhD Thesis**  
 
-**Bonaretti S.** **_Statistical Models of Shape and Density for Population-based Analysis of Bone Mechanics with Applications to Fracture Risk Assessment and Implant Design._** Ph.D. thesis. 2011. [(.pdf)](){:target="_blank"} 
+* **Bonaretti S.** **_Statistical Models of Shape and Density for Population-based Analysis of Bone Mechanics with Applications to Fracture Risk Assessment and Implant Design._** Ph.D. thesis. 2011. [(.pdf)](){:target="_blank"} 
 
-**Code**
-The code for this project is written in C++ and uses VTK and ITK libraries. If you are interested in the code, please email me at serena.bonaretti at stanford.edu
+**Code**   
+
+* The code for this project is written in C++ and uses VTK and ITK libraries. If you are interested in the code, please email me at serena.bonaretti at stanford.edu
