@@ -60,6 +60,9 @@ body > header, body > footer
   background-color: $nav
   color: if(lightness($nav) > 50%, black, white)
   
+  position: fixed /* added - Set the navbar to fixed position */
+  /*top: 0;  Position the navbar at the top of the page */
+  width: 100% /* added - Full width */
 
 body > footer
   display: flex
