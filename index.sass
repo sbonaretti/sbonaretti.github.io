@@ -10,6 +10,9 @@ $padding: {{ site.style.padding }}
 html
   background-color: if($margin > 0%, $margincolor, $nav)
   
+main
+  margin-top: 100px    /*added - Add a top margin to avoid content overlay with nav*/
+  margin-bottom: 20px  /*added - Add a bottom margin to avoid content overlay with nav*/    
   
 body
   display: flex
@@ -19,8 +22,8 @@ body
   margin: 0 $margin
   min-height: 100vh
   
-  margin-top: 100px   /* added - Add a top margin to avoid content overlay with nav*/
-  margin-bottom: 20px /* added - Add a bottom margin to avoid content overlay with nav*/
+  /*margin-top: 100px    added - Add a top margin to avoid content overlay with nav*/
+  /*margin-bottom: 20px  added - Add a bottom margin to avoid content overlay with nav*/
   
 
 h1, h2, h3, h4, h5, h6
