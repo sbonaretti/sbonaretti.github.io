@@ -59,14 +59,19 @@ article, body > header, body > footer
 body > header, body > footer
   background-color: $nav
   color: if(lightness($nav) > 50%, black, white)
-  
+ 
+body > header
   position: fixed /* added - Set the navbar to fixed position */
-  /*top: 0;  Position the navbar at the top of the page */
+  top: 0 /*  Position the navbar at the top of the page */
   width: 100% /* added - Full width */
 
 body > footer
   display: flex
   justify-content: space-between
+ 
+  position: fixed /* added - Set the navbar to fixed position */
+  bottom: 0 /*  Position the navbar at the top of the page */
+  width: 100% /* added - Full width */
 
 .ghost
   padding: .4em .8em
