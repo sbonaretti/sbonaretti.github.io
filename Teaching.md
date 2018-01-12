@@ -7,12 +7,13 @@ title: "Teaching"
 # Orthopaedic Bioengineering (BIOE 381) 
 **2017. Co-instructor 50%. Stanford University, USA**
 
-* Bone Anatomy and Physiology  
-* Bone Mechanics I  
-* Bone Mechanics II  
-* Bone Imaging I  
-* Bone Imaging II  
-* Bone Quality and Fracture
+* Bone Anatomy and Physiology [(.pdf)](attachments/BIOE381_1.pdf){:target="_blank"}   
+* Bone Mechanics I [(.pdf)](attachments/BIOE381_2.pdf){:target="_blank"}   
+* Bone Mechanics II [(.pdf)](attachments/BIOE381_3.pdf){:target="_blank"}    
+* Bone Imaging I [(.pdf)](attachments/BIOE381_4.pdf){:target="_blank"}    
+* Bone Imaging II  [(.pdf)](attachments/BIOE381_5.pdf){:target="_blank"}    
+* Bone Quality and Fracture  [(.pdf)](attachments/BIOE381_6.pdf){:target="_blank"}
+
 
 ---
 
