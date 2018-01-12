@@ -10,7 +10,6 @@ Changes in _config.yml:
 - url  
 - baseurl
 
-Changes from the original layout: 
-- /_sass/basic.sass: body.line-height: 1.65 -> 1.40  
-  
-
+Changes from the original layout in: 
+- index.sass
+- /_sass/basic.sass
