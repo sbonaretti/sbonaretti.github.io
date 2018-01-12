@@ -8,7 +8,7 @@ title: "Publications"
 
 
 
-# *Journal Papers*   
+# **Journal Papers**   
 
 * Maier J., Black M., <ins>Bonaretti S.</ins>, Bier B., Eskofier B., Choi J.H. Levenston M., Gold G., Fahrig R., Maier A. **Comparison of Different Approaches for Measuring Tibial Cartilage Thickness.** J Integr Bioinform. 14(2),1-10. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28753537){:target="_blank"}
 
@@ -36,7 +36,7 @@ title: "Publications"
 
 
 
-# *Peer Reviewed Conference Papers*  
+# **Peer Reviewed Conference Papers**  
 
 * Kistler M., <ins>Bonaretti S.</ins>, Boichon C., Rochette M., Büchler P. **Methods to Accelerate Finite Element Calculations in Biomechanics Using a Statistical Database of Pre-Calculated Simulations.** 10th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering. 11-14 April 2012. Berlin, Germany.   
 
@@ -50,7 +50,7 @@ title: "Publications"
 
 
 
-# *Conference Abstracts* 
+# **Conference Abstracts** 
 
 * Bier B., Berger M., Maier J., Unberath M., Hsieh S., <ins>Bonaretti S.</ins>, Fahrig R., Levenston M., Gold G., Maier A. **Object Removal in Gradient Domain of Cone-Beam CT Projections.** IEEE Nuclear Science Symposium & Medical Imaging Conference. 29 October – 5 November 2016. Strasbourg, France.
 
@@ -112,7 +112,7 @@ title: "Publications"
 ---
 
 
-# *Thesis*
+# **Thesis**
 
 * <ins>Bonaretti S.</ins> **Statistical Models of Shape and Density for Population-based Analysis of Bone Mechanics with Applications to Fracture Risk Assessment and Implant Design**. Ph.D. thesis. 2012. [(.pdf)](attachments/2011_Bonaretti_PhDThesis.pdf){:target="_blank"}
 
