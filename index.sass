@@ -11,14 +11,14 @@ html
   background-color: if($margin > 0%, $margincolor, $nav)
   
 main
-  margin-top: 140px    /*added - Add a top margin to avoid content overlay with nav*/
-  margin-bottom: 40px  /*added - Add a bottom margin to avoid content overlay with nav*/    
+  margin-top:   120px  /* added - Add a top margin to avoid content overlay with nav */
+  margin-bottom: 40px  /* added - Add a bottom margin to avoid content overlay with nav */    
   
 body
   display: flex
   background-color: $body
   color: if(lightness($body) > 50%, black, white)
-  font-size: calc(.3vw + .7em) /*modified - calc(.6vw + .8em)*/
+  font-size: calc(.3vw + .7em) /* modified - calc(.6vw + .8em) */
   margin: 0 $margin
   min-height: 100vh
   
@@ -40,8 +40,8 @@ nav
     margin-right: 2em
     a
       font: inherit
-      font-size: calc(.4vw + .8em) /*added*/
-      font-weight: 400             /*added*/
+      font-size: calc(.4vw + .8em) /* added */
+      font-weight: 400             /* added */
 
 article
   border-top: 1px solid rgba(140, 140, 140, .1)
