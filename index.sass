@@ -15,12 +15,12 @@ body
   display: flex
   background-color: $body
   color: if(lightness($body) > 50%, black, white)
-  font-size: calc(.3vw + .7em) /*calc(.6vw + .8em)*/
+  font-size: calc(.3vw + .7em) /*modified - calc(.6vw + .8em)*/
   margin: 0 $margin
   min-height: 100vh
   
-  margin-top: 100px /* added - Add a top margin to avoid content overlay with nav*/
-  margin-bottom: 20px /* added - Add a top margin to avoid content overlay with nav*/
+  margin-top: 100px   /* added - Add a top margin to avoid content overlay with nav*/
+  margin-bottom: 20px /* added - Add a bottom margin to avoid content overlay with nav*/
   
 
 h1, h2, h3, h4, h5, h6
@@ -66,17 +66,17 @@ body > header, body > footer
   color: if(lightness($nav) > 50%, black, white)
  
 body > header
-  position: fixed /* added - Set the navbar to fixed position */
-  top: 0 /*  Position the navbar at the top of the page */
-  width: 100% /* added - Full width */
+  position: fixed /* added - Set the header to fixed position */
+  top: 0          /* added - Position the header at the top of the page */
+  width: 100%     /* added - Full width */
 
 body > footer
   display: flex
   justify-content: space-between
  
-  position: fixed /* added - Set the navbar to fixed position */
-  bottom: 0 /*  Position the navbar at the top of the page */
-  width: 100% /* added - Full width */
+  position: fixed /* added - Set the footer to fixed position */
+  bottom: 0       /* added - Position the footer at the bottom of the page */
+  width: 100%     /* added - Full width */
 
 .ghost
   padding: .4em .8em
