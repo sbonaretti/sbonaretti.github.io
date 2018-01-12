@@ -20,7 +20,7 @@ title: "Teaching"
 # Clinical Needs and Technology (BIOE 301B)
 **2017, 2018. Guest Lecturer. Stanford University, USA**
 
-* Introduction to X-ray-based Imaging
+* Introduction to X-ray-based Imaging [(.pdf)](attachments/BIO301B.pdf){:target="_blank"} 
 
 ---
 
