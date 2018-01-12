@@ -1,5 +1,5 @@
 My personal website: https://sbonaretti.github.io/   
-Layout by Niklas Buschmann, 2014, MIT-License (https://github.com/niklasbuschmann/contrast)   
+Layout modified from the one proposed by Niklas Buschmann, 2014, MIT-License (https://github.com/niklasbuschmann/contrast)   
 
 The website contents are in: index.html (Home), Projects.md, Publications.md, Software.md, and Teaching.md.   
 
