@@ -20,7 +20,7 @@ title: "Teaching"
 # Clinical Needs and Technology (BIOE 301B)
 **2017, 2018. Guest Lecturer. Stanford University, USA**
 
-* Introduction to X-ray-based imaging
+* Introduction to X-ray-based Imaging
 
 ---
 
@@ -28,7 +28,7 @@ title: "Teaching"
 # Introduction to Bioengineering Research (BIOE 390)
 **2016. Guest Lecturer. Stanford University, USA**
 
-* Weight-bearing imaging of the knee using C-arm CT
+* Weight-bearing Imaging of the Knee Using C-arm CT
 
 ---
 
@@ -36,7 +36,7 @@ title: "Teaching"
 # Image Processing and Analysis II (BI 265)
 **2015.	Guest Lecturer. University of California San Francisco, USA**
 
-* Active shape and appearance modeling in medical imaging
+* Active Shape and Appearance Modeling in Medical Imaging
 
 ---
 
