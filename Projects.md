@@ -8,7 +8,7 @@ title:  "Projects"
 
 
 
-# _Automatic Segmentation of Knee Cartilage_
+# Automatic Segmentation of Knee Cartilage
 Development of an automatic method for knee cartilage segmentation.
 
 **PIs: [Gary Beaupre](http://pavir.org/means/researchers/gary-s-beaupre-ph-d/){:target="_blank"} (Department of Veterans Affairs) and [Garry Gold](https://med.stanford.edu/profiles/garry-gold){:target="_blank"} (Stanford University)** 
@@ -27,7 +27,7 @@ Development of an automatic method for knee cartilage segmentation.
 
 
 
-# _Weight-Bearing Imaging of the Knee Using C-Arm CT_ 
+# Weight-Bearing Imaging of the Knee Using C-Arm CT 
 Development of a novel weight-bearing C-Arm CT system to expand understanding of cartilage mechanical stresses and to provide quantitative measures of knee joint health.
 
 **PI: [Garry Gold](https://med.stanford.edu/profiles/garry-gold){:target="_blank"} (Stanford University)** 
@@ -48,7 +48,7 @@ _Conference abstracts_
 
 
 
-# _Standardization of QCT for Bone Quality Assessment_
+# Standardization of QCT for Bone Quality Assessment
 QCT inter-scanner variability is still a big challenge. We aimed to find cross-calibration laws using a novel anthropomorphic hip phantom.
 
 **PI: [Thomas Lang](http://profiles.ucsf.edu/thomas.lang){:target="_blank"} (UCSF)** 
@@ -81,7 +81,7 @@ _Conference abstracts_
 
 
 
-# _Standardization of HR-pQCT for Bone Quality Assessment_
+# Standardization of HR-pQCT for Bone Quality Assessment
 
 In multicenter studies, standardization of acquisition procedures is fundamental for data comparison. In this project, we aimed to standardize the definition of the volume of interest and the measurement of bone mineral density.
 
@@ -123,7 +123,7 @@ _Conference Abstracts_
 
 
 
-# _Statistical Appearance Models for Bone Mechanics_  
+# Statistical Appearance Models for Bone Mechanics  
 
 My PhD project aimed to create a statistical appearance model of femur for finite element simulations of different populations. 
 
