@@ -111,7 +111,6 @@ title: "Publications"
 
 * <ins>Bonaretti S.</ins> **Statistical Models of Shape and Density for Population-based Analysis of Bone Mechanics with Applications to Fracture Risk Assessment and Implant Design**. Ph.D. thesis. 2012. [(.pdf)](attachments/2011_Bonaretti_PhDThesis.pdf){:target="_blank"}
 
-
 * <ins>Bonaretti S.</ins> **Metodiche di Analisy 2D e 3D per la Segmentazione e la Ricostruzione di Immagini TAC: Validazione e Applicazione in Chirurgia Maxillo-Facciale**. M.Sc. thesis. 2005. [(.pdf Italian version)](attachments/2005_Bonaretti_MScThesis.pdf){:target="_blank"} 
 
 * <ins>Bonaretti S.</ins> **Dossier Finale**. B.Sc. thesis. 2003. [(.pdf Italian version)](attachments/2003_Bonaretti_BScThesis.pdf){:target="_blank"} 
