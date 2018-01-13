@@ -67,9 +67,9 @@ _Conference abstracts_
 
 **Invited Talks**  
 
-* **Bone quality by QCT and HR-pQCT: Translation to multicenter clinical research.** Istituti Ortopedici Rizzoli, Bologna, Italy. 22.12.2015   
+* <ins>Bonaretti S.</ins> **Bone quality by QCT and HR-pQCT: Translation to multicenter clinical research.** Istituti Ortopedici Rizzoli, Bologna, Italy. 22.12.2015   
 
-* **Bone quality by QCT and HR-pQCT: Translation to multicenter clinical research.** University of Erlangen-Nuremberg, Erlangen, Germany. 16.12.2015  
+* <ins>Bonaretti S.</ins> **Bone quality by QCT and HR-pQCT: Translation to multicenter clinical research.** University of Erlangen-Nuremberg, Erlangen, Germany. 16.12.2015  
 
 
 
@@ -108,7 +108,7 @@ _Conference Abstracts_
 * Carballido-Gamio J., <ins>Bonaretti S.</ins>, Holets M., Saeed I., McCready L., Majumdar S., Lang T.F., Khosla S., Burghardt A.J. **Automated Scan Prescription For HR-pQCT: A Multi-Atlas Prospective Registration Approach.** ASBMR 2013. October 4-7, 2013. Baltimore, MD, USA.  
 
 **Invited Talk**  
-* **Intra- and Inter-Operator Variability in HR-pQCT Scan Positioning**. 2nd XtremeCT User Meeting. September 16, 2014. ASBMR 2014. Houston, TX, USA.  
+* <ins>Bonaretti S.</ins> **Intra- and Inter-Operator Variability in HR-pQCT Scan Positioning**. 2nd XtremeCT User Meeting. September 16, 2014. ASBMR 2014. Houston, TX, USA.  
 
 **Webapp**  
 * We developed a webapp to train and evaluate HR-pQCT operators when determining the region of interest by positioning the reference line on scout view images (webapp)  
