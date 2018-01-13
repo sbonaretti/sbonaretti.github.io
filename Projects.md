@@ -4,10 +4,6 @@ title:  "Projects"
 
 
 
----
-
-
-
 # Automatic Segmentation of Knee Cartilage
 Development of an automatic method for knee cartilage segmentation.
 
