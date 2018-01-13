@@ -11,9 +11,9 @@ title: "Publications"
 
 * <ins>Bonaretti S.</ins>, Majumdar S., Lang T.F., Khosla S., Burghardt A.J.  **The Comparability of HR-pQCT Bone Quality Measures Is Improved by Scanning Anatomically Standardized Regions.** Osteoporos Int. 28(7), 2115-2128. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28391447){:target="_blank"} 
 
-* Carballido-Gamio J., <ins>Bonaretti S.</ins>, Kazakia G.J., Khosla S., Majumdar S., Lang T.F., Burghardt A.J. **Statistical Parametric Mapping of HR-pQCT Images: A Tool for Population-Based Comparison of Micro-Scale Bone Features.** Ann Biomed Eng. 45(5), 949-962. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/27830488 ){:target="_blank"}     
+* Carballido-Gamio J., <ins>Bonaretti S.</ins>, Kazakia G.J., Khosla S., Majumdar S., Lang T.F., Burghardt A.J. **Statistical Parametric Mapping of HR-pQCT Images: A Tool for Population-Based Comparison of Micro-Scale Bone Features.** Ann Biomed Eng. 45(5), 949-962. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/27830488){:target="_blank"}     
 
-* Ghasem-Zadeh A., Burghardt A.J., Wang X.F., Iuliano S., <ins>Bonaretti S.</ins>, Bui Q.M., Zebaze R., Seeman E. **Quantifying Sex, Race and Age Specific Differences in Bone Microstructure Requires Measurement of Anatomically Equivalent Regions.** Bone. 101, 206-213. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28502884 ){:target="_blank"}    
+* Ghasem-Zadeh A., Burghardt A.J., Wang X.F., Iuliano S., <ins>Bonaretti S.</ins>, Bui Q.M., Zebaze R., Seeman E. **Quantifying Sex, Race and Age Specific Differences in Bone Microstructure Requires Measurement of Anatomically Equivalent Regions.** Bone. 101, 206-213. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28502884){:target="_blank"}    
 
 * Carballido-Gamio J., <ins>Bonaretti S.</ins>, Saeed I., Harnish R., Recker R., Burghardt A.J., Keyak J.H., Harris T., Khosla S., Lang T.F. **Automatic Multi-Parametric Quantification of the Proximal Femur with QCT.** Quant Imaging Med Surg. 5(4), 552-68. 2015. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/26435919){:target="_blank"}   
 
@@ -25,7 +25,7 @@ title: "Publications"
 
 * Kistler M., <ins>Bonaretti S.</ins>, Pfahrer M., Niklaus R., Büchler P. **The Virtual Skeleton Database: An Open Access Repository for Biomedical Research and Collaboration.** J Med Internet Res. 12;15(11):e245. 2013. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/24220210){:target="_blank"}    
 
-* Schulz A.P., Reimers N., Wipf F., Vallotton M., <ins>Bonaretti S.</ins>, Kozic N., Reyes M., Kienast B.J. **Evidence Based Development of a Novel Lateral Fibula Plate (VariAx Fibula) Using a Real CT Bone Data Based Optimization Process During Device Development.** Open Orthop J. 6,1-7. 2012. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/22312417 ){:target="_blank"}  
+* Schulz A.P., Reimers N., Wipf F., Vallotton M., <ins>Bonaretti S.</ins>, Kozic N., Reyes M., Kienast B.J. **Evidence Based Development of a Novel Lateral Fibula Plate (VariAx Fibula) Using a Real CT Bone Data Based Optimization Process During Device Development.** Open Orthop J. 6,1-7. 2012. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/22312417){:target="_blank"}  
 
 ---
 
