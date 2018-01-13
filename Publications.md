@@ -7,7 +7,7 @@ title: "Publications"
 
 * Maier J., Black M., <ins>Bonaretti S.</ins>, Bier B., Eskofier B., Choi J.H. Levenston M., Gold G., Fahrig R., Maier A. **Comparison of Different Approaches for Measuring Tibial Cartilage Thickness.** J Integr Bioinform. 14(2),1-10. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28753537){:target="_blank"}
 
-* <ins>Bonaretti S.</ins>, Vilayphiou N., Chan C. M., Yu A.,  Nishiyama K., Liu D., Boutroy S., Ghasem-Zadeh A., Boyd S.K., Chapurlat R., McKay H., Shane E., Bouxsein M.L., Black D.M., Majumdar S., Orwoll E.S., Lang T.F., Khosla S., Burghardt A.J. **Operator variability In Scan Positioning is a Major Component of HR-pQCT Precision Error and is Reduced by Standardized Training.** Osteoporos Int. 28(1), 245-257. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/27475931){:target="_blank"}    
+* <ins>Bonaretti S.</ins>, Vilayphiou N., Chan C. M., Yu A.,  Nishiyama K., Liu D., Boutroy S., Ghasem-Zadeh A., Boyd S.K., Chapurlat R., McKay H., Shane E., Bouxsein M.L., Black D.M., Majumdar S., Orwoll E.S., Lang T.F., Khosla S., Burghardt A.J. **Operator variability In Scan Positioning is a Major Component of HR-pQCT Precision Error and is Reduced by Standardized Training.** Osteoporos Int. 28(1), 245-257. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/27475931){:target="_blank"} 
 
 * <ins>Bonaretti S.</ins>, Majumdar S., Lang T.F., Khosla S., Burghardt A.J.  **The Comparability of HR-pQCT Bone Quality Measures Is Improved by Scanning Anatomically Standardized Regions.** Osteoporos Int. 28(7), 2115-2128. 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28391447){:target="_blank"} 
 
@@ -77,7 +77,7 @@ title: "Publications"
 
 * <ins>Bonaretti S.</ins>, Seiler C., Rochette M., Helgason B., Reyes M., Büchler P. **Statistical Finite Element Model for the Virtual Skeleton Database**. NCCR Co-Me Scientific Advisory Board Meeting. 9-10 February 2011. Interlaken, Switzerland.
 
-* <ins>Bonaretti S.</ins>, Helgason B., Seiler C., Reyes M., Büchler P. **Statistical Finite Element Modeling: Application to Orthopaedic Implant Design. Graduate School for Cellular and Biomedical Sciences Symposium.** 28 January 2011. Bern, Switzerland.  
+* <ins>Bonaretti S.</ins>, Helgason B., Seiler C., Reyes M., Büchler P. **Statistical Finite Element Modeling: Application to Orthopaedic Implant Design.** Graduate School for Cellular and Biomedical Sciences Symposium. 28 January 2011. Bern, Switzerland.  
 
 * <ins>Bonaretti S.</ins>, Seiler C., Reyes M., Büchler P. **Statistical Finite Element Modeling for the Virtual Skeleton Database. NCCR Co-Me Research Networking Workshop.** 26-27 August 2010. Zürich, Switzerland. 
 
