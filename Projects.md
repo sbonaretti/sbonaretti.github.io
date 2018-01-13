@@ -173,7 +173,7 @@ _Conference Abstracts_
 
 **PhD Thesis**  
 
-* <ins>Bonaretti S.</ins> **Statistical Models of Shape and Density for Population-based Analysis of Bone Mechanics with Applications to Fracture Risk Assessment and Implant Design.** Ph.D. thesis. 2011. [(.pdf)](){:target="_blank"} 
+* <ins>Bonaretti S.</ins> **Statistical Models of Shape and Density for Population-based Analysis of Bone Mechanics with Applications to Fracture Risk Assessment and Implant Design.** Ph.D. thesis. 2011. [(.pdf)](attachments/2011_Bonaretti_PhDThesis.pdf){:target="_blank"} 
 
 **Code**   
 
