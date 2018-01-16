@@ -44,7 +44,7 @@ title: "Teaching"
 # Musculoskeletal Imaging (BI 240)
 **2014, 2015. Guest Lecturer. University of California San Francisco, USA**
 
-* Assessment of Bone Strength - Foundations of FE and microFE
+* Assessment of Bone Strength - Foundations of FE and microFE ([(.pdf](attachments/BIO301B.pdf){:target="_blank"} support material to blackboard notes)
 
 ---
 
