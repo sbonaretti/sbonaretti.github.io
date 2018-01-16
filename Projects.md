@@ -44,39 +44,6 @@ _Conference abstracts_
 
 
 
-# Standardization of QCT for Bone Quality Assessment
-QCT inter-scanner variability is still a big challenge. We aimed to find cross-calibration laws using a novel anthropomorphic hip phantom.
-
-**PI: [Thomas Lang](http://profiles.ucsf.edu/thomas.lang){:target="_blank"} (UCSF)** 
-
-**Publications**
-
-_Journal Papers_
-
-* <ins>Bonaretti S.</ins>, Carpenter D.R., Saeed I., Burghardt A.J., Yu L., Bruesewitz M., Khosla S., Lang T. **Novel Anthropomorphic Hip Phantom Corrects Systemic Interscanner Differences in Proximal Femoral vBMD.** Phys Med Biol. 59(24), 7819-34. 2014. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/25419618){:target="_blank"} 
-
-* Carballido-Gamio J., <ins>Bonaretti S.</ins>, Saeed I., Harnish R., Recker R., Burghardt A.J., Keyak J.H., Harris T., Khosla S., Lang T.F. **Automatic Multi-Parametric Quantification of the Proximal Femur with QCT.** Quant Imaging Med Surg. 5(4), 552-68. 2015. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/26435919){:target="_blank"}  
-
-* Carpenter R.D., Saeed I., <ins>Bonaretti S.</ins>, Schreck C., Keyak J.H., Streeper T., Harris T.B., Lang T.F. **Inter-scanner Differences in In Vivo QCT Measurements of the Density and Strength of the Proximal Femur Remain After Correction with Anthropomorphic Standardization Phantoms.** Med Eng and Phys. 36(10), 1225-32. 2014. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/25001172){:target="_blank"} 
-
-_Conference abstracts_
-
-* <ins>Bonaretti S.</ins>, Carballido-Gamio J., Keyak J., Saeed I., Yu L., Bruesewitz M., Burghardt A.J., Khosla S., Lang T.F. **QCT Intra- and Inter-Scanner Precision In Estimation Of Proximal Femur Strength.** ASBMR 2015. October 9-12, 2015. Seattle, WA, USA. 
-
-* <ins>Bonaretti S.</ins>, Saeed I., Burghardt A.J., Yu L., Bruesewitz M., Khosla S., Lang T.F. **Effect of Body Size on the Quantification of Bone Mineral Density From QCT Images Using a Novel Anthropomorphic Hip Phantom.** ASBMR 2013. 4-7 October 2013. Baltimore, MD, USA.
-
-**Invited Talks**  
-
-* <ins>Bonaretti S.</ins> **Bone quality by QCT and HR-pQCT: Translation to multicenter clinical research.** Istituti Ortopedici Rizzoli, Bologna, Italy. 22.12.2015   
-
-* <ins>Bonaretti S.</ins> **Bone quality by QCT and HR-pQCT: Translation to multicenter clinical research.** University of Erlangen-Nuremberg, Erlangen, Germany. 16.12.2015  
-
-
-
---- 
-
-
-
 # Standardization of HR-pQCT for Bone Quality Assessment
 
 In multicenter studies, standardization of acquisition procedures is fundamental for data comparison. In this project, we aimed to standardize the definition of the volume of interest and the measurement of bone mineral density.
@@ -114,6 +81,36 @@ _Conference Abstracts_
 
 
 
+--- 
+
+
+
+# Standardization of QCT for Bone Quality Assessment
+QCT inter-scanner variability is still a big challenge. We aimed to find cross-calibration laws using a novel anthropomorphic hip phantom.
+
+**PI: [Thomas Lang](http://profiles.ucsf.edu/thomas.lang){:target="_blank"} (UCSF)** 
+
+**Publications**
+
+_Journal Papers_
+
+* <ins>Bonaretti S.</ins>, Carpenter D.R., Saeed I., Burghardt A.J., Yu L., Bruesewitz M., Khosla S., Lang T. **Novel Anthropomorphic Hip Phantom Corrects Systemic Interscanner Differences in Proximal Femoral vBMD.** Phys Med Biol. 59(24), 7819-34. 2014. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/25419618){:target="_blank"} 
+
+* Carballido-Gamio J., <ins>Bonaretti S.</ins>, Saeed I., Harnish R., Recker R., Burghardt A.J., Keyak J.H., Harris T., Khosla S., Lang T.F. **Automatic Multi-Parametric Quantification of the Proximal Femur with QCT.** Quant Imaging Med Surg. 5(4), 552-68. 2015. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/26435919){:target="_blank"}  
+
+* Carpenter R.D., Saeed I., <ins>Bonaretti S.</ins>, Schreck C., Keyak J.H., Streeper T., Harris T.B., Lang T.F. **Inter-scanner Differences in In Vivo QCT Measurements of the Density and Strength of the Proximal Femur Remain After Correction with Anthropomorphic Standardization Phantoms.** Med Eng and Phys. 36(10), 1225-32. 2014. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/25001172){:target="_blank"} 
+
+_Conference abstracts_
+
+* <ins>Bonaretti S.</ins>, Carballido-Gamio J., Keyak J., Saeed I., Yu L., Bruesewitz M., Burghardt A.J., Khosla S., Lang T.F. **QCT Intra- and Inter-Scanner Precision In Estimation Of Proximal Femur Strength.** ASBMR 2015. October 9-12, 2015. Seattle, WA, USA. 
+
+* <ins>Bonaretti S.</ins>, Saeed I., Burghardt A.J., Yu L., Bruesewitz M., Khosla S., Lang T.F. **Effect of Body Size on the Quantification of Bone Mineral Density From QCT Images Using a Novel Anthropomorphic Hip Phantom.** ASBMR 2013. 4-7 October 2013. Baltimore, MD, USA.
+
+**Invited Talks**  
+
+* <ins>Bonaretti S.</ins> **Bone quality by QCT and HR-pQCT: Translation to multicenter clinical research.** Istituti Ortopedici Rizzoli, Bologna, Italy. 22.12.2015   
+
+* <ins>Bonaretti S.</ins> **Bone quality by QCT and HR-pQCT: Translation to multicenter clinical research.** University of Erlangen-Nuremberg, Erlangen, Germany. 16.12.2015  
 
 
 --- 
