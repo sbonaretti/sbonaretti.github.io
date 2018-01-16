@@ -110,7 +110,7 @@ _Conference Abstracts_
 * <ins>Bonaretti S.</ins> **Intra- and Inter-Operator Variability in HR-pQCT Scan Positioning**. 2nd XtremeCT User Meeting. September 16, 2014. ASBMR 2014. Houston, TX, USA.  
 
 **Webapp**  
-* We developed a webapp to train and evaluate HR-pQCT operators when determining the region of interest by positioning the reference line on scout view images (webapp)  
+* We developed a webapp to train and evaluate HR-pQCT operators when determining the region of interest by positioning the reference line on scout view images [(webapp)](http://webapps.radiology.ucsf.edu/refline/){:target="_blank"}  
 
 
 
