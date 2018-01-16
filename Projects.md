@@ -83,6 +83,9 @@ In multicenter studies, standardization of acquisition procedures is fundamental
 
 **PI: [Andrew J. Burghardt](http://profiles.ucsf.edu/andrew.burghardt){:target="_blank"} (UCSF)**
 
+**Webapp**  
+* We developed a webapp to train and evaluate HR-pQCT operators when determining the region of interest by positioning the reference line on scout view images [(webapp)](http://webapps.radiology.ucsf.edu/refline/){:target="_blank"}  
+
 **Publications**
 
 _Journal Papers_
@@ -109,8 +112,7 @@ _Conference Abstracts_
 **Invited Talk**  
 * <ins>Bonaretti S.</ins> **Intra- and Inter-Operator Variability in HR-pQCT Scan Positioning**. 2nd XtremeCT User Meeting. September 16, 2014. ASBMR 2014. Houston, TX, USA.  
 
-**Webapp**  
-* We developed a webapp to train and evaluate HR-pQCT operators when determining the region of interest by positioning the reference line on scout view images [(webapp)](http://webapps.radiology.ucsf.edu/refline/){:target="_blank"}  
+
 
 
 
