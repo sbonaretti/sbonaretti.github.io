@@ -52,4 +52,4 @@ title: "Teaching"
 # Medical Image Analysis
 **2009. Guest Lecturer. ETH Zürich and University of Bern, Switzerland**  
 
-* Statistical Shape Models
+* Statistical Shape Models ([.pdf](attachments/SSM.pdf){:target="_blank"})
