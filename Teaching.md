@@ -6,12 +6,12 @@ title: "Teaching"
 # Orthopaedic Bioengineering (BIOE 381) 
 **2017. Co-instructor 50%. Stanford University, USA**
 
-* Bone Anatomy and Physiology [(.pdf)](attachments/BIOE381_1.pdf){:target="_blank"}   
-* Bone Mechanics I [(.pdf)](attachments/BIOE381_2.pdf){:target="_blank"}   
-* Bone Mechanics II [(.pdf)](attachments/BIOE381_3.pdf){:target="_blank"}    
-* Bone Imaging I [(.pdf)](attachments/BIOE381_4.pdf){:target="_blank"}    
-* Bone Imaging II  [(.pdf)](attachments/BIOE381_5.pdf){:target="_blank"}    
-* Bone Quality and Fracture  [(.pdf)](attachments/BIOE381_6.pdf){:target="_blank"}
+* Bone Anatomy and Physiology ([.pdf](attachments/BIOE381_1.pdf){:target="_blank"})   
+* Bone Mechanics I ([.pdf](attachments/BIOE381_2.pdf){:target="_blank"})   
+* Bone Mechanics II ([.pdf](attachments/BIOE381_3.pdf){:target="_blank"})    
+* Bone Imaging I ([.pdf](attachments/BIOE381_4.pdf){:target="_blank"})    
+* Bone Imaging II ([.pdf](attachments/BIOE381_5.pdf){:target="_blank"})    
+* Bone Quality and Fracture ([.pdf](attachments/BIOE381_6.pdf){:target="_blank"})
 
 
 ---
@@ -20,7 +20,7 @@ title: "Teaching"
 # Clinical Needs and Technology (BIOE 301B)
 **2017, 2018. Guest Lecturer. Stanford University, USA**
 
-* Introduction to X-ray-based Imaging [(.pdf)](attachments/BIO301B.pdf){:target="_blank"} 
+* Introduction to X-ray-based Imaging ([.pdf](attachments/BIO301B.pdf){:target="_blank"}) 
 
 ---
 
@@ -44,7 +44,7 @@ title: "Teaching"
 # Musculoskeletal Imaging (BI 240)
 **2014, 2015. Guest Lecturer. University of California San Francisco, USA**
 
-* Assessment of Bone Strength - Foundations of FE and microFE ([(.pdf](attachments/BIO301B.pdf){:target="_blank"} support material to blackboard notes)
+* Assessment of Bone Strength - Foundations of FE and microFE ([.pdf](attachments/BIO301B.pdf){:target="_blank"} of support material to blackboard notes)
 
 ---
 
