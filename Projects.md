@@ -176,4 +176,4 @@ _Conference Abstracts_
 
 **Code**   
 
-* The code for this project is written in C++ and uses VTK and ITK libraries. If you are interested in the code, please email me at serena.bonaretti at stanford.edu
+* The code for this project is written in C++ and uses VTK and ITK libraries. If you are interested in the code, please contact me. Open code on github is work-in-progress. 
