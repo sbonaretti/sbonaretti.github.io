@@ -2,8 +2,17 @@
 title: "Teaching"
 ---
 
+# Surgery Without All the Blood (RAD 70N) 
+**2017. Guest Lecturer. Stanford University, USA**   
 
-# Orthopaedic Bioengineering (BIOE 381) 
+* Introduction to Interventional Radiology at the Zeego Lab   
+
+
+---
+
+
+
+# Orthopaedic Bioengineering (BIOE/ME 381) 
 **2017. Co-instructor 50%. Stanford University, USA**
 
 * Bone Anatomy and Physiology [(.pdf)](attachments/BIOE381_1.pdf){:target="_blank"}   
@@ -20,7 +29,8 @@ title: "Teaching"
 # Clinical Needs and Technology (BIOE 301B)
 **2017, 2018. Guest Lecturer. Stanford University, USA**
 
-* Introduction to X-ray-based Imaging [(.pdf)](attachments/BIO301B.pdf){:target="_blank"} 
+* Introduction to X-ray-based Imaging [(.pdf)](attachments/BIO301B.pdf){:target="_blank"}   
+* Minimally Invasive Therapies in Swine (Laboratory)
 
 ---
 
