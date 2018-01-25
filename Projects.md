@@ -50,7 +50,7 @@ In multicenter studies, standardization of acquisition procedures is fundamental
 
 **PI: [Andrew J. Burghardt](http://profiles.ucsf.edu/andrew.burghardt){:target="_blank"} (UCSF)**
 
-**Webapp**  
+**Web Application**  
 * We developed a webapp to train and evaluate HR-pQCT operators when determining the region of interest by positioning the reference line on scout view images [(webapp)](http://webapps.radiology.ucsf.edu/refline/){:target="_blank"}  
 
 **Publications**
