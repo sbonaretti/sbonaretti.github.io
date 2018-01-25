@@ -35,7 +35,7 @@ title: "Teaching"
 ---
 
 
-# Introduction to Bioengineering Research (BIOE 390)
+# Introduction to Bioengineering Research (BIOE 390 / MED 289)
 **2016. Guest Lecturer. Stanford University, USA**
 
 * Weight-bearing Imaging of the Knee Using C-arm CT
