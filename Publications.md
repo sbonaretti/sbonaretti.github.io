@@ -100,7 +100,7 @@ title: "Publications"
 
 * Razza S., <ins>Bonaretti S.</ins>, Burdo S. **Acoustical Signal Check: Microphone Integrity Evaluation Through a Common Hearing Aid Analyzer.** Objective Measures in Cochlear and Brainstem Implants – V International Symposium and Related Additional Events. 9-12 May 2007. Varese, Italy.  
 
-* Brega F., Razza S., <ins>Bonaretti S.</ins>, Burdo S. **Morphological and Functional Correlation Using XRay and Soe.** Objective Measures in Cochlear and Brainstem Implants – V International Symposium and Related Additional Events. 9-12 May 2007. Varese, Italy. 
+* Brega F., Razza S., <ins>Bonaretti S.</ins>, Burdo S. **Morphological and Functional Correlation Using X-Rays and SOE.** Objective Measures in Cochlear and Brainstem Implants – V International Symposium and Related Additional Events. 9-12 May 2007. Varese, Italy. 
 
 
 
