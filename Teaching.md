@@ -38,7 +38,7 @@ title: "Teaching"
 # Introduction to Bioengineering Research (BIOE 390 / MED 289)
 **2016. Guest Lecturer. Stanford University, USA**
 
-* Weight-bearing Imaging of the Knee Using C-arm CT [Presented project still under development]
+* Weight-bearing Imaging of the Knee Using C-arm CT (Presented project still under development)
 
 ---
 
@@ -46,7 +46,7 @@ title: "Teaching"
 # Image Processing and Analysis II (BI 265)
 **2015.	Guest Lecturer. University of California San Francisco, USA**
 
-* Active Shape and Appearance Modeling in Medical Imaging [Blackboard class]
+* Active Shape and Appearance Modeling in Medical Imaging (Blackboard class)
 
 ---
 
@@ -54,7 +54,7 @@ title: "Teaching"
 # Musculoskeletal Imaging (BI 240)
 **2014, 2015. Guest Lecturer. University of California San Francisco, USA**
 
-* Assessment of Bone Strength - Foundations of FE and microFE [(.pdf of support material)](attachments/BIO301B.pdf){:target="_blank"}
+* Assessment of Bone Strength - Foundations of FE and microFE (Blackboard class) [(.pdf of support material)](attachments/BIO301B.pdf){:target="_blank"}
 
 ---
 
