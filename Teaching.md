@@ -5,7 +5,7 @@ title: "Teaching"
 # Surgery Without All the Blood (RAD 70N) 
 **2017. Guest Lecturer. Stanford University, USA**   
 
-* Introduction to Interventional Radiology at the Zeego Lab   
+* Introduction to Interventional Radiology at the Zeego Lab (Demo class)  
 
 
 ---
@@ -38,7 +38,7 @@ title: "Teaching"
 # Introduction to Bioengineering Research (BIOE 390 / MED 289)
 **2016. Guest Lecturer. Stanford University, USA**
 
-* Weight-bearing Imaging of the Knee Using C-arm CT
+* Weight-bearing Imaging of the Knee Using C-arm CT [Presented project still under development]
 
 ---
 
@@ -46,7 +46,7 @@ title: "Teaching"
 # Image Processing and Analysis II (BI 265)
 **2015.	Guest Lecturer. University of California San Francisco, USA**
 
-* Active Shape and Appearance Modeling in Medical Imaging
+* Active Shape and Appearance Modeling in Medical Imaging [Blackboard class]
 
 ---
 
