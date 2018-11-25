@@ -19,32 +19,33 @@ Orthopaedic Bioengineering (BIOE/ME 381)
 * .. raw:: html
 
      Bone Anatomy and Physiology
-     (<a href="_attachments/BIOE381_1.pdf" target="_blank">.pdf</a>)
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+     <a href="_attachments/BIOE381_1.pdf" target="_blank"><i class="fas fa-file-pdf" style="font-size:18px;"></i></a>
 
 * .. raw:: html
 
      Bone Mechanics I
-     (<a href="_attachments/BIOE381_2.pdf" target="_blank">.pdf</a>)
+     <a href="_attachments/BIOE381_2.pdf" target="_blank"><i class="fas fa-file-pdf" style="font-size:18px;"></i></a>
 
 * .. raw:: html
 
      Bone Mechanics II
-     (<a href="_attachments/BIOE381_3.pdf" target="_blank">.pdf</a>)
+     <a href="_attachments/BIOE381_3.pdf" target="_blank"><i class="fas fa-file-pdf" style="font-size:18px;"></i></a>
 
 * .. raw:: html
 
      Bone Imaging I
-     (<a href="_attachments/BIOE381_4.pdf" target="_blank">.pdf</a>)
+     <a href="_attachments/BIOE381_4.pdf" target="_blank"><i class="fas fa-file-pdf" style="font-size:18px;"></i></a>
 
 * .. raw:: html
 
      Bone Imaging II
-     (<a href="_attachments/BIOE381_5.pdf" target="_blank">.pdf</a>)
+     <a href="_attachments/BIOE381_5.pdf" target="_blank"><i class="fas fa-file-pdf" style="font-size:18px;"></i></a>
 
 * .. raw:: html
 
      Bone Quality and Fracture
-     (<a href="_attachments/BIOE381_6.pdf" target="_blank">.pdf</a>)
+     <a href="_attachments/BIOE381_6.pdf" target="_blank"><i class="fas fa-file-pdf" style="font-size:18px;"></i></a>
 
 |
 
@@ -55,7 +56,7 @@ Clinical Needs and Technology (BIOE 301B)
 * .. raw:: html
 
      Introduction to X-ray-based Imaging
-     (<a href="_attachments/BIO301B.pdf" target="_blank">.pdf</a>)
+     <a href="_attachments/BIO301B.pdf" target="_blank"><i class="fas fa-file-pdf" style="font-size:18px;"></i></a>
 
 * Minimally Invasive Therapies in Swine
   (Laboratory)
@@ -88,7 +89,7 @@ Musculoskeletal Imaging (BI 240)
 
      Assessment of Bone Strength - Foundations of FE and microFE
      (Blackboard class)
-     (<a href="_attachments/BI_240.pdf" target="_blank">.pdf of support material</a>)
+     <a href="_attachments/BI_240.pdf" target="_blank"><i class="fas fa-file-pdf" style="font-size:18px;"></i> support material</a>
 
 |
 
@@ -99,4 +100,6 @@ Medical Image Analysis
 * .. raw:: html
 
      Statistical Shape Models
-     (<a href="_attachments/SSM.pdf" target="_blank">.pdf</a>)
+     <a href="_attachments/SSM.pdf" target="_blank"><i class="fas fa-file-pdf" style="font-size:18px;"></i></a>
+
+|
