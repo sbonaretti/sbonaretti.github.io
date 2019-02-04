@@ -9,10 +9,10 @@ Software
 
 |
 
-pyKNEEr: A Reproducible Workflow to Segment and Analyze Knee Cartilage
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+*pyKNEEr*: An image analysis workflow for open and reproducible research on femoral knee cartilage
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Open-source, reproducible, and automatic method to segment and analyze femoral knee cartilage
+An automatic method to preprocess, segment, and analyze femoral knee cartilage for transparent research
 
 *Project description*: :ref:`here<pykneer>`
 
@@ -20,12 +20,15 @@ Open-source, reproducible, and automatic method to segment and analyze femoral k
 
    <i>Language</i>: <a href="https://www.python.org/" target="_blank">python</a>
                     with
-                    <a href="http://jupyter.org/" target="_blank">Jupyter Notebooks</a>
+                    <a href="http://jupyter.org/" target="_blank">Jupyter Notebooks</a>,
+                    <a href="https://simpleitk.readthedocs.io/en/next/" target="_blank">SimpleITK</a>,
                     and
                     <a href="http://elastix.isi.uu.nl/index.php" target="_blank">Elastix</a>
                     <br>
    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
    <i>Repository</i>: <a href="https://github.com/sbonaretti/pyKNEEr" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
+   <br>
+   <i>Documentation</i>: <a href="https://sbonaretti.github.io/pyKNEEr/" target="_blank"><i class="fa fa-newspaper" style="font-size:21px;"></i></a>
    <br>
    <i>Publication</i>: coming soon
 
@@ -57,6 +60,8 @@ Statistical appearance model of femur for finite element simulations of differen
    <a href="https://www.ncbi.nlm.nih.gov/pubmed/25271191" target="_blank"><i class="fas fa-book" style="font-size:21px;"></i></a>
    <a href="http://www.mauricioreyes.me/Publications/BonarettiMEP2014.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
 
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
 |
 
 *Students' projects I supervised*
@@ -78,7 +83,7 @@ A webapp to train and evaluate HR-pQCT operators to acquire standardized images
 
    <i>Webapp</i>: <a href="http://webapps.radiology.ucsf.edu/refline/" target="_blank"><i class="fas fa-globe-americas" style="font-size:18px;"></i></a>
    <br>
-   <i>Language</i>: HTML with CSS
+   <i>Language</i>: HTML with CSS and Javascript
    <br>
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
    <i>Repository</i>: <a href="https://github.com/sbonaretti/referenceLine" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>

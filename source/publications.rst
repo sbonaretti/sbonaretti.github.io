@@ -3,6 +3,19 @@ Publications
 
 |
 
+Preprint Papers
+--------------------------------------------------------------------------------
+
+* .. raw:: html
+
+     <u>Bonaretti S.</u>, Gold G.E., Beaupre G.S. <br>
+     <b><i>pyKNEEr</i>: An Image Analysis Workflow for Open and Reproducible Research on Femoral Knee Cartilage.</b> <br>
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+     <a href="" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a> (soon on BioRxiv)
+     <p style="margin-bottom:0.3cm;"></p>
+
+|
+
 Journal Papers
 --------------------------------------------------------------------------------
 
@@ -153,7 +166,7 @@ Peer Reviewed Conference Papers
 
      <u>Bonaretti S.</u>, Reimers N., Reyes M., Nikitsin A., Joensson A., Nolte L., Büchler P. <br>
      <b>Assessment of Peri-Articular Implant Fitting Based on Statistical Finite Element Modelling.</b> <br>
-     Computational Biomechanics for Medicine III – MICCAI 2008 workshop. 10 September 2008. New York, NY.<br>
+     Computational Biomechanics for Medicine III – MICCAI 2008 workshop. 10 September 2008. New York, NY, USA.<br>
      <a href="_attachments/2008_MiccaiWS_paper.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
      <a href="_attachments/2008_MiccaiWS_presentation.pdf" target="_blank"><i class="fa fa-desktop" style="font-size:18px;"></i></a>
      <p style="margin-bottom:0.3cm;"></p>
@@ -173,7 +186,7 @@ Conference Abstracts
      <b>pyKNEEr: Reproducible Workflow for Automatic Segmentation and Analyis of Femoral Knee Cartilage.</b> <br>
      QMSKI 2019. 24 February - 1 March 2019. Chateau Lake Louise, Canada. <br>
      <a href="https://github.com/sbonaretti/2019_QMSKI/blob/master/Abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-     <a href="https://github.com/sbonaretti/2019_QMSKI" target="_blank"><i class="fas fa-code" style="font-size:18px;"></i></a>
+     <a href="https://github.com/sbonaretti/2019_QMSKI" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
      <p style="margin-bottom:0.3cm;"></p>
 
 * .. raw:: html

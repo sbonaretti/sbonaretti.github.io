@@ -5,43 +5,78 @@ Projects
 
 |
 
-pyKNEEr: A Reproducible Workflow to Segment and Analyze Knee Cartilage
---------------------------------------------------------------------------------
+Transparent Quantitative Musculoskeletal Imaging (QMSKI) Research
+-----------------------------------------------------------------
 
-Development of an open-source, reproducible, and automatic method to segment and analyze femoral knee cartilage.
+Workshop
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* .. raw:: html
+
+     <b>Hands-on Transparent QMSKI: Open-Access Data, Reproducible Workflows, and Interactive Publications.</b>
+     <br>
+     <a href="https://qmski.org/" target="_blank">22nd International Workshop on Quantitative Musculoskeletal Imaging (QMSKI).</a>
+     <br>
+     25 February 2019. Chateau Lake Louise, Canada.
+     <br>
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+     <a href="https://github.com/sbonaretti/2019_QMSKI_Transparent_Research_WS" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
+     <p style="margin-bottom:0.3cm;"></p>
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+|
+
+*pyKNEEr*: An image analysis workflow for open and reproducible research on femoral knee cartilage
+--------------------------------------------------------------------------------------------------
+
+An automatic method to preprocess, segment, and analyze femoral knee cartilage for transparent research
 
 .. raw:: html
 
    <b>PI</b>: <a href="http://pavir.org/means/researchers/gary-s-beaupre-ph-d/" target="_blank"> Gary Beaupre </a> (VA Palo Alto)
-
-Publications
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-*Journal Papers*
-
-* Coming in December
-
-*Conference abstracts*
-
-* .. raw:: html
-
-     <u>Bonaretti S.</u>, Gold G., Beaupre G. <br>
-     <b>pyKNEEr: Reproducible Workflow for Automatic Segmentation and Analyis of Femoral Knee Cartilage.</b> <br>
-     QMSKI 2019. 24 February - 1 March 2019. Chateau Lake Louise, Canada. <br>
-     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-     <a href="https://github.com/sbonaretti/2019_QMSKI/blob/master/Abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-     <a href="https://github.com/sbonaretti/2019_QMSKI" target="_blank"><i class="fas fa-code" style="font-size:18px;"></i></a>
-     <p style="margin-bottom:0.3cm;"></p>
 
 Code
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 * .. raw:: html
 
-     Coming in December <br>
-     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-     <a href="https://github.com/sbonaretti/pyKNEEr" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <a href="https://github.com/sbonaretti/pyKNEEr" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
+    <a href="https://sbonaretti.github.io/pyKNEEr/" target="_blank"><i class="fa fa-newspaper" style="font-size:21px;"></i></a>
+    (under construction)
+    <p style="margin-bottom:0.3cm;"></p>
+
+
+Publications
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+*Journal Paper*
+
+* .. raw:: html
+
+     <u>Bonaretti S.</u>, Gold G., Beaupre G. <br>
+     <b><i>pyKNEEr</i>: An Image Analysis Workflow for Open and Reproducible Research on Femoral Knee Cartilage.</b> <br>
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+     <a href="" target="_blank"><i class="fas fa-book-open" style="font-size:21px;"></i></a>
+     <a href="https://github.com/sbonaretti/pyKNEEr/tree/master/publication" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
+     (coming soon)
      <p style="margin-bottom:0.3cm;"></p>
+
+
+*Conference abstracts*
+
+* .. raw:: html
+
+     <u>Bonaretti S.</u>, Gold G., Beaupre G. <br>
+     <b><i>pyKNEEr</i>: Reproducible Workflow for Automatic Segmentation and Analysis of Femoral Knee Cartilage.</b> <br>
+     QMSKI 2019. 24 February - 1 March 2019. Chateau Lake Louise, Canada. <br>
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+     <a href="https://github.com/sbonaretti/2019_QMSKI/blob/master/Abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+     <a href="https://github.com/sbonaretti/2019_QMSKI" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
+     <p style="margin-bottom:0.3cm;"></p>
+
 
 
 
@@ -502,16 +537,7 @@ PhD Thesis
      <b>Statistical Models of Shape and Density for Population-based Analysis of Bone Mechanics with Applications to Fracture Risk Assessment and Implant Design.</b>  <br>
      Ph.D. thesis. 2011. <br>
      <a href="_attachments/2011_PhDThesis.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-     <p style="margin-bottom:0.3cm;"></p>
-
-
-Code
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-* .. raw:: html
-
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-     The code is written in C++ and uses VTK and ITK libraries. <br>
      <a href="https://github.com/sbonaretti/SAMforFEM" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
 
 |
