@@ -34,7 +34,9 @@ An automatic method to preprocess, segment, and analyze femoral knee cartilage f
 
 .. raw:: html
 
-   <b>PI</b>: <a href="http://pavir.org/means/researchers/gary-s-beaupre-ph-d/" target="_blank"> Gary Beaupre </a> (VA Palo Alto)
+   <b>PIs</b>: <a href="http://pavir.org/means/researchers/gary-s-beaupre-ph-d/" target="_blank"> Gary Beaupre </a> (VA Palo Alto, Stanford University) and
+   <a href="https://med.stanford.edu/profiles/garry-gold" target="_blank"> Garry Gold </a> (Stanford University)
+
 
 Code
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -51,7 +53,7 @@ Code
 Publications
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-*Journal Paper*
+*Preprint Paper*
 
 * .. raw:: html
 
@@ -64,7 +66,7 @@ Publications
      <p style="margin-bottom:0.3cm;"></p>
 
 
-*Conference abstracts*
+*Conference Abstracts*
 
 * .. raw:: html
 
@@ -109,7 +111,7 @@ Publications
      <a href="https://agbi.techfak.uni-bielefeld.de/imbio/ib2017/preprints/JIB.2017.0015PRE.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
      <p style="margin-bottom:0.3cm;"></p>
 
-*Conference abstracts*
+*Conference Abstracts*
 
 * .. raw:: html
 
@@ -302,7 +304,7 @@ Publications
      <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4589175/pdf/nihms608850.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
      <p style="margin-bottom:0.3cm;"></p>
 
-*Conference abstracts*
+*Conference Abstracts*
 
 * .. raw:: html
 
