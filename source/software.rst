@@ -26,11 +26,16 @@ An automatic method to preprocess, segment, and analyze femoral knee cartilage f
                     <a href="http://elastix.isi.uu.nl/index.php" target="_blank">Elastix</a>
                     <br>
    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-   <i>Repository</i>: <a href="https://github.com/sbonaretti/pyKNEEr" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
+   <i>Code repositories</i>: <a href="https://github.com/sbonaretti/pyKNEEr" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
+                             and 
+                             <a href="https://zenodo.org/badge/latestdoi/155445441" target="_blank">Zenodo</a>
+   <br>
+   <i>Data repository</i>: <a href="https://zenodo.org/record/2530609" target="_blank"><i class="fa fa-database" style="font-size:21px;"></i></a>
    <br>
    <i>Documentation</i>: <a href="https://sbonaretti.github.io/pyKNEEr/" target="_blank"><i class="fa fa-newspaper" style="font-size:21px;"></i></a>
    <br>
-   <i>Publication</i>: coming soon
+   <i>Publication</i>: <a href="https://www.biorxiv.org/content/10.1101/556423v1" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
+
 
 |
 
