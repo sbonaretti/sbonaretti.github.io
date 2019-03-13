@@ -18,7 +18,7 @@ Serena Bonaretti
 
 .. raw:: html
 
-   <!-- figures have to be in the folder -->
+   <!-- figures have to be in the folder _images-->
 
 
 .. figure:: _images/photo.jpg
@@ -66,6 +66,9 @@ Email: serena dot bonaretti at stanford dot edu
    <a href="https://twitter.com/serenabonaretti" target="_blank"><i class="fa fa-twitter" style="font-size:21px;"></i></a>
 
    <a href="https://www.linkedin.com/in/serena-bonaretti-1bb9b239/" target="_blank"><i class="fa fa-linkedin" style="font-size:21px;"></i></a>
+
+   <a itemprop="sameAs" content="https://orcid.org/0000-0003-4264-1773"
+      href="https://orcid.org/0000-0003-4264-1773" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-4264-1773</a>
 
 
 |
