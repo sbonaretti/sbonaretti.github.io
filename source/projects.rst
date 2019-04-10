@@ -24,6 +24,47 @@ Workshop
      <a href="https://zenodo.org/record/2577617#.XHXYk1NKigw" target="_blank"><i class="fa fa-desktop" style="font-size:18px;"></i></a>
      <p style="margin-bottom:0.3cm;"></p>
 
+Documentation
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* .. raw:: html
+
+     <b>Guidelines on how to conduct transparent QMSKI research</b>
+     <br>
+     (Under construction)
+     <br>
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+     <a href="https://github.com/QMSKI/TransparentQMSKI/wiki" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
+     <br>
+
+GitHub repository of the QMSKI community
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* .. raw:: html
+
+    <b>Repository with information and guideline for the QMSKI community</b>
+    <br>
+    (Under construction)
+    <br>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <a href="https://github.com/QMSKI" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
+    <br>
+
+
+Zenodo repository of the QMSKI community
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* .. raw:: html
+
+    <b>Data shared by the QMSKI community</b>
+    <br>
+    (Under construction)
+    <br>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <a href="https://zenodo.org/search?page=1&size=20&q=qmski" target="_blank">Zenodo<i  style="font-size:21px;"></i></a>
+    <br>
+
+
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 |
@@ -65,6 +106,7 @@ Publications
      <a href="https://www.biorxiv.org/content/10.1101/556423v1" target="_blank"><i class="fas fa-book-open" style="font-size:21px;"></i></a>
      <a href="https://github.com/sbonaretti/pyKNEEr/tree/master/publication" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
      <a href="https://zenodo.org/record/2530609" target="_blank"><i class="fa fa-database" style="font-size:21px;"></i></a>
+     <a href="_attachments/bib/2019_Bonaretti_pyNEEr.bib" target="_blank">.bib</i></a>
      <p style="margin-bottom:0.3cm;"></p>
 
 
@@ -112,6 +154,7 @@ Publications
      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
      <a href="https://www.ncbi.nlm.nih.gov/pubmed/28753537" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
      <a href="https://agbi.techfak.uni-bielefeld.de/imbio/ib2017/preprints/JIB.2017.0015PRE.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
+     <a href="_attachments/bib/2017_Maier_cartThickness.bib" target="_blank">.bib</i></a>
      <p style="margin-bottom:0.3cm;"></p>
 
 *Conference Abstracts*
@@ -172,6 +215,7 @@ Publications
      Osteoporos Int. 28(1), 245-257. 2017. <br>
      <a href="https://www.ncbi.nlm.nih.gov/pubmed/27475931" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
      <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5568957/pdf/nihms879188.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
+     <a href="_attachments/bib/2017_Bonaretti_refLine.bib" target="_blank">.bib</i></a>
      <p style="margin-bottom:0.3cm;"></p>
 
 * .. raw:: html
@@ -181,6 +225,7 @@ Publications
      Osteoporos Int. 28(7), 2115-2128. 2017. <br>
      <a href="https://www.ncbi.nlm.nih.gov/pubmed/28391447" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a> 
      <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5526099/pdf/nihms879274.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
+     <a href="_attachments/bib/2017_Bonaretti_standardAnatomy.bib" target="_blank">.bib</i></a>
      <p style="margin-bottom:0.3cm;"></p>
 
 * .. raw:: html
@@ -190,6 +235,7 @@ Publications
      Ann Biomed Eng. 45(5), 949-962. 2017. <br>
      <a href="https://www.ncbi.nlm.nih.gov/pubmed/27830488" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
      <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5811200/pdf/nihms851684.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
+     <a href="_attachments/bib/2017_CarballidoGamio_paramHRpQCT.bib" target="_blank">.bib</i></a>
      <p style="margin-bottom:0.3cm;"></p>
 
 * .. raw:: html
@@ -198,6 +244,7 @@ Publications
      <b>Quantifying Sex, Race and Age Specific Differences in Bone Microstructure Requires Measurement of Anatomically Equivalent Regions.</b> <br>
      Bone. 101, 206-213. 2017. <br>
      <a href="https://www.ncbi.nlm.nih.gov/pubmed/28502884" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
+     <a href="_attachments/bib/2017_GhasemZadeh_equivalentRegions.bib" target="_blank">.bib</i></a>
      <p style="margin-bottom:0.3cm;"></p>
 
 
@@ -287,6 +334,7 @@ Publications
      Phys Med Biol. 59(24), 7819-34. 2014. <br>
      <a href="https://www.ncbi.nlm.nih.gov/pubmed/25419618" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
      <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4442068/pdf/nihms646129.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
+     <a href="_attachments/bib/2014_Bonaretti_antroPhantom.bib" target="_blank">.bib</i></a>
      <p style="margin-bottom:0.3cm;"></p>
 
 * .. raw:: html
@@ -296,6 +344,7 @@ Publications
      Quant Imaging Med Surg. 5(4), 552-68. 2015. <br>
      <a href="https://www.ncbi.nlm.nih.gov/pubmed/26435919" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
      <a href="http://qims.amegroups.com/article/view/7176/8471" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
+     <a href="_attachments/bib/2017_CarballidoGamio_multiParamFemur.bib" target="_blank">.bib</i></a>
      <p style="margin-bottom:0.3cm;"></p>
 
 * .. raw:: html
@@ -305,6 +354,7 @@ Publications
      Med Eng and Phys. 36(10), 1225-32. 2014. <br>
      <a href="https://www.ncbi.nlm.nih.gov/pubmed/25001172" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
      <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4589175/pdf/nihms608850.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
+     <a href="_attachments/bib/2014_Carpenter_crossCalib.bib" target="_blank">.bib</i></a>
      <p style="margin-bottom:0.3cm;"></p>
 
 *Conference Abstracts*
@@ -374,6 +424,7 @@ Publications
      Medical Engineering and Physics. Dec;36(12):1626-35. 2014. <br>
      <a href="https://www.ncbi.nlm.nih.gov/pubmed/25271191" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
      <a href="http://www.mauricioreyes.me/Publications/BonarettiMEP2014.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
+     <a href="_attachments/bib/2014_Bonaretti_SAMforFEM.bib" target="_blank">.bib</i></a>
      <p style="margin-bottom:0.3cm;"></p>
 
 * .. raw:: html
@@ -383,6 +434,7 @@ Publications
      J Med Internet Res. 12;15(11):e245. 2013. <br>
      <a href="https://www.ncbi.nlm.nih.gov/pubmed/24220210" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
      <a href="https://asset.jmir.pub/assets/398863992801a947307649a758056d86.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
+     <a href="_attachments/bib/2013_Kistler_VSD.bib" target="_blank">.bib</i></a>
      <p style="margin-bottom:0.3cm;"></p>
 
 * .. raw:: html
@@ -392,6 +444,7 @@ Publications
      Open Orthop J. 6,1-7. <br>
      <a href="https://www.ncbi.nlm.nih.gov/pubmed/22312417" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
      <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3271305/pdf/TOORTHJ-6-1.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
+     <a href="_attachments/bib/2012_Schulz_fibulaPlate.bib" target="_blank">.bib</i></a>
      <p style="margin-bottom:0.3cm;"></p>
 
 *Conference Papers*
