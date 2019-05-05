@@ -55,7 +55,7 @@ Documentation
 
      <b>Guidelines on how to conduct transparent research</b>
      <br>
-     Wiki for the quantitative musculoskeletal imaging (QMSKI) community, but valid for any research field
+     Wiki for the quantitative musculoskeletal imaging (QMSKI) community that can be easily adapted to other fields
      <br>
      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
      <a href="https://github.com/QMSKI/TransparentQMSKI/wiki" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
