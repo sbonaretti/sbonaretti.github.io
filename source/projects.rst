@@ -1,73 +1,9 @@
 Projects
 ================================================================================
 
+|
+
 .. _pykneer:
-
-|
-
-Transparent Quantitative Musculoskeletal Imaging (QMSKI) Research
------------------------------------------------------------------
-
-Workshop
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-* .. raw:: html
-
-     <b>Hands-on Transparent QMSKI: Open-Access Data, Reproducible Workflows, and Interactive Publications.</b>
-     <br>
-     <a href="https://qmski.org/" target="_blank">22nd International Workshop on Quantitative Musculoskeletal Imaging (QMSKI).</a>
-     <br>
-     25 February 2019. Chateau Lake Louise, Canada.
-     <br>
-     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-     <a href="https://github.com/sbonaretti/2019_QMSKI_Transparent_Research_WS" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
-     <a href="https://zenodo.org/record/2577617#.XHXYk1NKigw" target="_blank"><i class="fa fa-desktop" style="font-size:18px;"></i></a>
-     <p style="margin-bottom:0.3cm;"></p>
-
-Documentation
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-* .. raw:: html
-
-     <b>Guidelines on how to conduct transparent QMSKI research</b>
-     <br>
-     (Under construction)
-     <br>
-     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-     <a href="https://github.com/QMSKI/TransparentQMSKI/wiki" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
-     <br>
-
-GitHub repository of the QMSKI community
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-* .. raw:: html
-
-    <b>Repository with information and guideline for the QMSKI community</b>
-    <br>
-    (Under construction)
-    <br>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-    <a href="https://github.com/QMSKI" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
-    <br>
-
-
-Zenodo repository of the QMSKI community
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-* .. raw:: html
-
-    <b>Data shared by the QMSKI community</b>
-    <br>
-    (Under construction)
-    <br>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-    <a href="https://zenodo.org/search?page=1&size=20&q=qmski" target="_blank">Zenodo<i  style="font-size:21px;"></i></a>
-    <br>
-
-
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-
-|
 
 *pyKNEEr*: An Image Analysis Workflow for Open and Reproducible Research on Femoral Knee Cartilage
 --------------------------------------------------------------------------------------------------
@@ -103,7 +39,7 @@ Publications
      <b><i>pyKNEEr</i>: An Image Analysis Workflow for Open and Reproducible Research on Femoral Knee Cartilage.</b> <br>
      bioRxiv 10.1101/556423. 2019.
      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-     <a href="https://www.biorxiv.org/content/10.1101/556423v1" target="_blank"><i class="fas fa-book-open" style="font-size:21px;"></i></a>
+     <a href="https://doi.org/10.1101/556423" target="_blank"><i class="fas fa-book-open" style="font-size:21px;"></i></a>
      <a href="https://github.com/sbonaretti/pyKNEEr/tree/master/publication" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
      <a href="https://zenodo.org/record/2530609" target="_blank"><i class="fa fa-database" style="font-size:21px;"></i></a>
      <a href="_attachments/bib/2019_Bonaretti_pyNEEr.bib" target="_blank">.bib</i></a>

@@ -9,6 +9,7 @@ Serena Bonaretti
 .. toctree::
    :hidden:
 
+   transparentResearch
    projects
    publications
    teaching
@@ -43,11 +44,12 @@ Serena Bonaretti
 |
 
 
-I am a researcher specialized in image acquisition, image processing, and biomechanics to investigate aging diseases of the musculoskeletal system
+I am a researcher interested in :ref:`transparent research <transparentResearch>`, including  open data management, reproducible workflows, and interactive publications
 
-I enjoy developing my workflows using Jupyter Notebooks and python, and I aim to to make all my material open-source and reproducible
+I am specialized in image acquisition, image processing, and biomechanics to investigate aging diseases of the musculoskeletal system. See my latest release  :ref:`pyKNEEr <pykneer>`
 
 I also enjoy teaching and all my material is freely available
+
 
 |
 
@@ -56,7 +58,7 @@ I also enjoy teaching and all my material is freely available
    Complete CV:  <a href="_attachments/CV_SBonaretti.pdf" target="_blank">here</a>
    <p style="margin-bottom:0.3cm;"></p>
 
-Email: serena dot bonaretti at stanford dot edu
+Email: serena dot bonaretti at maastrichtuniversity dot nl
 
 
 .. raw:: html

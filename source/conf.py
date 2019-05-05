@@ -194,12 +194,15 @@ html_theme_options = {
 
 
     'navbar_links': [
-
+    
+        ("Transparent Research", "transparentResearch"),
         ("Projects", "projects"),
         ("Publications", "publications"),
         ("Teaching", "teaching"),
         ("Software", "software")
     ],
+
+
 }
 
 ####################################
