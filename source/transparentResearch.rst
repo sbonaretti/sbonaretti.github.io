@@ -50,6 +50,7 @@ Talks
 Documentation
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+.. _guidelines:
 * .. raw:: html
 
      <b>Guidelines on how to conduct transparent research</b>
@@ -59,6 +60,7 @@ Documentation
      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
      <a href="https://github.com/QMSKI/TransparentQMSKI/wiki" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
      <br>
+     <p style="margin-bottom:0.3cm;"></p>
 
 |
 
@@ -67,21 +69,34 @@ For the QMSKI community
 
 * .. raw:: html
 
-    <b>GitHub repository for the QMSKI community</b>
+    <b>Guidelines on on how to conduct transparent research</b>
+    <br>
+    See <i>Documentation</i> above
+    <br>
+    <p style="margin-bottom:0.3cm;"></p>
+
+* .. raw:: html
+
+    <b>GitHub repository</b>
     <br>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <a href="https://github.com/QMSKI" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
     <br>
+    <p style="margin-bottom:0.3cm;"></p>
+
 
 * .. raw:: html
 
-    <b>Zenodo repository of the QMSKI community</b>
+    <b>Zenodo repository</b>
     <br>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <a href="https://zenodo.org/search?page=1&size=20&q=qmski" target="_blank">Zenodo<i  style="font-size:21px;"></i></a>
     <br>
+    <p style="margin-bottom:0.3cm;"></p>
 
 |
+
+
 
 .. raw:: html
 
