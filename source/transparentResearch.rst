@@ -82,3 +82,8 @@ For the QMSKI community
     <br>
 
 |
+
+.. raw:: html
+
+  <!--This line is necessary to render the GitHub icon-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
