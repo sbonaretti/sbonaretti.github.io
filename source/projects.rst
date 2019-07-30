@@ -27,6 +27,16 @@ Code
     <a href="https://sbonaretti.github.io/pyKNEEr/" target="_blank"><i class="fa fa-newspaper" style="font-size:21px;"></i></a>
     <p style="margin-bottom:0.3cm;"></p>
 
+Documentation
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* .. raw:: html
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <a href="https://sbonaretti.github.io/pyKNEEr/" target="_blank"><i class="fa fa-newspaper" style="font-size:21px;"></i></a>
+    <a href="https://www.youtube.com/channel/UCk1sLroo_tgJqcn-0EVh6zQ/videos" target="_blank"><i class="fab fa-youtube" style="font-size:21px;"></i></a>
+    <p style="margin-bottom:0.3cm;"></p>
+
 
 Publications
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
