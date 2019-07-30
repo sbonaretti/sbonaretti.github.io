@@ -44,9 +44,11 @@ Publications
 
 * .. raw:: html
 
-     <u>Bonaretti S.</u>, Gold G., Beaupre G. <br>
+     <u>Bonaretti S.</u>, Gold G., Beaupre G.
+     <br>
      <b><i>pyKNEEr</i>: An Image Analysis Workflow for Open and Reproducible Research on Femoral Knee Cartilage.</b> <br>
      bioRxiv 10.1101/556423. 2019.
+     <br>
      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
      <a href="https://doi.org/10.1101/556423" target="_blank"><i class="fas fa-book-open" style="font-size:21px;"></i></a>
      <a href="https://github.com/sbonaretti/pyKNEEr/tree/master/publication" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
@@ -59,9 +61,12 @@ Publications
 
 * .. raw:: html
 
-     <u>Bonaretti S.</u>, Gold G., Beaupre G. <br>
-     <b><i>pyKNEEr</i>: Reproducible Workflow for Automatic Segmentation and Analysis of Femoral Knee Cartilage.</b> <br>
-     QMSKI 2019. 24 February - 1 March 2019. Chateau Lake Louise, Canada. <br>
+     <u>Bonaretti S.</u>, Gold G., Beaupre G.
+     <br>
+     <b><i>pyKNEEr</i>: Reproducible Workflow for Automatic Segmentation and Analysis of Femoral Knee Cartilage.</b>
+     <br>
+     QMSKI 2019. 24 February - 1 March 2019. Chateau Lake Louise, Canada.
+     <br>
      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
      <a href="https://github.com/sbonaretti/2019_QMSKI/blob/master/Abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
