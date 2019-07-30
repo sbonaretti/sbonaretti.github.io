@@ -10,42 +10,39 @@ Talks
 
 * .. raw:: html
 
-     <b>Transparent Quantitative Musculoskeletal Imaging.</b>
+     <a href="http://www.doi.org/10.5281/zenodo.3250361" target="_blank"><b>Transparent Quantitative Musculoskeletal Imaging</b></a>
      <br>
      <a href="https://www6.erasmusmc.nl/admire/" target="_blank">Department of Radiology, ADMIRE group</a>
      <br>
      Erasmus Medical Center, Rotterdam, The Netherlands. 20 June 2019.
      <br>
-     <a href="http://www.doi.org/10.5281/zenodo.3250361" target="_blank"><i class="fa fa-desktop" style="font-size:18px;"></i></a>
      <p style="margin-bottom:0.3cm;"></p>
 
 
 * .. raw:: html
 
-     <b>Data Management for Transparent Research.</b>
+     <a href="http://www.doi.org/10.5281/zenodo.2667535" target="_blank"><b>Data Management for Transparent Research</b></a>
      <br>
      <a href="https://www.bigcat.unimaas.nl/science-cafe/" target="_blank">BiGCaT Science Café</a>
      <br>
      Maastricht University, Maastricht, The Netherlands. 2 May 2019.
      <br>
-     <a href="http://www.doi.org/10.5281/zenodo.2667535" target="_blank"><i class="fa fa-desktop" style="font-size:18px;"></i></a>
      <p style="margin-bottom:0.3cm;"></p>
 
 * .. raw:: html
 
-    <b>Hands-on Transparent Research: Open-Access Data, Reproducible Workflows, and Interactive Publications.</b>
+    <a href="http://www.doi.org/10.5281/zenodo.2667527" target="_blank"><b>Hands-on Transparent Research: Open-Access Data, Reproducible Workflows, and Interactive Publications</b></a>
     <br>
     <a href="https://www.bigcat.unimaas.nl/science-cafe/" target="_blank">BiGCaT Science Café</a>
     <br>
     Maastricht University, Maastricht, The Netherlands. 18 April 2019.
     <br>
-    <a href="http://www.doi.org/10.5281/zenodo.2667527" target="_blank"><i class="fa fa-desktop" style="font-size:18px;"></i></a>
     <p style="margin-bottom:0.3cm;"></p>
 
 
 * .. raw:: html
 
-     <b>Hands-on Transparent QMSKI: Open-Access Data, Reproducible Workflows, and Interactive Publications.</b>
+     <a href="https://zenodo.org/record/2577617#.XHXYk1NKigw" target="_blank"><b>Hands-on Transparent QMSKI: Open-Access Data, Reproducible Workflows, and Interactive Publications</b></a>
      <br>
      <a href="https://qmski.org/" target="_blank">22nd International Workshop on Quantitative Musculoskeletal Imaging (QMSKI)</a>
      <br>
@@ -53,7 +50,7 @@ Talks
      <br>
      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
      <a href="https://github.com/sbonaretti/2019_QMSKI_Transparent_Research_WS" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
-     <a href="https://zenodo.org/record/2577617#.XHXYk1NKigw" target="_blank"><i class="fa fa-desktop" style="font-size:18px;"></i></a>
+
      <p style="margin-bottom:0.3cm;"></p>
 
 |
