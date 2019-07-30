@@ -32,7 +32,7 @@ An automatic method to preprocess, segment, and analyze femoral knee cartilage f
    <br>
    <i>Data repository</i>: <a href="https://zenodo.org/record/2530609" target="_blank"><i class="fa fa-database" style="font-size:21px;"></i></a>
    <br>
-   <i>Documentation</i>: <a href="https://sbonaretti.github.io/pyKNEEr/" target="_blank"><i class="fa fa-newspaper" style="font-size:21px;"></i></a>
+   <i>Documentation</i>: <a href="https://sbonaretti.github.io/pyKNEEr/" target="_blank"><i class="fas fa-file-alt" style="font-size:21px;"></i></a>
    <br>
    <i>Video</i>: <a href="https://www.youtube.com/channel/UCk1sLroo_tgJqcn-0EVh6zQ/videos" target="_blank"><i class="fab fa-youtube" style="font-size:21px;"></i></a>
    <br>
