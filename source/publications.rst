@@ -8,6 +8,21 @@ Preprint Papers
 
 * .. raw:: html
 
+     <u>Bonaretti S.</u>, Willighagen E.
+     <br>
+     <b>Two real use cases of FAIR maturity indicators in the life sciences.</b> <br>
+     bioRxiv 10.1101/739334. 2019.
+     <br>
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+     <a href="https://doi.org/10.1101/739334" target="_blank"><i class="fas fa-book-open" style="font-size:21px;"></i></a>
+     <a href="https://github.com/sbonaretti/FAIR_metrics/tree/master/paper" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
+     <a href="_attachments/bib/2019_Bonaretti_FAIRmetrics.bib" target="_blank">.bib</i></a>
+     <p style="margin-bottom:0.3cm;"></p>
+
+
+
+* .. raw:: html
+
      <u>Bonaretti S.</u>, Gold G., Beaupre G.
      <br>
      <b><i>pyKNEEr</i>: An Image Analysis Workflow for Open and Reproducible Research on Femoral Knee Cartilage.</b> <br>

@@ -3,6 +3,49 @@ Projects
 
 |
 
+FAIR maturity indicators in the life sciences
+---------------------------------------------
+
+Calculation of FAIR maturity indicators for life science datasets
+
+.. raw:: html
+
+   <b>PI</b>: <a href="https://orcid.org/0000-0001-7542-0286" target="_blank"> Egon Willighagen </a> (Maastricht University)
+
+
+Code
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* .. raw:: html
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <a href="https://github.com/sbonaretti/FAIR_metrics" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
+
+
+Publications
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+*Preprint Paper*
+
+* .. raw:: html
+
+    <u>Bonaretti S.</u>, Willighagen E.
+    <br>
+    <b>Two real use cases of FAIR maturity indicators in the life sciences.</b> <br>
+    bioRxiv 10.1101/739334. 2019.
+    <br>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <a href="https://doi.org/10.1101/739334" target="_blank"><i class="fas fa-book-open" style="font-size:21px;"></i></a>
+    <a href="https://github.com/sbonaretti/FAIR_metrics/tree/master/paper" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
+    <a href="_attachments/bib/2019_Bonaretti_FAIRmetrics.bib" target="_blank">.bib</i></a>
+    <p style="margin-bottom:0.3cm;"></p>
+
+
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+|
+
 .. _pykneer:
 
 *pyKNEEr*: An Image Analysis Workflow for Open and Reproducible Research on Femoral Knee Cartilage
@@ -53,7 +96,7 @@ Publications
      <a href="https://doi.org/10.1101/556423" target="_blank"><i class="fas fa-book-open" style="font-size:21px;"></i></a>
      <a href="https://github.com/sbonaretti/pyKNEEr/tree/master/publication" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
      <a href="https://zenodo.org/record/2530609" target="_blank"><i class="fa fa-database" style="font-size:21px;"></i></a>
-     <a href="_attachments/bib/2019_Bonaretti_pyNEEr.bib" target="_blank">.bib</i></a>
+     <a href="_attachments/bib/2019_Bonaretti_pyKNEEr.bib" target="_blank">.bib</i></a>
      <p style="margin-bottom:0.3cm;"></p>
 
 

@@ -7,6 +7,16 @@ Transparent research
 
 Talks
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+* .. raw:: html
+
+    <a href="http://www.doi.org/10.5281/zenodo.3403080" target="_blank"><b>Transparent Research: Open-Access Data, Reproducible Workflows, and Interactive Publications</b></a>
+    <br>
+    <a href="https://www.toscainternational.org/tosca-UK-2019" target="_blank">ToScA 2019</a>
+    <br>
+    Southampton, United Kingdom. 12 September 2019.
+    <br>
+    <p style="margin-bottom:0.3cm;"></p>
+
 
 * .. raw:: html
 
@@ -59,6 +69,7 @@ Documentation
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. _guidelines:
+
 * .. raw:: html
 
      <b>Guidelines on how to conduct transparent research</b>
