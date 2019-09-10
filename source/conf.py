@@ -194,7 +194,7 @@ html_theme_options = {
 
 
     'navbar_links': [
-    
+
         ("Transparent Research", "transparentResearch"),
         ("Projects", "projects"),
         ("Publications", "publications"),
@@ -202,7 +202,14 @@ html_theme_options = {
         ("Software", "software")
     ],
 
+    'body_max_width': 'auto'
+
 
 }
+
+# overwrite css
+#def setup(app):
+#    app.add_stylesheet('css/custom.css')  # may also be an URL
+
 
 ####################################
