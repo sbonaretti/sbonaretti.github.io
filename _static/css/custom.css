@@ -1,8 +1,0 @@
-.underline {
-  text-decoration: underline;
-}
-
-# links grey instead of light blue
-a:link {
-    color: grey;
-}
