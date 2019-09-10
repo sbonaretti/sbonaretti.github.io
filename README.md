@@ -12,4 +12,4 @@ Content:
 - `_static`: contains layout
 - `source`: source code as structured locally  
 
-Note: the `*.html` files, `objects.inv`, and the `_*` folders are locally generated in the folder `build` afte the `make html` command
+Note: the `*.html` files, `objects.inv`, and the `_*` folders are locally generated in the folder `build`
