@@ -9,6 +9,7 @@ Content:
 - `.nojekyll`: tells GitHub not to use jekyll (default for websites)  
 - `_attachments`: contains papers, CV, etc.  
 - `_images`: contains figures  
+- `_static`: contains layout
 - `source`: source code as structured locally  
 
-Note: the local `build` folder is not syncronized as the `.html` files have to be in the master GitHub folder to be rendered as a website
+Note: the `*.html` files, `objects.inv`, and the `_*` folders are locally generated in the folder `build` afte the `make html` command
