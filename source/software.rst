@@ -71,7 +71,7 @@ Statistical appearance model of femur for finite element simulations of differen
 
 |
 
-*Students' projects I supervised*
+*Supervised projects*
 --------------------------------------------------------------------------------
 
 |

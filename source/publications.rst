@@ -1,7 +1,7 @@
 Publications
 ================================================================================
 
-|
+|   
 
 Preprint Papers
 --------------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Preprint Papers
 
      <u>Bonaretti S.</u>, Willighagen E.
      <br>
-     <b>Two real use cases of FAIR maturity indicators in the life sciences.</b> <br>
+     <b>Two Real Use Cases of FAIR Maturity Indicators in the Life Sciences.</b> <br>
      bioRxiv 10.1101/739334. 2019.
      <br>
      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">

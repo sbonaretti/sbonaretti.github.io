@@ -9,11 +9,11 @@ Serena Bonaretti
 .. toctree::
    :hidden:
 
-   transparentResearch
+   transparentMSKresearch
    projects
    publications
-   teaching
    software
+   teaching
 
 |
 
@@ -43,28 +43,35 @@ Serena Bonaretti
 |
 |
 
+I am a freelancing research scientist at :ref:`Transparent MSK Research <transparentMSKresearch>`.  
 
-I am a researcher interested in :ref:`transparent research <transparentResearch>`, including  open data management, reproducible workflows, and interactive publications
+.. raw:: html
 
-I am specialized in image acquisition, image processing, and biomechanics to investigate aging diseases of the musculoskeletal system. See my latest release  :ref:`pyKNEEr <pykneer>`
+   My main interest is to develop open and reproducible tools for image acquisition, image processing, and biomechanics to investigate aging diseases of the musculoskeletal system.
+   <br>
+   See my latest release <a href="https://sbonaretti.github.io/pyKNEEr/" target="_blank">pyKNEEr</a>.
+   <br>
+   <br>
 
-I also enjoy teaching and all my material is freely available
+I also enjoy teaching and all my material is freely available.
 
 
 |
 
 .. raw:: html
 
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
    Complete CV:  <a href="_attachments/CV_SBonaretti.pdf" target="_blank">here</a>
    <p style="margin-bottom:0.3cm;"></p>
 
-Email: serena dot bonaretti at maastrichtuniversity dot nl
+   <i class="fa fa-envelope style="font-size:27px;"></i> serena dot bonaretti dot research at gmail dot com
 
+   <br>
+   <br>
 
-.. raw:: html
-
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
    <a href="https://github.com/sbonaretti" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
+
    <a href="https://twitter.com/serenabonaretti" target="_blank"><i class="fa fa-twitter" style="font-size:21px;"></i></a>
 
    <a href="https://www.linkedin.com/in/serena-bonaretti-1bb9b239/" target="_blank"><i class="fa fa-linkedin" style="font-size:21px;"></i></a>
