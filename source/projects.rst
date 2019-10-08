@@ -3,10 +3,10 @@ Projects
 
 |
 
-FAIR maturity indicators in the life sciences
+FAIR Maturity Indicators in the Life Sciences
 ---------------------------------------------
 
-Calculation of FAIR maturity indicators for life science datasets 
+Calculation of FAIR maturity indicators for life science datasets
 
 .. raw:: html
 
