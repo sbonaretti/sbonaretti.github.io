@@ -43,7 +43,7 @@ Serena Bonaretti
 |
 |
 
-I am a freelancing research scientist at :ref:`Transparent MSK Research <transparentMSKresearch>`.  
+I am a freelance research scientist at :ref:`Transparent MSK Research <transparentMSKresearch>`.  
 
 .. raw:: html
 
