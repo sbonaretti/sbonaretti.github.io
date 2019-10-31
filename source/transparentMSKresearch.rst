@@ -91,9 +91,9 @@ Videos
 .. raw:: html
 
    <!-- Zenodo -->
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/S1qK_TA52e4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/S1qK_TA52e4" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    <!-- pyKNEEr -->
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/7WPf5KFtYi8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/7WPf5KFtYi8" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 |
