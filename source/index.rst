@@ -43,7 +43,7 @@ Serena Bonaretti
 |
 |
 
-I am founder and research scientist at :ref:`Transparent MSK Research <transparentMSKresearch>`.  
+I am founder and research scientist at :ref:`Transparent MSK Research <transparentMSKresearch>`.
 
 .. raw:: html
 
@@ -73,6 +73,8 @@ I also enjoy teaching and all my material is freely available.
    <a href="https://github.com/sbonaretti" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
 
    <a href="https://twitter.com/serenabonaretti" target="_blank"><i class="fa fa-twitter" style="font-size:21px;"></i></a>
+
+   <a href="https://www.youtube.com/channel/UCk1sLroo_tgJqcn-0EVh6zQ" target="_blank"><i class="fa fa-youtube" style="font-size:21px;"></i></a>
 
    <a href="https://www.linkedin.com/in/serena-bonaretti-1bb9b239/" target="_blank"><i class="fa fa-linkedin" style="font-size:21px;"></i></a>
 

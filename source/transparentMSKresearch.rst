@@ -5,7 +5,10 @@ Transparent MSK Research
 
 |
 
-I organize open data, build reproducible workflows, and create interactive publications for musculoskeletal (MSK) research.
+.. raw:: html
+
+   I organize open data, build reproducible workflows, and create interactive publications for musculoskeletal (MSK) research.
+   See my latest release <a href="https://sbonaretti.github.io/pyKNEEr/" target="_blank">pyKNEEr</a>.
 
 I also promote transparent research with :ref:`talks <talks>`, :ref:`videos <videos>`, and :ref:`documentation <documentation>`.
 
