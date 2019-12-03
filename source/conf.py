@@ -195,9 +195,9 @@ html_theme_options = {
 
     'navbar_links': [
 
-        ("Transparent MSK Research", "transparentMSKresearch"),
         ("Projects", "projects"),
         ("Publications", "publications"),
+        ("Talks", "talks"),
         ("Software", "software"),
         ("Teaching", "teaching")
     ],

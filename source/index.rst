@@ -9,9 +9,9 @@ Serena Bonaretti
 .. toctree::
    :hidden:
 
-   transparentMSKresearch
    projects
    publications
+   talks
    software
    teaching
 
@@ -43,17 +43,22 @@ Serena Bonaretti
 |
 |
 
-I am founder and research scientist at :ref:`Transparent MSK Research <transparentMSKresearch>`.
+
 
 .. raw:: html
 
+   I am founder and research scientist at <a href="https://tmskr.github.io/" target="_blank">Transparent MSK Research</a>.
+   <br>
+   <br>
+
    My main interest is to develop open and reproducible tools for image acquisition, image processing, and biomechanics to investigate aging diseases of the musculoskeletal system.
    <br>
+
    See my latest release <a href="https://sbonaretti.github.io/pyKNEEr/" target="_blank">pyKNEEr</a>.
    <br>
    <br>
 
-I also enjoy teaching and all my material is freely available.
+   I also enjoy teaching and all my material is freely available.
 
 
 |
