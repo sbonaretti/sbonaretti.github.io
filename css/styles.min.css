@@ -19,6 +19,16 @@
 
 }
 
+/*used for the btn "Support my work"*/
+.btn-p {
+    align-items: center;
+}
+.btn{
+    background: white; 
+    color: #4298CA;
+    align: middle;
+}
+
 
 /* end modified by Serena */
 
