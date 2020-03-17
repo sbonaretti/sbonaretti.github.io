@@ -1,1364 +1,408 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
+<head>
 
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113345179-1"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-153753508-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-          gtag('config', 'UA-113345179-1');
-        </script>
-
-        <meta charset="utf-8">
-        <meta name="description" content="">
-        <meta name="keywords" content="">
-        <meta name="author" content="">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-        <title>Serena Bonaretti</title>
-        <!-- Favicon -->
-        <link rel="shortcut icon" href="images/favicon.png">
-        <!-- ##### STYLESHEETS ##### -->
-        <!-- Bootstrap -->
-        <link href="css/bootstrap.min.css" rel="stylesheet">
-        <!-- Owl Carousel -->
-        <link href="css/owl.carousel.css" rel="stylesheet">
-        <link href="css/owl.theme.default.css" rel="stylesheet">
-        <!-- Magnific popup -->
-        <link href="css/magnific-popup.min.css" rel="stylesheet">
-        <!-- Icons Fonts -->
-        <link href="icons-fonts/style.css" rel="stylesheet">
-        <!-- Preloader -->
-        <link href="css/preloader.min.css" rel="stylesheet">
-        <!-- Main styles -->
-        <link href="css/styles.min.css" rel="stylesheet">
-        <!-- Responsive styles -->
-        <link href="css/responsive.min.css" rel="stylesheet">
-        <!-- Font Awesome Icons -->
-        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
-        <!-- Google Fonts -->
-		    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
-        <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,200,200italic,300,300italic,400italic,600,600italic,700' rel='stylesheet' type='text/css'>
-		    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,800,700italic' rel='stylesheet' type='text/css'>
-        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-        <![endif]-->
+    gtag('config', 'UA-153753508-1');
+  </script>
 
 
-    </head>
-    <body>
+  <meta charset="utf-8">
+  <title>Transparent MSK Research</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta name="keywords" content="open science, reproducible research, transparent research, python, jupyter notebook, musculoskeletal imaging, video tutorials, computational workflows" >
+  <meta name="description" content="Transparent MSK Research - Open and reproducible workflows for musculoskeletal research using Python, Jupyter notebook, Binder, Simple ITK, and more">
 
-        <!-- Preloader -->
-        <div class="preloader">
-            <span class="loader">
-                <span class="loader-inner"></span>
-            </span>
-        </div>
-        <!-- end Preloader -->
 
-        <!-- Sidebar -->
-        <div class="container">
-          <div class="row">
-            <div class="col-xs-12 col-sm-2 sidebar">
-              <div class="col-sm-2 sidebarWrapper">
+  <!-- Favicons - not working-->
+  <link href="img/favicon.svg" rel="icon">
+  <link href="img/favicon.svg" rel="apple-touch-icon">
 
-                <!-- Avatar -->
-    						<img class="user-pic" src="images/photo.jpg" alt="">
-                <div class="signature">
-    							<img class="img-responsive" alt="signature" src="images/signature.png">
-    						</div>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Roboto:100,300,400,500,700|Philosopher:400,400i,700,700i" rel="stylesheet">
 
-                <!-- Menu -->
-                <div class="menu">
-                  <div class="toggle-btn">
-                    <span class="lines"></span>
-                  </div>
-                  <ul class="nav">
-                      <li class="active">
-                          <a href="#home">Home</a>
-                      </li>
-                      <li>
-                          <a href="#projects">Projects</a>
-                      </li>
-                      <li>
-                          <a href="#code">Code</a>
-                      </li>
-                      <li>
-                          <a href="#teaching">Teaching</a>
-                      </li>
-                      <li>
-                          <a href="#talks">Workshops and Talks</a>
-                      </li>
-                      <li>
-                          <a href="#publications">Publications</a>
-                      </li>
-                  </ul>
-                </div><!-- end Menu -->
-              </div>
-            </div>
-          </div><!-- end row -->
-        </div><!-- end container -->
-        <!-- end Sidebar -->
+  <!-- Bootstrap css -->
+  <!-- <link rel="stylesheet" href="css/bootstrap.css"> -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-        <!-- About section -->
-        <section id="home">
-          <div class="about-background">
-            <div class="container">
-              <div class="row">
-                <div class="col-xs-12 col-sm-9 col-sm-offset-3 aboutWrapper">
-                  <!-- Section Title -->
-							    <div class="nav-extra hidden-xs">
-									</div>
-                  <div class="section-title">
-                    <h2>Serena Bonaretti, PhD</h2>
-							    </div><!-- end Section Title -->
+  <!-- Libraries CSS Files -->
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.theme.default.min.css" rel="stylesheet">
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate/animate.min.css" rel="stylesheet">
+  <link href="lib/modal-video/css/modal-video.min.css" rel="stylesheet">
 
-                  <p>
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
 
-                  I am founder and research scientist at <a href="https://tmskr.github.io/" target="_blank">Transparent MSK Research</a>.
-                  <br>
-                  <br>
+  <!-- =======================================================
+    Theme Name: eStartup
+    Theme URL: https://bootstrapmade.com/estartup-bootstrap-landing-page-template/
+    Author: BootstrapMade.com
+    License: https://bootstrapmade.com/license/
+  ======================================================= -->
+</head>
 
-                  My main interest is to develop open and reproducible tools for image acquisition, image processing, and biomechanics to investigate aging diseases of the musculoskeletal system.
-                  See my latest release <a href="https://sbonaretti.github.io/pyKNEEr/" target="_blank">pyKNEEr</a>.
-                  <br>
-                  <br>
+<body>
 
-                  I also enjoy teaching and promoting transparent research with workshops and seminars. All my material is freely available.<div class="line-block">
-                  <div class="line"><br /></div>
-                  </div>
-                  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <header id="header" class="header header-hide">
+    <div class="container">
 
-                  Complete CV:  <a href="_attachments/CV_SBonaretti.pdf" target="_blank">here</a>
-                  <br>
-                  <br>
+      <div id="logo" class="pull-left">
+        <h1><a href="#hero" class="scrollto"><span>t</span>MSK<span>r</span></a></h1>
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- <a href="#body"><img src="img/logo.png" alt="" title="" /></a>-->
+      </div>
 
-                  <a href="mailto:serena.bonaretti.research@gmail.com" target="_blank"><i class="fa fa-envelope" style="font-size:21px;"></i></a> serena.bonaretti.research@gmail.com
-                  <br>
-                  <br>
-                  <a href="https://github.com/sbonaretti" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
-                  <a href="https://twitter.com/serenabonaretti" target="_blank"><i class="fa fa-twitter" style="font-size:21px;"></i></a>
-                  <a href="https://www.youtube.com/channel/UCk1sLroo_tgJqcn-0EVh6zQ" target="_blank"><i class="fa fa-youtube" style="font-size:21px;"></i></a>
-                  <a href="https://www.linkedin.com/in/serena-bonaretti-1bb9b239/" target="_blank"><i class="fa fa-linkedin" style="font-size:21px;"></i></a>
-                  </li><a href="https://orcid.org/0000-0003-4264-1773" target="_blank"><img src="images/orcid.png" style="width:20px;height:20px;"></i></a>
-                  <!--<a itemprop="sameAs" content="https://orcid.org/0000-0003-4264-1773"
-                   href="https://orcid.org/0000-0003-4264-1773" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD  icon"></a><div class="line-block"> -->
-                  </p>
-                </div>
-              </div><!-- end row -->
-            </div><!-- end container -->
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <!-- <li class="menu-active"><a href="#hero">Home</a></li> -->
+          <li><a href="#get-started">Developing</a></li>
+          <li><a href="#features">Promoting</a></li>
+          <li><a href="#about-us">About Me</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav><!-- #nav-menu-container -->
+    </div>
+  </header><!-- #header -->
+
+  <!--==========================
+    LANDING PAGE
+  ============================-->
+  <section id="hero" class="wow fadeIn">
+    <div class="hero-container">
+      <h1>Transparent MSK Research</h1>
+      <h2>Open and reproducible workflows for musculoskeletal research <br> using Python, Jupyter notebook, Binder, Simple ITK, and more</h2>
+      <img src="img/hero-img.svg" alt="Hero Imgs">
+      <a href="https://www.gofundme.com/f/transparent-msk-research" class="btn-get-started scrollto" target="_blank">SUPPORT MY WORK!</a>
+
+
+      <!--<a href="#get-started" class="btn-get-started scrollto">&#8595;</a>--> <!--arrow-->
+    </div>
+  </section><!-- #hero -->
+
+  <!--==========================
+    SOFTWARE
+  ============================-->
+  <section id="get-started" class="padd-section text-center wow fadeInUp">
+
+    <div class="container">
+      <div class="section-title text-center">
+
+        <h2>Developing</h2>
+        <p class="separator">Tools to conduct open and reproducible MSK research</p>
+
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-6 col-lg-6">
+          <div class="feature-block">
+
+            <img src="img/svg/knee_mod.svg" alt="img" class="img-fluid">
+            <h4>pyKNEEr</h4>
+            <p>An image analysis workflow <br> for open and reproducible research <br> on femoral knee cartilage</p>
+            <a href="https://sbonaretti.github.io/pyKNEEr/" target="_blank">download</a>
+
           </div>
-        </section>
-        <!-- end About section -->
+        </div>
+
+        <div class="col-md-6 col-lg-6">
+          <div class="feature-block">
+
+            <img src="img/svg/coding.svg" alt="img" class="img-fluid">
+            <h4>medical imaging</h4>
+            <p>Preprocessing, segmentation, and analysis <br> of musculoskeletal images <br> from MR, CT, and HR-pQCT</p>
+            <a href="#contact" id="contact_sere">contact me</a>
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </section>
 
 
 
-        <!-- Projects -->
-        <section id="projects">
-            <div class="resume-background">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-9 col-sm-offset-3 resumeWrapper">
+  <!--==========================
+    Video Section
+  ============================-->
 
-                            <!-- Section Title -->
-                            <div class="section-title">
-                                <h2>Projects</h2>
-                            </div><!-- end Section Title -->
+  <section id="video" class="text-center wow fadeInUp">
+    <div class="overlay">
+      <div class="container-fluid container-full">
 
-                            <!-- project -->
-                            <div class="project">
-                              <!--
-                                <h3>FAIR Maturity Indicators in the Life Sciences</h3>
-                                <div class="subtitle">Calculation of FAIR maturity indicators for life science datasets </div>
-                                <em>PI</em>:
-                                  <a href="https://orcid.org/0000-0001-7542-0286" target="_blank"> Egon Willighagen </a> (Maastricht University)
-                                <br>
-                                <em>Code</em>:
-                                  <a href="https://github.com/sbonaretti/FAIR_metrics" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
-                                <br>
-                                <em>Publication</em>:
-                                <ul>
-                                  <li>
-                                    Two Real Use Cases of FAIR Maturity Indicators in the Life Sciences.
-                                    bioRxiv 10.1101/739334. 2019.
-                                    <a href="https://doi.org/10.1101/739334" target="_blank"><i class="fas fa-book-open" style="font-size:21px;"></i></a>
-                                    <a href="https://github.com/sbonaretti/FAIR_metrics/tree/master/paper" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
-                                    <a href="_attachments/bib/2019_Bonaretti_FAIRmetrics.bib" target="_blank">.bib</i></a>
-                                  </li>
-                                </ul>
-                            </div> -->
-                            <!-- end of project -->
+        <div class="row">
+          <a href="https://youtu.be/7WPf5KFtYi8" class="js-modal-btn play-btn" data-video-id="7WPf5KFtYi8"></a>
+        </div>
 
-                            <!--<br>
-                            <br>-->
+      </div>
+    </div>
+  </section>
 
 
-                            <!-- project -->
-                            <div class="project">
-                                <h3><em>pyKNEEr</em>: An Image Analysis Workflow for Open and Reproducible Research on Femoral Knee Cartilage</h3>
-                                <div class="subtitle">An automatic method to preprocess, segment, and analyze femoral knee cartilage for transparent research</div>
-                                <em>PIs</em>:
-                                  <a href="http://pavir.org/means/researchers/gary-s-beaupre-ph-d/" target="_blank"> Gary Beaupre </a> (VA Palo Alto, Stanford University) and
-                                  <a href="https://med.stanford.edu/profiles/garry-gold" target="_blank"> Garry Gold </a> (Stanford University)
-                                <br>
-                                <em>Code</em>:
-                                  <a href="https://github.com/sbonaretti/pyKNEEr" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
-                                  <a href="https://www.doi.org/10.5281/zenodo.2574171" target="_blank">Zenodo</a>
-                                <br>
-                                <em>Documentation</em>:
-                                <a href="https://sbonaretti.github.io/pyKNEEr/" target="_blank"><i class="fas fa-file-alt" style="font-size:21px;"></i></a>
-                                <a href="https://www.youtube.com/channel/UCk1sLroo_tgJqcn-0EVh6zQ/videos" target="_blank"><i class="fab fa-youtube" style="font-size:21px;"></i></a>
-                                <br>
-                                <em>Publications</em>:
-                                <ul>
-                                  <li>
-                                    <i>pyKNEEr</i>: An Image Analysis Workflow for Open and Reproducible Research on Femoral Knee Cartilage.
-                                    PLoS ONE 15(1): e0226501. 2020.
-                                    <a href="https://doi.org/10.1371/journal.pone.0226501" target="_blank"><i class="fas fa-book-open" style="font-size:21px;"></i></a>
-                                    <a href="https://github.com/sbonaretti/pyKNEEr/tree/master/publication" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
-                                    <a href="https://zenodo.org/record/2530609" target="_blank"><i class="fa fa-database" style="font-size:21px;"></i></a>
-                                    <a href="_attachments/bib/2019_Bonaretti_pyKNEEr.bib" target="_blank">.bib</i></a>
-                                  </li>
-                                  <li>
-                                    <i>pyKNEEr</i>: Reproducible Workflow for Automatic Segmentation and Analysis of Femoral Knee Cartilage.
-                                    QMSKI 2019. 24 February - 1 March 2019. Chateau Lake Louise, Canada.
-                                    <a href="https://github.com/sbonaretti/2019_QMSKI/blob/master/Abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="https://github.com/sbonaretti/2019_QMSKI" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
-                                    <a href="_attachments/2019_QMSKI_pykneer.pdf" target="_blank"><i class="fa fa-desktop" style="font-size:18px;"></i></a>
-                                  </li>
-                                </ul>
-                            <!-- end of project -->
-                            <br>
-                            <br>
 
-                            <!-- project -->
-                            <div class="project">
-                                <h3>Weight-Bearing Imaging of the Knee Using C-Arm CT</h3>
-                                <div class="subtitle">Development of a novel weight-bearing C-Arm CT system to expand understanding of cartilage mechanical stresses and to provide quantitative measures of knee joint health.</div>
-                                <em>PI</em>:
-                                  <a href="https://med.stanford.edu/profiles/garry-gold" target="_blank"> Garry Gold </a> (Stanford University)
-                                <br>
-                                <em>Publications</em>:
-                                <ul>
-                                  <li>
-                                    Comparison of Different Approaches for Measuring Tibial Cartilage Thickness.
-                                    J Integr Bioinform. 14(2),1-10. 2017.
-                                    <a href="https://www.ncbi.nlm.nih.gov/pubmed/28753537" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                                    <a href="https://agbi.techfak.uni-bielefeld.de/imbio/ib2017/preprints/JIB.2017.0015PRE.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/bib/2017_Maier_cartThickness.bib" target="_blank">.bib</i></a>
-                                  </li>
-                                  <li>
-                                    Feasibility of Motion Compensation using Intertial Measurements in C-arm CT.
-                                    IEEE Nuclear Science Symposium & Medical Imaging Conference. 10-17 November 2018. Sydney, Australia.
-                                    <a href="https://ieeexplore.ieee.org/document/8824463" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                                  </li>
-                                  <li>
-                                    Object Removal in Gradient Domain of Cone-Beam CT Projections.
-                                    IEEE Nuclear Science Symposium & Medical Imaging Conference. 29 October – 5 November 2016. Strasbourg, France.
-                                    <a href="https://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2016/Bier16-ORI.pdf" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                                  </li>
-                               </ul>
-                            </div>
-                            <!-- end of project -->
-                            <br>
-                            <br>
+  <!--==============
+  EDUCATION
+  ============================-->
 
-                            <!-- project -->
-                            <div class="project">
-                                <h3>Standardization of HR-pQCT for Bone Quality Assessment</h3>
-                                <div class="subtitle">In multicenter studies, standardization of acquisition procedures is fundamental for data comparison. In this project, we aimed to standardize the definition of the volume of interest and the measurement of bone mineral density.</div>
-                                <em>PI</em>:
-                                  <a href="http://profiles.ucsf.edu/andrew.burghardt" target="_blank"> Andrew J. Burghardt </a> (UCSF)
-                                <br>
-                                <em>Web application</em>:
-                                <a href="http://webapps.radiology.ucsf.edu/refline/" target="_blank"><i class="fas fa-globe-americas" style="font-size:18px;"></i></a>
-                                <a href="https://github.com/sbonaretti/referenceLine" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a></li>
-                                <br>
-                                <em>Publications</em>:
-                                <ul>
-                                  <li>
-                                    Operator Variability In Scan Positioning is a Major Component of HR-pQCT Precision Error and is Reduced by Standardized Training.
-                                    Osteoporos Int. 28(1), 245-257. 2017.
-                                    <a href="https://www.ncbi.nlm.nih.gov/pubmed/27475931" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                                    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5568957/pdf/nihms879188.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/bib/2017_Bonaretti_refLine.bib" target="_blank">.bib</i></a>
-                                  </li>
-                                  <li>
-                                    The Comparability of HR-pQCT Bone Quality Measures Is Improved by Scanning Anatomically Standardized Regions.
-                                    Osteoporos Int. 28(7), 2115-2128. 2017.
-                                    <a href="https://www.ncbi.nlm.nih.gov/pubmed/28391447" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                                    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5526099/pdf/nihms879274.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/bib/2017_Bonaretti_standardAnatomy.bib" target="_blank">.bib</i></a>
-                                  </li>
-                                  <li>
-                                    Statistical Parametric Mapping of HR-pQCT Images: A Tool for Population-Based Comparison of Micro-Scale Bone Features.
-                                    Ann Biomed Eng. 45(5), 949-962. 2017.
-                                    <a href="https://www.ncbi.nlm.nih.gov/pubmed/27830488" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                                    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5811200/pdf/nihms851684.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/bib/2017_CarballidoGamio_paramHRpQCT.bib" target="_blank">.bib</i></a>
-                                  </li>
-                                  <li>
-                                    Quantifying Sex, Race and Age Specific Differences in Bone Microstructure Requires Measurement of Anatomically Equivalent Regions.
-                                    Bone. 101, 206-213. 2017.
-                                    <a href="https://www.ncbi.nlm.nih.gov/pubmed/28502884" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/bib/2017_GhasemZadeh_equivalentRegions.bib" target="_blank">.bib</i></a>
-                                  </li>
-                                  <li>
-                                    Standardized Training For HR-pQCT Scan Positioning Reduces Inter-Operator Precision Errors: The MrOS Multicenter Study Experience.
-                                    ASBMR 2015. 9-12 October 2015. Seattle, WA, USA.
-                                    <a href="_attachments/2015_ASBMR_1_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/2015_ASBMR_1_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                                  </li>
-                                  <li>
-                                    The Role of Intra- and Inter-Operator Variability in HR-pQCT Precision.
-                                    IBDW 2014. 13-17 October 2014. Hong Kong. <br>
-                                    <a href="_attachments/2014_IBDW_1_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/2014_IBDW_1_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                                  </li>
-                                  <li>
-                                    Intra- and Inter-Operator Variability in HR-pQCT Scan Positioning.
-                                    ASBMR 2014. 12-15 September 2014. Houston, TX, USA.
-                                    <a href="_attachments/2014_ASBMR_2_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/2014_ASBMR_2_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                                  </li>
-                                  <li>
-                                    Comparability of HR-pQCT Bone Quality Measures Improved by Scanning Anatomically Standardized Regions.
-                                    ASBMR 2014. 12-15 September 2014. Houston, TX, USA.
-                                    <a href="_attachments/2014_ASBMR_1_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/2014_ASBMR_1_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                                  </li>
-                                  <li>
-                                    Automated Scan Prescription For HR-pQCT: A Multi-Atlas Prospective Registration Approach.
-                                    ASBMR 2013. 4-7 October 2013. Baltimore, MD, USA.
-                                    <a href="_attachments/2013_ASBMR_2_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                  </li>
-                                </ul>
-                                <!--
-                                <em>Invited Talk</em>:
-                                <ul>
-                                  <li>
-                                    Intra- and Inter-Operator Variability in HR-pQCT Scan Positioning
-                                    2nd XtremeCT User Meeting. 16 September 2014. ASBMR 2014. Houston, TX, USA.
-                                  </li>
-                                </ul>
-                              -->
-                            </div>
-                            <!-- end of project -->
-                            <br>
-                            <br>
+  <section id="features" class="padd-section text-center wow fadeInUp">
 
-                            <!-- project -->
-                            <div class="project">
-                                <h3>Standardization of QCT for Bone Quality Assessment</h3>
-                                <div class="subtitle">QCT inter-scanner variability is still a big challenge. We aimed to find cross-calibration laws using a novel anthropomorphic hip phantom.</div>
-                                <em>PI</em>:
-                                  <a href="http://profiles.ucsf.edu/thomas.lang" target="_blank"> Thomas Lang </a> (UCSF)
-                                <br>
-                                <em>Publications</em>:
-                                <ul>
-                                  <li>
-                                    Novel Anthropomorphic Hip Phantom Corrects Systemic Interscanner Differences in Proximal Femoral vBMD.
-                                    Phys Med Biol. 59(24), 7819-34. 2014.
-                                    <a href="https://www.ncbi.nlm.nih.gov/pubmed/25419618" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                                    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4442068/pdf/nihms646129.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/bib/2014_Bonaretti_antroPhantom.bib" target="_blank">.bib</i></a>
-                                  </li>
-                                  <li>
-                                    Automatic Multi-Parametric Quantification of the Proximal Femur with QCT.
-                                    Quant Imaging Med Surg. 5(4), 552-68. 2015.
-                                    <a href="https://www.ncbi.nlm.nih.gov/pubmed/26435919" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                                    <a href="http://qims.amegroups.com/article/view/7176/8471" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/bib/2017_CarballidoGamio_multiParamFemur.bib" target="_blank">.bib</i></a>
-                                  </li>
-                                  <li>
-                                    Inter-scanner Differences in In Vivo QCT Measurements of the Density and Strength of the Proximal Femur Remain After Correction with Anthropomorphic Standardization Phantoms.
-                                    Med Eng and Phys. 36(10), 1225-32. 2014.
-                                    <a href="https://www.ncbi.nlm.nih.gov/pubmed/25001172" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                                    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4589175/pdf/nihms608850.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/bib/2014_Carpenter_crossCalib.bib" target="_blank">.bib</i></a>
-                                  </li>
-                                  <li>
-                                    QCT Intra- and Inter-Scanner Precision In Estimation Of Proximal Femur Strength.
-                                    ASBMR 2015. 9-12 October 2015. Seattle, WA, USA.
-                                  </li>
-                                  <li>
-                                    Effect of Body Size on the Quantification of Bone Mineral Density From QCT Images Using a Novel Anthropomorphic Hip Phantom.
-                                    ASBMR 2013. 4-7 October 2013. Baltimore, MD, USA.
-                                    <a href="_attachments/2013_ASBMR_1_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/2013_ASBMR_1_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                                  </li>
-                                </ul>
-                            </div>
-                            <!-- end of project -->
-                            <br>
-                            <br>
+    <div class="container">
+      <div class="section-title text-center">
+        <h2>Promoting</h2>
+        <p class="separator">How to conduct open and reproducible research</p>
+      </div>
+    </div>
 
-                            <!-- project -->
-                            <div class="project">
-                                <h3>Statistical Appearance Models for Bone Mechanics</h3>
-                                <div class="subtitle">My PhD project aimed to create a statistical appearance model of femur for finite element simulations of different populations.</div>
-                                <em>PIs</em>:
-                                  <a href="https://sitem-insel.ch/en/school/referees/mauricio-reyes" target="_blank"> Mauricio Reyes </a> and <a href="https://www.artorg.unibe.ch/research/cb/group_members/staff/ass_prof_dr_buechler_philippe/index_eng.html" target="_blank"> Philippe Büchler </a> (ISTB, Switzerland)
-                                <br>
-                                <em>Code</em>:
-                                  <a href="https://github.com/sbonaretti/SAMforFEM" target="_blank"><i class="fa fa-github" style="font-size:15px;"></i></a>
-                                <br>
-                                <em>Publications</em>:
-                                <ul>
-                                  <li>
-                                    Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations.
-                                    Medical Engineering and Physics. Dec;36(12):1626-35. 2014.
-                                    <a href="https://www.ncbi.nlm.nih.gov/pubmed/25271191" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                                    <a href="http://www.mauricioreyes.me/Publications/BonarettiMEP2014.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/bib/2014_Bonaretti_SAMforFEM.bib" target="_blank">.bib</i></a>
-                                  </li>
-                                  <li>
-                                    The Virtual Skeleton Database: An Open Access Repository for Biomedical Research and Collaboration.
-                                    J Med Internet Res. 12;15(11):e245. 2013.
-                                    <a href="https://www.ncbi.nlm.nih.gov/pubmed/24220210" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                                    <a href="https://asset.jmir.pub/assets/398863992801a947307649a758056d86.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/bib/2013_Kistler_VSD.bib" target="_blank">.bib</i></a>
-                                  </li>
-                                  <li>
-                                    Evidence Based Development of a Novel Lateral Fibula Plate (VariAx Fibula) Using a Real CT Bone Data Based Optimization Process During Device Development.
-                                    Open Orthop J. 6,1-7.
-                                    <a href="https://www.ncbi.nlm.nih.gov/pubmed/22312417" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                                    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3271305/pdf/TOORTHJ-6-1.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/bib/2012_Schulz_fibulaPlate.bib" target="_blank">.bib</i></a>
-                                  </li>
-                                  <li>
-                                    Mesh-based vs. Image-based Statistical Model of Appearance of the Human Femur: a Preliminary Comparison Study for the Creation of Finite Element Meshes.
-                                    Mesh Processing in Medical Image Analysis - MICCAI 2011 workshop. 18 September 2011. Toronto, Canada.
-                                    <a href="_attachments/2011_MiccaiWS_paper.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/2011_MiccaiWS_presentation.pdf" target="_blank"><i class="fa fa-desktop" style="font-size:18px;"></i></a>
-                                  </li>
-                                  <li>
-                                    Combined Statistical Model of Bone Shape and Mechanical Properties for Bone Modelling.
-                                    9th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering. 24-27 February 2010. Valencia, Spain.
-                                    <a href="_attachments/2010_CBMME_paper.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/2010_CMBBE_presentation.pdf" target="_blank"><i class="fa fa-desktop" style="font-size:18px;"></i></a>
-                                  </li>
-                                  <li>
-                                    Assessment of Peri-Articular Implant Fitting Based on Statistical Finite Element Modelling.
-                                    Computational Biomechanics for Medicine III – MICCAI 2008 workshop. 10 September 2008. New York, NY.
-                                    <a href="_attachments/2008_MiccaiWS_paper.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/2008_MiccaiWS_presentation.pdf" target="_blank"><i class="fa fa-desktop" style="font-size:18px;"></i></a>
-                                  </li>
-                                  <li>
-                                    Methods to Accelerate Finite Element Calculations in Biomechanics Using a Statistical Database of Pre-Calculated Simulations.
-                                    10th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering. 11-14 April 2012. Berlin, Germany.
-                                  </li>
-                                  <li>
-                                    Statistical Model of Appearance to Accelerate Finite Element Calculations in Biomechanics.
-                                    19th Congress of the European Society of Biomechanics. 1-4 July 2012. Lisbon, Portugal.
-                                  </li>
-                                  <li>
-                                    Statistical Finite Element Model for the Virtual Skeleton Database.
-                                    NCCR Co-Me Scientific Advisory Board Meeting. 9-10 February 2011. Interlaken, Switzerland.
-                                    <a href="_attachments/2011_CoMeSAB_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                                  </li>
-                                  <li>
-                                    Statistical Finite Element Modeling: Application to Orthopaedic Implant Design.
-                                    Graduate School for Cellular and Biomedical Sciences Symposium. 28 January 2011. Bern, Switzerland.
-                                    <a href="_attachments/2011_GCB_presentation.pdf" target="_blank"><i class="fa fa-desktop" style="font-size:18px;"></i></a>
-                                  </li>
-                                  <li>
-                                    Statistical Finite Element Modeling for the Virtual Skeleton Database. NCCR Co-Me Research Networking Workshop.
-                                    26-27 August 2010. Zürich, Switzerland.
-                                    <a href="_attachments/2010_CoMe_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                                  </li>
-                                  <li>
-                                    A Statistical Shape Model of Bone Anatomical Variability for Finite Element Assessment of Bone Mechanics.
-                                    17th Congress of the European Society of Biomechanics. 5-8 July 2010. Edinburgh, Scotland.
-                                    <a href="_attachments/2010_ESB_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/2010_ESB_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                                  </li>
-                                  <li>
-                                    Statistical Finite Element Modeling for the Virtual Skeleton Database.
-                                    NCCR Co-Me Scientific Advisory Board Meeting. 19-20 February 2010. Winterthur, Switzerland.
-                                    <a href="_attachments/2010_CoMeSAB_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                                  </li>
-                                  <li>
-                                    A Statistical Shape Model of Bone Anatomical Variability for Finite Element Assessment of Bone Mechanics.
-                                    Graduate School for Cellular and Biomedical Sciences Symposium. 27 January 2010. Bern, Switzerland.
-                                    <a href="_attachments/2010_GCB_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                                  </li>
-                                  <li>
-                                    Computing Average Anatomical Images: Comparison between Thin-Plate Spline and Log-Euclidean Approach.
-                                    The Annual Meeting of the Swiss Society for Biomedical Engineering. 27-28 August 2009. Bern, Switzerland.
-                                    <a href="_attachments/2009_SSBE_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/2009_SSBE_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                                  </li>
-                                  <li>
-                                    Automatic Bone Density Evaluation from CT Images.
-                                    Computer Assisted Orthopaedic Surgery. 17-20 June 2009. Boston, MA.
-                                    <a href="_attachments/2009_CAOS_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/2009_CAOS_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                                  </li>
-                                  <li>
-                                    Shape and Biomechanical Model for Population-Specific Design of Anatomical Peri-Articular Implants.
-                                    CTI Medtech Event. 2 September 2008. Bern, Switzerland.
-                                    <a href="_attachments/2008_CTI_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/2008_CTI_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                                  </li>
-                                  <li>
-                                    Statistical Finite Element Analysis for Bone Modelling.
-                                    16th Congress of the European Society of Biomechanics. 6-9 July 2008. Lucerne, Switzerland.
-                                    <a href="_attachments/2008_ESB_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <a href="_attachments/2008_ESB_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                                  </li>
-                                  <li>
-                                    Statistical Finite Element Model for Bone and Implant Modeling.
-                                    NCCR Co-Me Scientific Advisory Board Meeting. 14 February 2008. Neuchatel, Switzerland.
-                                    <a href="_attachments/2008_CoMeSAB_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                                  </li>
-                                  <li>
-                                    Statistical Models of Shape and Density for Population-based Analysis of Bone Mechanics with Applications to Fracture Risk Assessment and Implant Design.
-                                    Ph.D. thesis. 2011.
-                                    <a href="_attachments/2011_PhDThesis.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-                                    <a href="https://github.com/sbonaretti/SAMforFEM" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
-                                  </li>
-                                </ul>
-                            </div>
-                            <!-- end of project -->
-                        </div>
-                    </div><!-- end row -->
-                </div><!-- end container -->
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-6 col-lg-6">
+          <div class="feature-block">
+            <img src="img/svg/browser_mod.svg" alt="img" class="img-fluid">
+            <h4>Video tutorials</h4>
+            <p>Examples and ideas on <br> how to conduct transparent research</p>
+            <a href="https://www.youtube.com/channel/UCk1sLroo_tgJqcn-0EVh6zQ" target="_blank">watch</a>
+          </div>
+        </div>
+
+        <div class="col-md-6 col-lg-6">
+          <div class="feature-block">
+            <img src="img/svg/meeting.svg" alt="img" class="img-fluid">
+            <h4>Talks and workshops</h4>
+            <p>Material from </br> workshops and seminars</p>
+            <a href="https://sbonaretti.github.io/#talks" target="_blank">browse</a>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+  </section>
+
+  <!--==========================
+    Testimonials Section
+  ============================-->
+
+  <section id="testimonials" class="padd-section text-center wow fadeInUp">
+    <div class="container">
+      <div class="row justify-content-center">
+
+        <div class="col-md-8">
+
+          <div class="testimonials-content">
+            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+
+              <div class="carousel-inner" role="listbox">
+
+                <div class="carousel-item active">
+                  <div class="top-top">
+                    <img class="testimonial_img" src="img/testimonial/holdgraf.svg" >
+                    <h4> Co-author of Binder, UC Berkeley (USA) <span> about the video "How to: Binder"</span></h4>
+                  </div>
+                </div>
+
+                <div class="carousel-item">
+                  <div class="top-top">
+                    <img class="testimonial_img" src="img/testimonial/klein.svg" >
+                    <h4> Assoc Prof, Erasmus MC (The Netherlands) <span> </span></h4>
+                  </div>
+                </div>
+
+                <div class="carousel-item">
+                  <div class="top-top">
+                    <img class="testimonial_img" src="img/testimonial/iori.svg" >
+                    <h4> Beamline Scientist, SESAME (Jordan) <span> about the video "How to: Zenodo"</span></h4>
+                  </div>
+                </div>
+
+                <div class="carousel-item">
+                  <div class="top-top">
+                    <img class="testimonial_img" src="img/testimonial/kubik.svg" >
+                    <h4> MSc Student, AGH University of Science and Technology (Poland) <span> </span></h4>
+                  </div>
+                </div>
+
+                <div class="carousel-item">
+                  <div class="top-top">
+                    <img class="testimonial_img" src="img/testimonial/tosca.svg" >
+                    <h4> Tomography for Scientific Advancement society (United Kingdom) <span> </span></h4>
+                  </div>
+                </div>
+              </div>
+
+              <!-- green buttons at the bottom -->
+              <div class="btm-btm">
+                <ul class="list-unstyled carousel-indicators">
+                  <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                  <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                  <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                  <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+                  <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+                </ul>
+              </div>
+
             </div>
-        </section>
-        <!-- end Projects -->
+          </div>
+        </div>
 
-        <!-- Services section -->
-        <section id="code">
-            <div class="services-background">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-9 col-sm-offset-3 servicesWrapper">
-
-                            <!-- Section Title -->
-                            <div class="section-title">
-                                <h2>Code</h2>
-                            </div><!-- end Section Title -->
-
-                            <h3>My own projects</h3>
-
-                            <!-- Service box 1 -->
-                            <div class="service-box">
-                              <div>
-                                <h3>pyKNEEr: An image analysis workflow for open and reproducible research on femoral knee cartilage</h3>
-                                <p>An automatic method to preprocess, segment, and analyze femoral knee cartilage for transparent research.</p>
-                                <em>Language</em>: <a href="https://www.python.org/" target="_blank">python</a>
-                                                 with
-                                                 <a href="http://jupyter.org/" target="_blank">Jupyter Notebooks</a>,
-                                                 <a href="https://simpleitk.readthedocs.io/en/next/" target="_blank">SimpleITK</a>,
-                                                 and
-                                                 <a href="http://elastix.isi.uu.nl/index.php" target="_blank">Elastix</a>
-                                                 <br>
-                                <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-                                <em>Code repositories</em>: <a href="https://github.com/sbonaretti/pyKNEEr" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
-                                                          and
-                                                          <a href="https://www.doi.org/10.5281/zenodo.2574171" target="_blank">Zenodo</a>
-                                <br>
-                                <em>Data repository</em>: <a href="https://zenodo.org/record/2530609" target="_blank"><i class="fa fa-database" style="font-size:21px;"></i></a>
-                                <br>
-                                <em>Documentation</em>: <a href="https://sbonaretti.github.io/pyKNEEr/" target="_blank"><i class="fas fa-file-alt" style="font-size:21px;"></i></a>
-                                <br>
-                                <em>Video</i>: <a href="https://www.youtube.com/channel/UCk1sLroo_tgJqcn-0EVh6zQ/videos" target="_blank"><i class="fab fa-youtube" style="font-size:21px;"></i></a>
-                                <br>
-                                <em>Publication</em>: <a href="https://www.biorxiv.org/content/10.1101/556423v1" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                <div class="line-block">
-                                <div class="line"><br /></div>
-                                </div>
-                              </div>
-                            </div>
-
-                            <!-- Service box 2 -->
-                            <div class="service-box">
-                              <div>
-                                <h3>Statistical Appearance Models for Bone Mechanics</h3>
-                                <p>Statistical appearance model of femur for finite element simulations of different populations.</p>
-                                <em>Language</em>: C++
-                                                 with
-                                                 <a href="https://itk.org/" target="_blank">ITK</a>
-                                                 ,
-                                                 <a href="https://www.vtk.org/" target="_blank">VTK</a>
-                                                 , and
-                                                 <a href="https://www.qt.io/" target="_blank">Qt</a>
-                                                 <br>
-                                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-                                <em>Repository</em>: <a href="https://github.com/sbonaretti/SAMforFEM" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
-                                <br>
-                                <em>Publication</em>:
-                                <a href="https://www.ncbi.nlm.nih.gov/pubmed/25271191" target="_blank"><i class="fas fa-book" style="font-size:21px;"></i></a>
-                                <a href="http://www.mauricioreyes.me/Publications/BonarettiMEP2014.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                <div class="line-block">
-                                  <div class="line"><br /></div>
-                                </div>
-                            </div>
-                          </div>
-                        </div><!-- end servicesWrapper -->
-                      </div><!-- end row -->
+      </div>
+    </div>
+  </section>
 
 
+  <!--==========================
+    About Me Section
+  ============================-->
+  <section id="about-us" class="about-us padd-section wow fadeInUp">
+    <div class="container">
+      <div class="row justify-content-center">
 
-                      <div class="row">
-                          <div class="col-xs-12 col-sm-9 col-sm-offset-3 servicesWrapper">
+        <div class="container">
+          <div class="section-title text-center">
+            <h2>About me</h2>
+            <p class="separator">Serena Bonaretti, PhD</p>
+          </div>
+        </div>
 
-                            <h3>Supervised projects</h3>
+        <div class="col-md-4 col-lg-2">
+          <img src="img/team/serena_bonaretti.jpg" id="my-photo" alt="serena" >
+        </div>
 
-                            <!-- Service box 3 -->
+        <div class="col-md-8 col-lg-6">
+          <div class="about-content">
 
-                            <div class="service-box">
-                                <div>
-                                    <h3>Reference Line - Training and Evaluation</h3>
-                                    <p>A webapp to train and evaluate HR-pQCT operators to acquire standardized images.</p>
-                                    <em>Developer</em>: <a href="https://www.csail.mit.edu/person/caroline-chan" target="_blank">Caroline Mai Chan</a> <br>
-                                    <em>Co-supervisor</em>: <a href="http://profiles.ucsf.edu/andrew.burghardt" target="_blank">Andrew Burghardt</a> <br>
-                                    <em>Webapp</em>: <a href="http://webapps.radiology.ucsf.edu/refline/" target="_blank"><i class="fas fa-globe-americas" style="font-size:18px;"></i></a>
-                                    <br>
-                                    <em>Language</em>: HTML with CSS and Javascript
-                                    <br>
-                                    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-                                    <em>Repository</em>: <a href="https://github.com/sbonaretti/referenceLine" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
-                                    <br>
-                                    <em>Publication</em>:
-                                    <a href="https://www.ncbi.nlm.nih.gov/pubmed/27475931" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                                    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5568957/pdf/nihms879188.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                                </div>
-                            </div>
 
-                            <!-- Service box 4 -->
-                            <div class="service-box">
-
-                                <div>
-                                    <h3>FEM Assigner</h3>
-                                    <p>A software to apply bone material properties to FE mesh from QCT images.</p>
-                                    <em>Developer</em>: Andreas Siegrist <br>
-                                    <em>Co-supervisor</em>: <a href="http://www.biomech.ethz.ch/the-institute/people/person-detail.MTgyMTAx.TGlzdC8yMzMsLTIwMjg3MDE2MzE=.html" target="_blank">Benedikt Helgason</a> <br>
-                                    <em>Language</em>: C++
-                                                   with
-                                                   <a href="https://itk.org/" target="_blank">ITK</a>
-                                                   ,
-                                                   <a href="https://www.vtk.org/" target="_blank">VTK</a>
-                                                   , and
-                                                   <a href="https://www.qt.io/" target="_blank">Qt</a>
-                                                   <br>
-                                    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-                                    <em>Repository</em>: <a href="https://github.com/sbonaretti/FEpropAssigner" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
-                                    <div class="line-block">
-                                      <div class="line"><br /></div>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <!-- end Service box 4 -->
-                        </div>
-
-                </div><!-- end container -->
+            <p>
+            I have more than 12 years of experience in image acquisition, image analysis, and biomechanics to investigate diseases of the musculoskeletal system
+            <br>
+            <br>
+            I worked and studied at Stanford University, University of California San Francisco, University of Bern, and Politecnico di Milano
+            <br>
+            I am currently in Maastricht, The Netherlands
+            <br>
+            <br>
+            I strongly believe in open and reproducible research to solve musculoskeletal diseases
+            </p>
+            <div style="text-align:center">
+              <a href="https://sbonaretti.github.io" target="_blank">my website</a>
             </div>
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+
+
+
+
+  <!--==========================
+    Contact Section
+  ============================-->
+  <section id="contact" class="padd-section wow fadeInUp">
+    <div class="container">
+      <div class="section-title text-center">
+        <h2>Contact</h2>
+        <p class="separator">Do not hesitate to contact me and connect on social media</p>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row justify-content-center">
+
+        <div class="col-lg-12 col-md-12 text-center">
+
+
+          <div class="info">
+
+            <div class="email text-center">
+              <i class="fa fa-envelope"></i>
+              <p>serena.bonaretti.research@gmail.com</p>
             </div>
+
+            <div>
+              <i class="fa fa-map-marker"></i>
+              <p>Maastricht, The Netherlands</p>
             </div>
-        </section>
-        <!-- end Services section -->
-
-        <!-- Teaching: Resume section -->
-        <section id="teaching">
-            <div class="resume-background">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-9 col-sm-offset-3 resumeWrapper">
-
-                            <!-- Section Title -->
-                            <div class="section-title">
-                                <h2>Teaching</h2>
-                            </div><!-- end Section Title -->
-
-                            <!-- lecture -->
-                            <div>
-                                <h3>Surgery without all the blood (RAD 70N)</h3>
-                                <div class="subtitle">2017. Guest Lecturer. Stanford University, USA </div>
-                                <p>Introduction to Interventional Radiology at the Zeego Lab (Demo class)</p>
-                            </div>
-                            <!-- end of lecture -->
-                            <br>
-
-
-                            <!-- lecture -->
-                            <div>
-                                <h3>Orthopaedic Bioengineering (BIOE/ME 381)</h3>
-                                <div class="subtitle">2017. Co-instructor 50%. Stanford University, USA</div>
-                                <p>
-                                  <ul>
-                                    <li>Bone Anatomy and Physiology
-                                    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-                                    <a href="_attachments/BIOE381_1.pdf" target="_blank"><i class="fas fa-file-pdf" style="font-size:18px;"></i></a></li>
-                                    <li>Bone Mechanics I
-                                    <a href="_attachments/BIOE381_2.pdf" target="_blank"><i class="fas fa-file-pdf" style="font-size:18px;"></i></a></li>
-                                    <li>Bone Mechanics II
-                                    <a href="_attachments/BIOE381_3.pdf" target="_blank"><i class="fas fa-file-pdf" style="font-size:18px;"></i></a></li>
-                                    <li>Bone Imaging I
-                                    <a href="_attachments/BIOE381_4.pdf" target="_blank"><i class="fas fa-file-pdf" style="font-size:18px;"></i></a></li>
-                                    <li>Bone Imaging II
-                                    <a href="_attachments/BIOE381_5.pdf" target="_blank"><i class="fas fa-file-pdf" style="font-size:18px;"></i></a></li>
-                                    <li>Bone Quality and Fracture
-                                    <a href="_attachments/BIOE381_6.pdf" target="_blank"><i class="fas fa-file-pdf" style="font-size:18px;"></i></a></li>
-                                    </ul>
-                                </p>
-                            </div>
-                            <!-- end of lecture -->
-                            <br>
-
-                            <!-- lecture -->
-                            <div>
-                                <h3>Clinical Needs and Technology (BIOE 301B)</h3>
-                                <div class="subtitle">2017, 2018. Guest Lecturer. Stanford University, USA</div>
-                                <p>
-                                  <ul>
-                                    <li>Introduction to X-ray-based Imaging
-                                    <a href="_attachments/BIO301B.pdf" target="_blank"><i class="fas fa-file-pdf" style="font-size:18px;"></i></a></li>
-                                    <li><p>Minimally Invasive Therapies in Swine
-                                    (Laboratory)</p></li>
-                                    </ul>
-                                </p>
-                            </div>
-                            <!-- end of lecture -->
-                            <br>
-
-                            <!-- lecture -->
-                            <div>
-                                <h3>Introduction to Bioengineering Research (BIOE 390 / MED 289)</h3>
-                                <div class="subtitle">2016. Guest Lecturer. Stanford University, USA</div>
-                                <p>
-                                  Weight-bearing Imaging of the Knee Using C-arm CT
-                                  (Presented project still under development)
-                                </p>
-                            </div>
-                            <!-- end of lecture -->
-                            <br>
-
-                            <!-- lecture -->
-                            <div>
-                                <h3>Image Processing and Analysis II (BI 265)</h3>
-                                <div class="subtitle">2015. Guest Lecturer. University of California San Francisco, USA</div>
-                                <p>
-                                  Active Shape and Appearance Modeling in Medical Imaging (Blackboard class)
-                                </p>
-                            </div>
-                            <!-- end of lecture -->
-                            <br>
-
-                            <!-- lecture -->
-                            <div>
-                                <h3>Musculoskeletal Imaging (BI 240)</h3>
-                                <div class="subtitle">2014, 2015. Guest Lecturer. University of California San Francisco, USA</div>
-                                <p>
-                                  Assessment of Bone Strength - Foundations of FE and microFE (Blackboard class)
-                                </p>
-                            </div>
-                            <!-- end of lecture -->
-                            <br>
-
-                            <!-- lecture -->
-                            <div>
-                                <h3>Medical Image Analysis</h3>
-                                <div class="subtitle">2009. Guest Lecturer. ETH Zürich and University of Bern, Switzerland</div>
-                                <p>
-                                  Statistical Shape Models <a href="_attachments/SSM.pdf" target="_blank"><i class="fas fa-file-pdf" style="font-size:18px;"></i></a>
-                                </p>
-                            </div>
-                            <!-- end of lecture -->
-                            <br>
-
-                        </div>
-                    </div><!-- end row -->
-                </div><!-- end container -->
-            </div>
-        </section>
-        <!-- end Resume section -->
-
-
-
-
-        <!-- Talks: Resume section -->
-        <section id="talks">
-            <div class="resume-background">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-9 col-sm-offset-3 resumeWrapper">
-
-                            <!-- Section Title -->
-                            <div class="section-title">
-                                <h2>Workshops and Talks</h2>
-                            </div><!-- end Section Title -->
-
-                            <h3>Workshops</h3>
-
-                            <!-- WORKSHOPS -->
-
-                            <!-- talk -->
-                            <div>
-                                <h3><a href="https://github.com/sbonaretti/2020_OpenMR_jupyter" target="_blank">Python and Jupyter Notebook for Medical Image Analysis</h3>
-                                <div class="subtitle"><a href="https://openmrbenelux.github.io/page-openmrb-2020/" target="_blank">OpenMR Benelux 2020</a></div>
-                                <p>
-                                  Nijmegen, The Netherlands. 22 January 2020.
-                                </p>
-                            </div>
-                            <!-- end of talk -->
-                            <br>
-
-                            <!-- talk -->
-                            <div>
-                                <h3><a href="https://zenodo.org/record/2577617#.XHXYk1NKigw" target="_blank">Hands-on Transparent QMSKI: Open-Access Data, Reproducible Workflows, and Interactive Publications</h3>
-                                <div class="subtitle"><a href="https://qmski.org/" target="_blank">22nd International Workshop on Quantitative Musculoskeletal Imaging (QMSKI)</a></div>
-                                <p>
-                                  Chateau Lake Louise, AB, Canada. 25 February 2019.
-                                </p>
-                            </div>
-                            <!-- end of talk -->
-                            <br>
-
-
-                            <!-- TALKS -->
-
-                            <h3>Talks</h3>
-
-                            <!-- talk -->
-                            <div>
-                                <h3><a href="http://www.doi.org/10.5281/zenodo.3460433" target="_blank">Transparent Quantitative Musculoskeletal Imaging</a></h3>
-                                <div class="subtitle"><a href="https://www.mech.kuleuven.be/en/bme" target="_blank">Department of Mechanical Engineering, Division of Biomechanics</a></div>
-                                <p>
-                                  KU Leuven, Leuven, Belgium. 26 September 2019.
-                                </p>
-                            </div>
-                            <!-- end of talk -->
-                            <br>
-
-                            <!-- talk -->
-                            <div>
-                                <h3><a href="http://www.doi.org/10.5281/zenodo.3403080" target="_blank">Transparent Research: Open-Access Data, Reproducible Workflows, and Interactive Publications</a></h3>
-                                <div class="subtitle"><a href="https://www.toscainternational.org/tosca-UK-2019" target="_blank">7th annual Tomography for Scientific Advancement (ToScA) symposium</a></div>
-                                <p>
-                                  Southampton, United Kingdom. 12 September 2019.
-                                </p>
-                            </div>
-                            <!-- end of talk -->
-                            <br>
-
-                            <!-- talk -->
-                            <div>
-                                <h3><a href="http://www.doi.org/10.5281/zenodo.3250361" target="_blank">Transparent Quantitative Musculoskeletal Imaging</a></h3>
-                                <div class="subtitle"><a href="https://www6.erasmusmc.nl/admire/" target="_blank">Department of Radiology, ADMIRE group</a></div>
-                                <p>
-                                  Erasmus Medical Center, Rotterdam, The Netherlands. 20 June 2019.
-                                </p>
-                            </div>
-                            <!-- end of talk -->
-                            <br>
-
-                            <!-- talk -->
-                            <div>
-                                <h3><a href="http://www.doi.org/10.5281/zenodo.2667535" target="_blank">Data Management for Transparent Research</a></h3>
-                                <div class="subtitle"><a href="https://www.bigcat.unimaas.nl/science-cafe/" target="_blank">Department of Bioinformatics, BiGCaT Science Café</a></div>
-                                <p>
-                                  Maastricht University, Maastricht, The Netherlands. 2 May 2019.
-                                </p>
-                            </div>
-                            <!-- end of talk -->
-                            <br>
-
-                            <!-- talk -->
-                            <div>
-                                <h3><a href="http://www.doi.org/10.5281/zenodo.2667527" target="_blank">Hands-on Transparent Research: Open-Access Data, Reproducible Workflows, and Interactive Publications</a></h3>
-                                <div class="subtitle"><a href="https://www.bigcat.unimaas.nl/science-cafe/" target="_blank">Department of Bioinformatics, BiGCaT Science Café</a></div>
-                                <p>
-                                  Maastricht University, Maastricht, The Netherlands. 18 April 2019.
-                                </p>
-                            </div>
-                            <!-- end of talk -->
-                            <br>
-
-                            <!-- talk -->
-                            <div>
-                                <h3><a href="_attachments/2015_Erlangen_Bologna.pdf" target="_blank">Bone quality by QCT and HR-pQCT: Translation to multicenter clinical research</a></h3>
-                                <div class="subtitle"><a href="http://www.ior.it/en/dipartimento-rizzoli-rit/lab-bic/bic-laboratory" target="_blank">Bioengineering and Computing Laboratory </a></div>
-                                <p>
-                                  Istituti Ortopedici Rizzoli, Bologna, Italy. 22 December 2015.
-                                </p>
-                            </div>
-                            <!-- end of talk -->
-                            <br>
-
-                            <!-- talk -->
-                            <div>
-                                <h3><a href="_attachments/2015_Erlangen_Bologna.pdf" target="_blank">Bone quality by QCT and HR-pQCT: Translation to multicenter clinical research</a></h3>
-                                <div class="subtitle"><a href="https://lme.tf.fau.de/" target="_blank">Pattern Recognition Lab</a></div>
-                                <p>
-                                  University of Erlangen-Nuremberg, Erlangen, Germany. 16 December 16 2015.
-                                </p>
-                            </div>
-                            <!-- end of talk -->
-                            <br>
-
-                            <!-- talk -->
-                            <div>
-                                <h3>Intra- and Inter-Operator Variability in HR-pQCT Scan Positioning</h3>
-                                <div class="subtitle">2nd XtremeCT User Meeting. ASBMR 2014.</a></div>
-                                <p>
-                                  Houston, TX, USA. 16 September 2014.
-                                </p>
-
-
-                            </div>
-                            <!-- end of talk -->
-                        </div>
-                    </div><!-- end row -->
-                </div><!-- end container -->
-            </div>
-        </section>
-        <!-- end Resume section -->
-
-
-
-
-
-
-
-        <!-- Publications: Resume section -->
-        <section id="publications">
-            <div class="resume-background">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-9 col-sm-offset-3 resumeWrapper">
-
-                            <!-- Section Title -->
-                            <div class="section-title">
-                                <h2>Publications</h2>
-                            </div><!-- end Section Title -->
-
-                            <!--
-                            <h3>PREPRINTS</h3>
-                            <ul>
-                              <li><u>Bonaretti S.</u>, Willighagen E.
-                              <br>
-                              <b>Two Real Use Cases of FAIR Maturity Indicators in the Life Sciences.</b> <br>
-                              bioRxiv 10.1101/739334. 2019.
-                              <br>
-                              <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-                              <a href="https://doi.org/10.1101/739334" target="_blank"><i class="fas fa-book-open" style="font-size:21px;"></i></a>
-                              <a href="https://github.com/sbonaretti/FAIR_metrics/tree/master/paper" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
-                              <a href="_attachments/bib/2019_Bonaretti_FAIRmetrics.bib" target="_blank">.bib</i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-                              </ul>
-                              <br><br>
-                            -->
-
-
-
-                            <h3>JOURNAL PAPERS</h3>
-
-                            <ul>
-                              <li><u>Bonaretti S.</u>, Gold G., Beaupre G.
-                              <br>
-                              <b><i>pyKNEEr</i>: An Image Analysis Workflow for Open and Reproducible Research on Femoral Knee Cartilage.</b> <br>
-                              PLoS ONE 15(1): e0226501. 2020.
-                              <br>
-                              <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-                              <a href="https://doi.org/10.1371/journal.pone.0226501" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="https://github.com/sbonaretti/pyKNEEr/tree/master/publication" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
-                              <a href="https://zenodo.org/record/2530609" target="_blank"><i class="fa fa-database" style="font-size:18px;"></i></a>
-                              <a href="_attachments/bib/2019_Bonaretti_pyNEEr.bib" target="_blank">.bib</i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>Pang E.Q., Coughlan M., <u>Bonaretti S.</u>, Finlay A., Bellino M., Bishop J., Gardner M.J. <br>
-                              <b>Assessment of Open Syndesmosis Reduction Techniques in an Unbroken Fibula Model: Visualization vs. Palpation.</b> <br>
-                              J. Orthop Trauma. 2018. <br>
-                              <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-                              <a href="https://www.ncbi.nlm.nih.gov/pubmed/30169400" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                              <a href="_attachments/bib/2018_Pang_syndemosis.bib" target="_blank">.bib</i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>Maier J., Black M., <u>Bonaretti S.</u>, Bier B., Eskofier B., Choi J.H. Levenston M., Gold G., Fahrig R., Maier A. <br>
-                              <b>Comparison of Different Approaches for Measuring Tibial Cartilage Thickness.</b> <br>
-                              J Integr Bioinform. 14(2),1-10. 2017. <br>
-                              <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-                              <a href="https://www.ncbi.nlm.nih.gov/pubmed/28753537" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                              <a href="https://www-degruyter-com.stanford.idm.oclc.org/downloadpdf/j/jib.2017.14.issue-2/jib-2017-0015/jib-2017-0015.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/bib/2017_Maier_cartThickness.bib" target="_blank">.bib</i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Vilayphiou N., Chan C. M., Yu A.,  Nishiyama K., Liu D., Boutroy S., Ghasem-Zadeh A., Boyd S.K., Chapurlat R., McKay H., Shane E., Bouxsein M.L., Black D.M., Majumdar S., Orwoll E.S., Lang T.F., Khosla S., Burghardt A.J. <br>
-                              <b>Operator Variability In Scan Positioning is a Major Component of HR-pQCT Precision Error and is Reduced by Standardized Training.</b> <br>
-                              Osteoporos Int. 28(1), 245-257. 2017. <br>
-                              <a href="https://www.ncbi.nlm.nih.gov/pubmed/27475931" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                              <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5568957/pdf/nihms879188.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/bib/2017_Bonaretti_refLine.bib" target="_blank">.bib</i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Majumdar S., Lang T.F., Khosla S., Burghardt A.J. <br>
-                              <b>The Comparability of HR-pQCT Bone Quality Measures Is Improved by Scanning Anatomically Standardized Regions.</b> <br>
-                              Osteoporos Int. 28(7), 2115-2128. 2017. <br>
-                              <a href="https://www.ncbi.nlm.nih.gov/pubmed/28391447" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                              <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5526099/pdf/nihms879274.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/bib/2017_Bonaretti_standardAnatomy.bib" target="_blank">.bib</i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>Carballido-Gamio J., <u>Bonaretti S.</u>, Kazakia G.J., Khosla S., Majumdar S., Lang T.F., Burghardt A.J. <br>
-                              <b>Statistical Parametric Mapping of HR-pQCT Images: A Tool for Population-Based Comparison of Micro-Scale Bone Features.</b> <br>
-                              Ann Biomed Eng. 45(5), 949-962. 2017. <br>
-                              <a href="https://www.ncbi.nlm.nih.gov/pubmed/27830488" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                              <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5811200/pdf/nihms851684.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/bib/2017_CarballidoGamio_paramHRpQCT.bib" target="_blank">.bib</i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>Ghasem-Zadeh A., Burghardt A.J., Wang X.F., Iuliano S., <u>Bonaretti S.</u>, Bui Q.M., Zebaze R., Seeman E. <br>
-                              <b>Quantifying Sex, Race and Age Specific Differences in Bone Microstructure Requires Measurement of Anatomically Equivalent Regions.</b> <br>
-                              Bone. 101, 206-213. 2017. <br>
-                              <a href="https://www.ncbi.nlm.nih.gov/pubmed/28502884" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                              <a href="_attachments/bib/2017_GhasemZadeh_equivalentRegions.bib" target="_blank">.bib</i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>Carballido-Gamio J., <u>Bonaretti S.</u>, Saeed I., Harnish R., Recker R., Burghardt A.J., Keyak J.H., Harris T., Khosla S., Lang T.F. <br>
-                              <b>Automatic Multi-Parametric Quantification of the Proximal Femur with QCT.</b> <br>
-                              Quant Imaging Med Surg. 5(4), 552-68. 2015. <br>
-                              <a href="https://www.ncbi.nlm.nih.gov/pubmed/26435919" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                              <a href="http://qims.amegroups.com/article/view/7176/8471" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/bib/2017_CarballidoGamio_multiParamFemur.bib" target="_blank">.bib</i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Carpenter D.R., Saeed I., Burghardt A.J., Yu L., Bruesewitz M., Khosla S., Lang T. <br>
-                              <b>Novel Anthropomorphic Hip Phantom Corrects Systemic Interscanner Differences in Proximal Femoral vBMD.</b> <br>
-                              Phys Med Biol. 59(24), 7819-34. 2014. <br>
-                              <a href="https://www.ncbi.nlm.nih.gov/pubmed/25419618" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                              <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4442068/pdf/nihms646129.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/bib/2014_Bonaretti_antroPhantom.bib" target="_blank">.bib</i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>Carpenter R.D., Saeed I., <u>Bonaretti S.</u>, Schreck C., Keyak J.H., Streeper T., Harris T.B., Lang T.F. <br>
-                              <b>Inter-scanner Differences in In Vivo QCT Measurements of the Density and Strength of the Proximal Femur Remain After Correction with Anthropomorphic Standardization Phantoms.</b> <br>
-                              Med Eng and Phys. 36(10), 1225-32. 2014. <br>
-                              <a href="https://www.ncbi.nlm.nih.gov/pubmed/25001172" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                              <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4589175/pdf/nihms608850.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/bib/2014_Carpenter_crossCalib.bib" target="_blank">.bib</i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Seiler C., Boichon C., Reyes M., Büchler P. <br>
-                              <b>Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations.</b> <br>
-                              Medical Engineering and Physics. Dec;36(12):1626-35. 2014. <br>
-                              <a href="https://www.ncbi.nlm.nih.gov/pubmed/25271191" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                              <a href="http://www.mauricioreyes.me/Publications/BonarettiMEP2014.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/bib/2014_Bonaretti_SAMforFEM.bib" target="_blank">.bib</i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>Kistler M., <u>Bonaretti S.</u>, Pfahrer M., Niklaus R., Büchler P. <br>
-                              <b>The Virtual Skeleton Database: An Open Access Repository for Biomedical Research and Collaboration.</b> <br>
-                              J Med Internet Res. 12;15(11):e245. 2013. <br>
-                              <a href="https://www.ncbi.nlm.nih.gov/pubmed/24220210" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                              <a href="https://asset.jmir.pub/assets/398863992801a947307649a758056d86.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/bib/2013_Kistler_VSD.bib" target="_blank">.bib</i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>Schulz A.P., Reimers N., Wipf F., Vallotton M., <u>Bonaretti S.</u>, Kozic N., Reyes M., Kienast B.J. <br>
-                              <b>Evidence Based Development of a Novel Lateral Fibula Plate (VariAx Fibula) Using a Real CT Bone Data Based Optimization Process During Device Development.</b> <br>
-                              Open Orthop J. 6,1-7. <br>
-                              <a href="https://www.ncbi.nlm.nih.gov/pubmed/22312417" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                              <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3271305/pdf/TOORTHJ-6-1.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/bib/2012_Schulz_fibulaPlate.bib" target="_blank">.bib</i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-                            </ul>
-
-                            <br><br>
-                            <h3>PEER REVIEWED CONFERENCE PAPERS</h3>
-                            <ul>
-                              <li>Kistler M., <u>Bonaretti S.</u>, Boichon C., Rochette M., Büchler P. <br>
-                              <b>Methods to Accelerate Finite Element Calculations in Biomechanics Using a Statistical Database of Pre-Calculated Simulations.</b> <br>
-                              10th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering. 11-14 April 2012. Berlin, Germany.<br>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Seiler C., Boichon C., Büchler P., Reyes M. <br>
-                              <b>Mesh-based vs. Image-based Statistical Model of Appearance of the Human Femur: a Preliminary Comparison Study for the Creation of Finite Element Meshes.</b> <br>
-                              Mesh Processing in Medical Image Analysis - MICCAI 2011 workshop. 18 September 2011. Toronto, Canada.<br>
-                              <a href="_attachments/2011_MiccaiWS_paper.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/2011_MiccaiWS_presentation.pdf" target="_blank"><i class="fa fa-desktop" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Helgason B., Seiler C., Reyes M., Büchler P. <br>
-                              <b>Combined Statistical Model of Bone Shape and Mechanical Properties for Bone Modelling.</b> <br>
-                              9th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering. 24-27 February 2010. Valencia, Spain.<br>
-                              <a href="_attachments/2010_CBMME_paper.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/2010_CMBBE_presentation.pdf" target="_blank"><i class="fa fa-desktop" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Reimers N., Reyes M., Nikitsin A., Joensson A., Nolte L., Büchler P. <br>
-                              <b>Assessment of Peri-Articular Implant Fitting Based on Statistical Finite Element Modelling.</b> <br>
-                              Computational Biomechanics for Medicine III – MICCAI 2008 workshop. 10 September 2008. New York, NY, USA.<br>
-                              <a href="_attachments/2008_MiccaiWS_paper.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/2008_MiccaiWS_presentation.pdf" target="_blank"><i class="fa fa-desktop" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-                            </ul>
-
-                            <br><br>
-                            <h3>CONFERENCE ABSTRACTS</h3>
-                            <ul>
-                              <li><u>Bonaretti S.</u>, Gold G., Beaupre G. <br>
-                              <b>pyKNEEr: Reproducible Workflow for Automatic Segmentation and Analyis of Femoral Knee Cartilage.</b> <br>
-                              QMSKI 2019. 24 February - 1 March 2019. Chateau Lake Louise, Canada. <br>
-                              <a href="https://github.com/sbonaretti/2019_QMSKI/blob/master/Abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="https://github.com/sbonaretti/2019_QMSKI" target="_blank"><i class="fa fa-github" style="font-size:21px;"></i></a>
-                              <a href="_attachments/2019_QMSKI_pykneer.pdf" target="_blank"><i class="fa fa-desktop" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>Maier J., Aichert A., Mehringer W., Bier B., Eskofier B., Levenston M., Gold G., Fahrig R., <u>Bonaretti S.</u>, Maier A. <br>
-                              <b>Feasibility of Motion Compensation using Intertial Measurements in C-arm CT.</b> <br>
-                              IEEE Nuclear Science Symposium & Medical Imaging Conference. 10-17 November 2018. Sydney, Australia. <br>
-                              <a href="https://ieeexplore.ieee.org/document/8824463" target="_blank"><i class="fas fa-book" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>Bier B., Berger M., Maier J., Unberath M., Hsieh S., <u>Bonaretti S.</u>, Fahrig R., Levenston M., Gold G., Maier A. <br>
-                              <b>Object Removal in Gradient Domain of Cone-Beam CT Projections.</b> <br>
-                              IEEE Nuclear Science Symposium & Medical Imaging Conference. 29 October – 5 November 2016. Strasbourg, France. <br>
-                              <a href="https://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2016/Bier16-ORI.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Carballido-Gamio J., Keyak J., Saeed I., Yu L., Bruesewitz M., Burghardt A.J., Khosla S., Lang T.F. <br>
-                              <b>QCT Intra- and Inter-Scanner Precision In Estimation Of Proximal Femur Strength.</b> <br>
-                              ASBMR 2015. 9-12 October 2015. Seattle, WA, USA. <br>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Vilayphiou N., Yu A., Holets M., Nishiyama K., Liu D., Boutroy S., Ghasem-Zadeh A., Boyd S.K., Chapurlat R., McKay H., Shane E., Bouxsein M.L., Lang T.F., Khosla S., Cawton P.M., Black D.M., Majumdar S., Orwoll E.S., Burghardt A.J. <br>
-                              <b>Standardized Training For HR-pQCT Scan Positioning Reduces Inter-Operator Precision Errors: The MrOS Multicenter Study Experience.</b> <br>
-                              ASBMR 2015. 9-12 October 2015. Seattle, WA, USA. <br>
-                              <a href="_attachments/2015_ASBMR_1_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/2015_ASBMR_1_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Holets M., Derrico N.P., Nishiyama K., Liu D., Boutroy S., Raymond D., Ghasem-Zadeh A., Seeman E., Boyd S.K., Chapurlat R., McKay H., Shane E., Bouxsein M.L., Lang T.F., Khosla S., Burghardt A.J. <br>
-                              <b>The Role of Intra- and Inter-Operator Variability in HR-pQCT Precision.</b> <br>
-                              IBDW 2014. 13-17 October 2014. Hong Kong. <br>
-                              <a href="_attachments/2014_IBDW_1_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/2014_IBDW_1_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>Carballido-Gamio J., <u>Bonaretti S.</u>, Kazakia G.J., Khosla S., Lang T.F., Burghardt A.J. <br>
-                              <b>Population-Based Local Multi-Parametric Comparisons of HR-pQCT Studies.</b> <br>
-                              IBDW 2014. 13-17 October 2014. Hong Kong. <br>
-                              <a href="_attachments/2014_IBDW_2_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Holets M., Derrico N.P., Nishiyama K., Liu D., Boutroy S., Chapurlat R., McKay H., Shane E., Bouxsein M., Lang T., Khosla S., Burghardt A.J. <br>
-                              <b>Intra- and Inter-Operator Variability in HR-pQCT Scan Positioning.</b> <br>
-                              ASBMR 2014. 12-15 September 2014. Houston, TX, USA. <br>
-                              <a href="_attachments/2014_ASBMR_2_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/2014_ASBMR_2_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Holets M., Saeed I., McCready L., Lang T., Khosla S., Burghardt A.J. <br>
-                              <b>Comparability of HR-pQCT Bone Quality Measures Improved by Scanning Anatomically Standardized Regions.</b> <br>
-                              ASBMR 2014. 12-15 September 2014. Houston, TX, USA. <br>
-                              <a href="_attachments/2014_ASBMR_1_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/2014_ASBMR_1_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>Carballido-Gamio J., <u>Bonaretti S.</u>, Saeed I., Harnish R., Recker R., Burghardt A.J., Keyak J., Harris T., Khosla S., Lang T. <br>
-                              <b>Automatic QCT Quantification of the Proximal Femur: vBMD, Bone Volume, Cortical Bone Thickness and Finite Element Modeling.</b> <br>
-                              ASBMR 2014. 12-15 September 2014. Houston, TX, USA. <br>
-                              <a href="_attachments/2014_ASBMR_3_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>Ghasem-Zadeh A., Burghardt A.J., Zendeli A., <u>Bonaretti S.</u>, Bjornerem A., Wang X.-F., Kazakia G., Zebaze R., Seeman E. <br>
-                              <b>Assessing Age, Sex and Racial Differences in Cortical Porosity Requires Adjustment for Site-Specific Variation in the Selected Region of Interest.</b> <br>
-                              ASBMR 2014. 12-15 September 2014. Houston, TX, USA. <br>
-                              <a href="_attachments/2014_ASBMR_4_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Saeed I., Burghardt A.J., Yu L., Bruesewitz M., Khosla S., Lang T.F. <br>
-                              <b> Effect of Body Size on the Quantification of Bone Mineral Density From QCT Images Using a Novel Anthropomorphic Hip Phantom.</b> <br>
-                              ASBMR 2013. 4-7 October 2013. Baltimore, MD, USA. <br>
-                              <a href="_attachments/2013_ASBMR_1_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/2013_ASBMR_1_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>Carballido-Gamio J., <u>Bonaretti S.</u>, Holets M., Saeed I., McCready L., Majumdar S., Lang T.F., Khosla S., Burghardt A.J. <br>
-                              <b>Automated Scan Prescription For HR-pQCT: A Multi-Atlas Prospective Registration Approach.</b> <br>
-                              ASBMR 2013. 4-7 October 2013. Baltimore, MD, USA. <br>
-                              <a href="_attachments/2013_ASBMR_2_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>Kistler M., <u>Bonaretti S.</u>, de Oliveira M.E., Boichon C., Rochette M., Büchler P. <br>
-                              <b>Statistical Model of Appearance to Accelerate Finite Element Calculations in Biomechanics.</b> <br>
-                              19th Congress of the European Society of Biomechanics. 1-4 July 2012. Lisbon, Portugal.<br>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>de Oliveira M.E., Kistler M., Hellmuth, R.A.D, Gerber N., Schumann S., <u>Bonaretti S.</u>, Büchler P. <br>
-                              <b>A Consistent Method for Modelling Subject Specific Muscoloskeletal Systems.</b> <br>
-                              19th Congress of the European Society of Biomechanics. 1-4 July 2012. Lisbon, Portugal.<br>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>Sigurðardóttir B., <u>Bonaretti S.</u>, Örlygsson G., Sigurjónsson Ó.E., Ferguson S.J., Helgason B. <br>
-                              <b>Are Iso-Elastic Femoral Stems Beneficial for Secondary Implant Stability in Cementless THA? The Annual Meeting of the Swiss Society for Biomedical Engineering.</b> <br>
-                              22 August 2011. Bern, Switzerland.<br>
-                              <a href="_attachments/2011_SSBE.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Seiler C., Rochette M., Helgason B., Reyes M., Büchler P. <br>
-                              <b>Statistical Finite Element Model for the Virtual Skeleton Database.</b> <br>
-                              NCCR Co-Me Scientific Advisory Board Meeting. 9-10 February 2011. Interlaken, Switzerland.<br>
-                              <a href="_attachments/2011_CoMeSAB_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Helgason B., Seiler C., Reyes M., Büchler P. <br>
-                              <b>Statistical Finite Element Modeling: Application to Orthopaedic Implant Design.</b> <br>
-                              Graduate School for Cellular and Biomedical Sciences Symposium. 28 January 2011. Bern, Switzerland.<br>
-                              <a href="_attachments/2011_GCB_presentation.pdf" target="_blank"><i class="fa fa-desktop" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Seiler C., Reyes M., Büchler P. <br>
-                              <b>Statistical Finite Element Modeling for the Virtual Skeleton Database. NCCR Co-Me Research Networking Workshop.</b> <br>
-                              26-27 August 2010. Zürich, Switzerland.<br>
-                              <a href="_attachments/2010_CoMe_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Helgason B., Seiler C., Reyes M., Büchler P. <br>
-                              <b>A Statistical Shape Model of Bone Anatomical Variability for Finite Element Assessment of Bone Mechanics.</b> <br>
-                              17th Congress of the European Society of Biomechanics. 5-8 July 2010. Edinburgh, Scotland.<br>
-                              <a href="_attachments/2010_ESB_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/2010_ESB_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Seiler C., Helgason B., Reyes M., Büchler P. <br>
-                              <b>Statistical Finite Element Modeling for the Virtual Skeleton Database.</b> <br>
-                              NCCR Co-Me Scientific Advisory Board Meeting. 19-20 February 2010. Winterthur, Switzerland.<br>
-                              <a href="_attachments/2010_CoMeSAB_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Helgason B., Seiler C., Reyes M., Büchler P. <br>
-                              <b>A Statistical Shape Model of Bone Anatomical Variability for Finite Element Assessment of Bone Mechanics.</b> <br>
-                              Graduate School for Cellular and Biomedical Sciences Symposium. 27 January 2010. Bern, Switzerland.<br>
-                              <a href="_attachments/2010_GCB_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Seiler C.,  Büchler P., Reyes M. <br>
-                              <b>Computing Average Anatomical Images: Comparison between Thin-Plate Spline and Log-Euclidean Approach.</b> <br>
-                              The Annual Meeting of the Swiss Society for Biomedical Engineering. 27-28 August 2009. Bern, Switzerland.<br>
-                              <a href="_attachments/2009_SSBE_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/2009_SSBE_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Büchler P., Reimers N., Schmidt W., Seiler C., Weber S., Reyes M. <br>
-                              <b>Automatic Bone Density Evaluation from CT Images.</b> <br>
-                              Computer Assisted Orthopaedic Surgery. 17-20 June 2009. Boston, MA.<br>
-                              <a href="_attachments/2009_CAOS_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/2009_CAOS_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>  <u>Bonaretti S.</u>, Nikitsin A., Reimers N., Joensson A., Rueckert D., Reyes M., Büchler P. <br>
-                              <b>Shape and Biomechanical Model for Population-Specific Design of Anatomical Peri-Articular Implants.</b> <br>
-                              CTI Medtech Event. 2 September 2008. Bern, Switzerland.<br>
-                              <a href="_attachments/2008_CTI_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/2008_CTI_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Reimers N., Rueckert D., Reyes M., Gonzales-Ballester M.A., Büchler P. <br>
-                              <b>Statistical Finite Element Analysis for Bone Modelling.</b> <br>
-                              16th Congress of the European Society of Biomechanics. 6-9 July 2008. Lucerne, Switzerland.<br>
-                              <a href="_attachments/2008_ESB_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <a href="_attachments/2008_ESB_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u>, Büchler P., Rueckert D., Reyes M., Gonzáles M.A., <br>
-                              <b>Statistical Finite Element Model for Bone and Implant Modeling.</b> <br>
-                              NCCR Co-Me Scientific Advisory Board Meeting. 14 February 2008. Neuchatel, Switzerland.<br>
-                              <a href="_attachments/2008_CoMeSAB_poster.pdf" target="_blank"><i class="fas fa-tasks" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>Burdo S., Razza S., <u>Bonaretti S.</u>, Bani Alunno M., Tognola G. <br>
-                              <b>Cortical Responses and Age at Cochlear Implant.</b> <br>
-                              Objective Measures in Cochlear and Brainstem Implants – V International Symposium and Related Additional Events. 9-12 May 2007. Varese, Italy. <br>
-                              <a href="_attachments/2007_0MCI_3_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>Razza S., <u>Bonaretti S.</u>, Burdo S. <br>
-                              <b>Acoustical Signal Check: Microphone Integrity Evaluation Through a Common Hearing Aid Analyzer.</b> <br>
-                              Objective Measures in Cochlear and Brainstem Implants – V International Symposium and Related Additional Events. 9-12 May 2007. Varese, Italy. <br>
-                              <a href="_attachments/2007_0MCI_1_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li>Brega F., Razza S., <u>Bonaretti S.</u>, Burdo S. <br>
-                              <b>Morphological and Functional Correlation Using X-Rays and SOE.</b> <br>
-                              Objective Measures in Cochlear and Brainstem Implants – V International Symposium and Related Additional Events. 9-12 May 2007. Varese, Italy. <br>
-                              <a href="_attachments/2007_0MCI_2_abstract.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-                            </ul>
-
-                            <br><br>
-                            <h3>THESES</h3>
-                            <ul>
-                              <li><u>Bonaretti S.</u>  <br>
-                              <b>Statistical Models of Shape and Density for Population-based Analysis of Bone Mechanics with Applications to Fracture Risk Assessment and Implant Design.</b>  <br>
-                              Ph.D. thesis. 2011. <br>
-                              <a href="_attachments/2011_PhDThesis.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i></a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u> <br>
-                              <b>Metodiche di Analisy 2D e 3D per la Segmentazione e la Ricostruzione di Immagini TAC: Validazione e Applicazione in Chirurgia Maxillo-Facciale.</b> <br>
-                              M.Sc. thesis. 2005. <br>
-                              <a href="_attachments/2005_MScThesis.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i> Italian version</a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-
-                              <li><u>Bonaretti S.</u> <br>
-                              <b>Dossier Finale</b> <br>
-                              B.Sc. thesis. 2003. <br>
-                              <a href="_attachments/2003_BScThesis.pdf" target="_blank"><i class="fas fa-book-open" style="font-size:18px;"></i> Italian version</a>
-                              <p style="margin-bottom:0.3cm;"></p></li>
-                            </ul>
-                        </div>
-                    </div><!-- end row -->
-                </div><!-- end container -->
-            </div>
-        </section>
-        <!-- end Resume section -->
-
-
-        <!-- Footer -->
-        <footer class="copyright">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-9 col-sm-offset-3 footer-background">
-                        <div class="row">
-                        <div class="col-sm-6 text-left">
-                            Copyright &copy; 2016 Osahan. All Right Reserved
-                        </div>
-                        <div class="col-sm-6 text-right">
-                            Designed With <i class="fa fa-heart-o red"></i> By <a target="_blank" href="https://www.facebook.com/iamgurdeeposahan">Osahan Studio</a>
-                        </div>
-                    </div>
-
-                    </div>
-                </div><!-- end row -->
-            </div><!-- end container -->
-        </footer>
-        <!-- end Footer -->
-
-        <!-- Need to repeat to make it work - do not know why - Serena -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
-
-        <!-- ##### JAVASCRIPTS ##### -->
-        <!-- jQuery Library -->
-        <script src="js/jquery.min.js"></script>
-        <!-- Bootstrap js -->
-        <script src="js/bootstrap.min.js"></script>
-        <!-- Retina Graphics -->
-        <script src="js/retina.min.js"></script>
-        <!-- Magnific popup -->
-        <script src="js/jquery.magnific-popup.min.js"></script>
-        <!-- Theme Plugins -->
-        <script src="js/theme-plugins.min.js"></script>
-        <!-- Custom Scripts -->
-        <script src="js/scripts.min.js"></script>
-    </body>
+          </div>
+
+          <div class="social-links">
+            <a href="https://github.com/sbonaretti" target="_blank" class="facebook"><i class="fa fa-github"></i></a>
+            <a href="https://www.youtube.com/channel/UCk1sLroo_tgJqcn-0EVh6zQ" target="_blank" class="google-plus"><i class="fa fa-youtube"></i></a>
+            <a href="https://twitter.com/SerenaBonaretti" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.linkedin.com/in/serena-bonaretti-1bb9b239/" target="_blank" class="linkedin"><i class="fa fa-linkedin"></i></a>
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section><!-- #contact -->
+
+  <!--==========================
+    Footer
+  ============================-->
+  <footer class="footer">
+
+    <div class="copyrights">
+      <div class="container">
+        <p>&copy; Copyrights eStartup. All rights reserved.</p>
+        <div class="credits">
+
+          <!--
+            All the links in the footer should remain intact.
+            You can delete the links only if you purchased the pro version.
+            Licensing information: https://bootstrapmade.com/license/
+            Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eStartup
+          -->
+
+          Designed by <a href="https://bootstrapmade.com/" target="_blank">BootstrapMade</a>.
+
+          Icons made by
+          <a href="https://www.flaticon.com/authors/freepik" target="_blank" title="Freepik">Freepik</a>, <!-- knee.svg + email.svg-->
+          <a href="https://www.flaticon.com/authors/dinosoftlabs" target="_blank" title="DinosoftLabs">DinosoftLabs</a>, <!-- coding.svg-->
+          <a href="https://www.flaticon.com/authors/prettycons" target="_blank" title="prettycons">prettycons</a>, and <!-- browser.svg -->
+          <a href="https://www.flaticon.com/authors/eucalyp" target="_blank" title="Eucalyp">Eucalyp</a>, <!-- meeting.svg-->
+          from <a href="https://www.flaticon.com/" target="_blank" title="Flaticon">www.flaticon.com</a>
+
+        </div>
+      </div>
+    </div>
+
+  </footer>
+
+
+
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/modal-video/js/modal-video.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+
+</body>
 </html>
